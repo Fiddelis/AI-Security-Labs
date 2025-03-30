@@ -1,0 +1,6 @@
+process,winlog,@timestamp
+"{'parent': {'name': 'powershell.exe', 'command_line': '""C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"" '}, 'name': 'whoami.exe', 'command_line': '""C:\\Windows\\system32\\whoami.exe""'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:12:27.743Z
+"{'parent': {'name': 'powershell.exe', 'command_line': '""C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"" '}, 'name': 'cmd.exe', 'command_line': '""cmd.exe"" /c net user guest /active:yes'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:12:28.068Z
+"{'parent': {'name': 'cmd.exe', 'command_line': '""cmd.exe"" /c net user guest /active:yes'}, 'name': 'net.exe', 'command_line': 'net  user guest /active:yes'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:12:28.130Z
+"{'parent': {'name': 'net.exe', 'command_line': 'net  user guest /active:yes'}, 'name': 'net1.exe', 'command_line': 'C:\\Windows\\system32\\net1  user guest /active:yes'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:12:28.149Z
+"{'parent': {'name': 'powershell.exe', 'command_line': '""C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"" '}, 'name': 'whoami.exe', 'command_line': '""C:\\Windows\\system32\\whoami.exe""'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:12:32.830Z

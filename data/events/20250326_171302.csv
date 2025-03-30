@@ -1,0 +1,29 @@
+process,winlog,@timestamp,file
+"{'parent': {'name': 'powershell.exe', 'command_line': '""C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"" '}, 'name': 'whoami.exe', 'command_line': '""C:\\Windows\\system32\\whoami.exe""'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:13:02.316Z,
+"{'parent': {'name': 'powershell.exe', 'command_line': '""C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"" '}, 'name': 'powershell.exe', 'command_line': '""powershell.exe"" & {Start-Process -FilePath \\""""C:\\Program Files (x86)\\AutoIt3\\AutoIt3.exe\\"""" -ArgumentList \\""""C:\\AtomicRedTeam\\atomics\\T1059\\src\\calc.au3\\""""}'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:13:02.681Z,
+"{'parent': {'name': 'AutoIt3.exe', 'command_line': '""C:\\Program Files (x86)\\AutoIt3\\AutoIt3.exe"" C:\\AtomicRedTeam\\atomics\\T1059\\src\\calc.au3 '}, 'name': 'powershell.exe', 'command_line': 'powershell -Command ""Start-Process -FilePath \'calc.exe\' -WindowStyle Hidden""'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:13:05.208Z,
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:06.256Z,{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25010.11-0\\X86\\MpClient.dll'}
+{'name': 'powershell.exe'},{'task': 'File created (rule: FileCreate)'},2025-03-26T17:13:06.477Z,{'path': 'C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\PowerShell\\StartupProfileData-NonInteractive'}
+{'name': 'calc.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:06.506Z,{'path': 'C:\\Windows\\SysWOW64\\urlmon.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:02.733Z,{'path': 'C:\\Windows\\System32\\mscoree.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:02.745Z,{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscoreei.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:02.745Z,{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:02.745Z,{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\3597805b7d7dce423abb491985dd28e8\\mscorlib.ni.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:02.774Z,{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Manaa57fc8cc#\\8861280fa67d054530cfebe1fa86e29f\\System.Management.Automation.ni.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:02.822Z,{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25010.11-0\\MpOAV.dll'}
+{'name': 'powershell.exe'},{'task': 'File created (rule: FileCreate)'},2025-03-26T17:13:02.822Z,{'path': 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\__PSScriptPolicyTest_dsw4tchz.cyl.ps1'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:02.850Z,{'path': 'C:\\Windows\\System32\\urlmon.dll'}
+{'name': 'powershell.exe'},{'task': 'File Delete archived (rule: FileDelete)'},2025-03-26T17:13:02.850Z,{'path': 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\__PSScriptPolicyTest_dsw4tchz.cyl.ps1'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:02.904Z,{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clrjit.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:02.937Z,{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25010.11-0\\MpClient.dll'}
+{'name': 'powershell.exe'},{'task': 'File created (rule: FileCreate)'},2025-03-26T17:13:03.098Z,{'path': 'C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\PowerShell\\StartupProfileData-NonInteractive'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:05.350Z,{'path': 'C:\\Windows\\SysWOW64\\mscoree.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:05.350Z,{'path': 'C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:05.415Z,{'path': 'C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:05.535Z,{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\75b341f10c9579cbe1059d18f6f3b27b\\mscorlib.ni.dll'}
+{'name': 'powershell.exe'},{'task': 'File created (rule: FileCreate)'},2025-03-26T17:13:05.847Z,{'path': 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\__PSScriptPolicyTest_qagyveng.lql.ps1'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:05.816Z,{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_32\\System.Manaa57fc8cc#\\ff5b632993ab7bcab870373ff2eaaf2e\\System.Management.Automation.ni.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:05.877Z,{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25010.11-0\\X86\\MpOAV.dll'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:05.943Z,{'path': 'C:\\Windows\\SysWOW64\\urlmon.dll'}
+{'name': 'powershell.exe'},{'task': 'File Delete archived (rule: FileDelete)'},2025-03-26T17:13:06.017Z,{'path': 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\__PSScriptPolicyTest_qagyveng.lql.ps1'}
+{'name': 'powershell.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:06.168Z,{'path': 'C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll'}

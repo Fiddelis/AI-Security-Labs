@@ -1,0 +1,8 @@
+process,winlog,@timestamp,file
+"{'parent': {'name': 'explorer.exe', 'command_line': 'C:\\Windows\\Explorer.EXE'}, 'name': 'notepad.exe', 'command_line': '""C:\\Windows\\system32\\NOTEPAD.EXE"" C:\\Users\\Administrator\\Downloads\\123123\\automa.txt'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-28T20:04:49.894Z,
+{'name': 'Explorer.EXE'},{'task': 'File created (rule: FileCreate)'},2025-03-28T20:04:33.944Z,{'path': 'C:\\Users\\Administrator\\Downloads\\New folder'}
+{'name': 'Explorer.EXE'},{'task': 'File Delete archived (rule: FileDelete)'},2025-03-28T20:04:36.086Z,{'path': 'C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Downloads.lnk'}
+{'name': 'Explorer.EXE'},{'task': 'File Delete archived (rule: FileDelete)'},2025-03-28T20:04:36.159Z,{'path': 'C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Downloads.lnk'}
+{'name': 'Explorer.EXE'},{'task': 'File created (rule: FileCreate)'},2025-03-28T20:04:41.587Z,{'path': 'C:\\Users\\Administrator\\Downloads\\123123\\New Text Document.txt'}
+{'name': 'Explorer.EXE'},{'task': 'File Delete archived (rule: FileDelete)'},2025-03-28T20:04:47.737Z,{'path': 'C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\123123.lnk'}
+{'name': 'notepad.exe'},{'task': 'Image loaded (rule: ImageLoad)'},2025-03-28T20:04:49.986Z,{'path': 'C:\\Windows\\System32\\urlmon.dll'}
