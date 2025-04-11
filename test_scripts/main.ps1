@@ -1,6 +1,17 @@
-Invoke-AtomicRunner -listOfAtomics .\LabAtomic.csv -GetPrereqs
-Start-Sleep -Seconds 5
-Invoke-AtomicRunner -listOfAtomics .\LabAtomic.csv -PauseBetweenAtomics 5
-Start-Sleep -Seconds 5
-Invoke-AtomicRunner -listOfAtomics .\LabAtomic.csv -Cleanup
+$numFile = 5
 
+for ($i = 1; $i -le $numFile; $i++) {
+    $file = ".\scenario_$i.csv"
+    
+    if (Test-Path $file) {
+        Invoke-AtomicRunner -listOfAtomics $file -GetPrereqs
+        Start-Sleep -Seconds 10
+        
+        Invoke-AtomicRunner -listOfAtomics $file -PauseBetweenAtomics 20
+        Start-Sleep -Seconds 10
+
+        Invoke-AtomicRunner -listOfAtomics $file -Cleanup
+    } else {
+        Write-Warning "File not found."
+    }
+}
