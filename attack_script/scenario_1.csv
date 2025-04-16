@@ -1,0 +1,8 @@
+"Order","Technique","TestName","auto_generated_guid","supported_platforms","TimeoutSeconds","InputArgs","AtomicsFolder","enabled","notes"
+,"T1053.005","Scheduled task Local","42f53695-ad4a-4546-abb6-7d837f644a71","windows","120","","Public","True",""
+,"T1547.001","Reg Key Run","e55be3fd-3521-4610-9d1a-e210e42dcf05","windows","120","","Public","True",""
+,"T1070.006","Windows - Modify file last modified timestamp with PowerShell","f8f6634d-93e1-4238-8510-f8a90a20dcf2","windows","120","","Public","True",""
+,"T1552.004","Private Keys","520ce462-7ca7-441e-b5a5-f8347f632696","windows","120","","Public","True",""
+,"T1087.001","Enumerate all accounts via PowerShell (Local)","ae4b6361-b5f8-46cb-a3f9-9cf108ccfe7b","windows","120","","Public","True",""
+,"T1074.001","Zip a Folder with PowerShell for Staging in Temp","a57fbe4b-3440-452a-88a7-943531ac872a","windows","120","","Public","True",""
+,"T1105","Windows - PowerShell Download","42dc4460-9aa6-45d3-b1a6-3955d34e1fe8","windows","120","","Public","True",""
