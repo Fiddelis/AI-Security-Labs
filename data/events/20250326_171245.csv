@@ -1,4 +1,0 @@
-process,winlog,@timestamp,file
-"{'parent': {'name': 'powershell.exe', 'command_line': '""C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"" '}, 'name': 'whoami.exe', 'command_line': '""C:\\Windows\\system32\\whoami.exe""'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:12:45.271Z,
-"{'parent': {'name': 'powershell.exe', 'command_line': '""C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"" '}, 'name': 'cmd.exe', 'command_line': '""cmd.exe"" /c echo T1486 - Purelocker Ransom Note > %%USERPROFILE%%\\Desktop\\YOUR_FILES.txt'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-26T17:12:45.697Z,
-{'name': 'cmd.exe'},{'task': 'File created (rule: FileCreate)'},2025-03-26T17:12:45.753Z,{'path': 'C:\\Users\\Administrator\\Desktop\\YOUR_FILES.txt'}

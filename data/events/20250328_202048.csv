@@ -1,2 +1,0 @@
-process,winlog,@timestamp
-"{'parent': {'name': 'powershell.exe', 'command_line': '""C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"" '}, 'name': 'Robocopy.exe', 'command_line': '""C:\\Windows\\system32\\Robocopy.exe"" C:\\Users\\Administrator\\Documents\\teste\\relatorio C:\\Users\\Administrator\\Documents\\ /E'}",{'task': 'Process Create (rule: ProcessCreate)'},2025-03-28T20:20:49.859Z
