@@ -53,7 +53,7 @@ class Main:
                 files = glob.glob(f"{path}/*.jsonl")
                 for file in files:
                     result = self.__inference(client, file)
-                    output_path = f"{client.mode}/{client.model.replace(':', '_')}/{re.sub(r'events[\\/]', '', path)}"
+                    output_path = f"{client.mode}/{client.model.replace(':', '_')}/{path}"
                     os.makedirs(output_path, exist_ok=True)
 
                     file_name = os.path.basename(file)
