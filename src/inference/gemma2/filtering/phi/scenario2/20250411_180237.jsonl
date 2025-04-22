@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario2\/20250411_180237.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": { \"INTERESTING\" },\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe accessing processes and setting registry values raise suspicion.\"\n}\n\n```\n\n\nLet me know if you have any other log entries for analysis!"}
