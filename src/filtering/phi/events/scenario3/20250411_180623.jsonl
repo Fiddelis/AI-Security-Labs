@@ -1,0 +1,12 @@
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Dns query (rule: DnsQuery)'}","file":"None"}
+{"process":"{'name': 'powershell.exe', 'command_line': '\"powershell.exe\" & {Get-Date}'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\316b66ba76e2cd70541b5fe8161637c9\\mscorlib.ni.dll'}"}
+{"process":"{'command_line': 'powershell.exe & {Get-Date}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Get-Date}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Get-Date}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Get-Date}'}","winlog":"{'task': 'Engine Lifecycle'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\AppData\\Local\\Microsoft\\Windows\\PowerShell\\StartupProfileData-NonInteractive'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\estrutura_logico.txt'}"}

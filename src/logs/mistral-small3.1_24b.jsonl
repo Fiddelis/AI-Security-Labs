@@ -1,0 +1,2 @@
+{"model": "mistral-small3.1:24b", "mode": "inference", "file": "", "duration_seconds": 2.853238, "timestamp": "2025-04-22 09:52:54"}
+{"model": "mistral-small3.1:24b", "mode": "inference", "file": "filtering/gemma2_2b/scenario1/20250411_175806.jsonl", "duration_seconds": 3.789956, "timestamp": "2025-04-22 09:52:58"}

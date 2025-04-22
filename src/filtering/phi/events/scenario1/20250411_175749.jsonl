@@ -1,0 +1,39 @@
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","process":"{'name': 'powershell.exe'}","file":"None"}
+{"winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","process":"{'name': 'whoami.exe', 'command_line': '\"C:\\Windows\\system32\\whoami.exe\"'}","file":"None"}
+{"winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","process":"{'name': 'powershell.exe'}","file":"None"}
+{"winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","process":"{'name': 'cmd.exe', 'command_line': '\"cmd.exe\" \/c SCHTASKS \/Create \/SC ONCE \/TN spawn \/TR C:\\windows\\system32\\cmd.exe \/ST 20:10'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'cmd.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'svchost.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'svchost.exe'}","file":"None"}
+{"winlog":"{'task': 'File created (rule: FileCreate)'}","process":"{'name': 'svchost.exe'}","file":"{'path': 'C:\\Windows\\System32\\Tasks\\spawn'}"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","process":"{'name': 'WmiPrvSE.exe', 'command_line': 'C:\\Windows\\system32\\wbem\\wmiprvse.exe -secured -Embedding'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'Calculator.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'powershell.exe'}","file":"None"}
+{"winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","process":"{'name': 'powershell.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}
+{"winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","process":"{'name': 'chrome.exe'}","file":"{'path': 'C:\\Windows\\System32\\amsi.dll'}"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}
+{"winlog":"{'task': 'Logon'}","process":"{'name': 'services.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}
+{"winlog":"{'task': 'File created (rule: FileCreate)'}","process":"{'name': 'winlogbeat.exe'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new'}"}

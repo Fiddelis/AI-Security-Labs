@@ -71,7 +71,7 @@ class OllamaClient:
             "model": self.model,
             "mode": self.mode,
             "file": file_name,
-            "duration_seconds": round(elapsed_time, 2),
+            "duration_seconds": round(elapsed_time, 6),
             "timestamp": time.strftime('%Y-%m-%d %H:%M:%S')
         }
         with open(f"logs/{self.model.replace(':', '_')}.jsonl", "a") as f:

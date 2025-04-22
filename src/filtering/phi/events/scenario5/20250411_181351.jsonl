@@ -1,0 +1,24 @@
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'whoami.exe', 'command_line': '\"C:\\Windows\\system32\\whoami.exe\"'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\mscoree.dll'}"}
+{"process":"{'command_line': 'powershell.exe & {Add-Type -AssemblyName System.Windows.Forms\\n$screen = [Windows.Forms.SystemInformation]::VirtualScreen\\n$bitmap = New-Object Drawing.Bitmap $screen.Width, $screen.Height\\n$graphic = [Drawing.Graphics]::FromImage($bitmap)\\n$graphic.CopyFromScreen($screen.Left, $screen.Top, 0, 0, $bitmap.Size)\\n$bitmap.Save(\"$env:TEMP\\tarefa_comum.png\")}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Add-Type -AssemblyName System.Windows.Forms\\n$screen = [Windows.Forms.SystemInformation]::VirtualScreen\\n$bitmap = New-Object Drawing.Bitmap $screen.Width, $screen.Height\\n$graphic = [Drawing.Graphics]::FromImage($bitmap)\\n$graphic.CopyFromScreen($screen.Left, $screen.Top, 0, 0, $bitmap.Size)\\n$bitmap.Save(\"$env:TEMP\\elemento_padrao.png\")}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Add-Type -AssemblyName System.Windows.Forms\\n$screen = [Windows.Forms.SystemInformation]::VirtualScreen\\n$bitmap = New-Object Drawing.Bitmap $screen.Width, $screen.Height\\n$graphic = [Drawing.Graphics]::FromImage($bitmap)\\n$graphic.CopyFromScreen($screen.Left, $screen.Top, 0, 0, $bitmap.Size)\\n$bitmap.Save(\"$env:TEMP\\elemento_ativo.png\")}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Add-Type -AssemblyName System.Windows.Forms\\n$screen = [Windows.Forms.SystemInformation]::VirtualScreen\\n$bitmap = New-Object Drawing.Bitmap $screen.Width, $screen.Height\\n$graphic = [Drawing.Graphics]::FromImage($bitmap)\\n$graphic.CopyFromScreen($screen.Left, $screen.Top, 0, 0, $bitmap.Size)\\n$bitmap.Save(\"$env:TEMP\\unidade_auxiliar.png\")}'}","winlog":"{'task': 'Engine Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Add-Type -AssemblyName System.Windows.Forms\\n$screen = [Windows.Forms.SystemInformation]::VirtualScreen\\n$bitmap = New-Object Drawing.Bitmap $screen.Width, $screen.Height\\n$graphic = [Drawing.Graphics]::FromImage($bitmap)\\n$graphic.CopyFromScreen($screen.Left, $screen.Top, 0, 0, $bitmap.Size)\\n$bitmap.Save(\"$env:TEMP\\objeto_principal.png\")}'}","winlog":"{'task': 'Pipeline Execution Details'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpClient.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'conhost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'winlogbeat.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new'}"}
+{"process":"{'name': 'ApplicationFrameHost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll'}"}

@@ -1,0 +1,1 @@
+{"file":"events\/scenario3\/20250411_180602.jsonl","analysis":"{ \"CLASSIFICATION\": {\"INTERESTING\"}, \"JUSTIFICATION\": \"Repeated registry modifications by `powershell.exe`, `cmd.exe`, and `chrome.exe`  along with file creation raise suspicion.\"} \n\n\nLet me know if you'd like a deeper dive into any specific event!"}
