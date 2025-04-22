@@ -89,7 +89,16 @@ def main():
     else:
         models = args.model
 
-    app = Main(models=models, mode=args.mode, path=args.path)
+    path_output = []
+    for path in args.path:
+        for i in range(1, 7):
+            path_output.append(f'{path}/scenario{i}')
+
+    logging.info(f"Model: {models}")
+    logging.info(f"Mode: {args.mode}")
+    logging.info(f"Paths: {path_output}")
+
+    app = Main(models=models, mode=args.mode, path=path_output)
     app.run()
 
 if __name__ == "__main__":
