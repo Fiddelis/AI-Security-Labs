@@ -5,29 +5,42 @@ import json
 import time
 
 class OllamaClient:
-    """
-    A client wrapper for interacting with the Ollama API using predefined system prompts
-    for cybersecurity-related log analysis.
-    """
-
     def __init__(self, model: str, mode: str):
-        """
-        Initialize the Ollama client.
-
-        Args:
-            mode  (str): The mode of operation, either "filtering" or "inference".
-            model (str): The name of the Ollama model to use (e.g., "llama3").
-
-        Raises:
-            ValueError: If the provided mode is not valid.
-        """
         self.model = model
         self.message = []
-        modes = {"filtering": [{"role": "system", "content": ("You are a cybersecurity expert. Please review each log individually and return ONLY the classification as 'IMPORTANT' or 'NOT IMPORTANT'. Sensitive data is obfuscated.")}],
-                 "inference": [{"role": "system", "content": ("You are a cybersecurity expert with extensive experience in analyzing system logs to identify malicious behavior. Your task is to analyze the complete set of presented log events and classify them as 'Interesting' or 'Not Interesting'. DO NOT use excessive PowerShell usage as justification.")},
-                               {"role": "system", "content": ("Return ONLY in the format {CLASSIFICATION:{'INTERESTING'|'NOT INTERESTING'}, JUSTIFICATION:{justification}}.")}
-                            ]
-                    }
+        modes = {
+            "filtering": [
+                {
+                "role": "system",
+                "content": (
+                    "You are a cybersecurity expert specializing in Sysmon log analysis. "
+                    "For each individual event (provided as JSON), return only the classification "
+                    "'IMPORTANT' or 'NOT IMPORTANT'. "
+                    "Do not include any additional text or formatting. "
+                )
+                }
+            ],
+            "inference": [
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a cybersecurity expert with extensive experience in analyzing system logs "
+                        "to detect malicious behavior. Review the entire batch of events (JSONL file) "
+                        "and determine which are relevant."
+                    )
+                },
+                {
+                    "role": "system",
+                    "content": (
+                        "Return strictly in the following JSON format, with no extra text:\n"
+                        "{\n"
+                        "  \"CLASSIFICATION\": \"INTERESTING\" | \"NOT INTERESTING\",\n"
+                        "  \"JUSTIFICATION\": \"<concise explanation of your reasoning>\"\n"
+                        "}"
+                    )
+                }
+            ]
+        }
         if mode not in modes:
             raise ValueError(f"Invalid mode: {mode}. ('filtering' or 'inference').")
         
@@ -35,15 +48,6 @@ class OllamaClient:
         self.mode_message = modes[mode]
     
     def send_message(self, logs: pd.DataFrame | dict | str, file_name: str):
-        """
-        Sends logs to the Ollama model for analysis based on the selected mode.
-
-        Args:
-            logs (str): A string containing log data to be analyzed.
-
-        Returns:
-            str: The classification and/or justification returned by the model.
-        """
         self.message.extend(self.mode_message)
 
         if isinstance(logs, pd.DataFrame):
@@ -76,7 +80,6 @@ class OllamaClient:
         }
         with open(f"logs/{self.model.replace(':', '_')}.jsonl", "a") as f:
             f.write(json.dumps(data) + "\n")
-
         return analysis
 
     def __reset_message(self):
