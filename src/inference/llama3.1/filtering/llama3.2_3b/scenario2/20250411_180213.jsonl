@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/scenario2\/20250411_180213.jsonl","analysis":"{\n    \"CLASSIFICATION\": {\"INTERESTING\"},\n    \"JUSTIFICATION\": \"cmd.exe has a suspicious command_line parameter that attempts to copy the sethc.exe file and make it executable, which is indicative of a potential privilege escalation attack.\"\n}"}

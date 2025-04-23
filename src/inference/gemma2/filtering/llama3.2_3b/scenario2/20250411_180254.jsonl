@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/scenario2\/20250411_180254.jsonl","analysis":"```json\n{\n\"CLASSIFICATION\": {\n\"INTERESTING\"\n},\n\"JUSTIFICATION\": \"Multiple registry writes by chrome.exe within a short timeframe could indicate malicious configuration changes or attempts to modify system settings.\"\n}\n``` \n\n\nLet me know if you have more logs to analyze!"}
