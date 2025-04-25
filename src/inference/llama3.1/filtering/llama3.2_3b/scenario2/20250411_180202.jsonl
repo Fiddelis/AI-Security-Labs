@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/scenario2\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes are observed, including commands attempting to create new processes and accessing registry values, which could indicate malicious activity.\"\n}"}

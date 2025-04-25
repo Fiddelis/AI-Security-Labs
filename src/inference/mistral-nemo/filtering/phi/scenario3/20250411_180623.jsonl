@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario3\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell events with image loads on legitimate DLLs, followed by a file delete event on a temporary script. This sequence could indicate suspicious activity such as loading malicious libraries or cleaning up traces.\"\n}"}

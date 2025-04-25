@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/scenario2\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes were executed, including cmd.exe and powershell.exe with suspicious command lines. Additionally, several file operations were performed on system files and user directories.\"\n}"}

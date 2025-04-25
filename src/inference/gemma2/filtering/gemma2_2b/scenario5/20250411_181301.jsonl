@@ -1,0 +1,2 @@
+{"file":"filtering\/gemma2_2b\/scenario5\/20250411_181301.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"Normal system activity with common processes and actions. No unusual patterns or indicators of compromise detected.\"\n}\n```"}
+{"file":"filtering\/gemma2_2b\/scenario5\/20250411_181301.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive registry writes by Chrome are not necessarily malicious, this could be normal browser behavior.\"\n}\n```"}

@@ -1,0 +1,40 @@
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Network connection detected (rule: NetworkConnect)'}","file":"None"}
+{"process":"{'name': 'powershell.exe', 'command_line': '\"powershell.exe\" & {net user\\nget-localuser\\nget-localgroupmember -group Users\\ncmdkey.exe \/list\\nls C:\/Users\\nget-childitem C:\\Users\\ndir C:\\Users\\nget-localgroup\\nnet localgroup}'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\316b66ba76e2cd70541b5fe8161637c9\\mscorlib.ni.dll'}"}
+{"process":"{'command_line': 'powershell.exe & {net user\\nget-localuser\\nget-localgroupmember -group Users\\ncmdkey.exe \/list\\nls C:\/Users\\nget-childitem C:\\Users\\ndir C:\\Users\\nget-localgroup\\nnet localgroup}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {net user\\nget-localuser\\nget-localgroupmember -group Users\\ncmdkey.exe \/list\\nls C:\/Users\\nget-childitem C:\\Users\\ndir C:\\Users\\nget-localgroup\\nnet localgroup}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {net user\\nget-localuser\\nget-localgroupmember -group Users\\ncmdkey.exe \/list\\nls C:\/Users\\nget-childitem C:\\Users\\ndir C:\\Users\\nget-localgroup\\nnet localgroup}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {net user\\nget-localuser\\nget-localgroupmember -group Users\\ncmdkey.exe \/list\\nls C:\/Users\\nget-childitem C:\\Users\\ndir C:\\Users\\nget-localgroup\\nnet localgroup}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {net user\\nget-localuser\\nget-localgroupmember -group Users\\ncmdkey.exe \/list\\nls C:\/Users\\nget-childitem C:\\Users\\ndir C:\\Users\\nget-localgroup\\nnet localgroup}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'name': 'winlogbeat.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new'}"}
+{"process":"{'command_line': 'powershell.exe & {net user\\nget-localuser\\nget-localgroupmember -group Users\\ncmdkey.exe \/list\\nls C:\/Users\\nget-childitem C:\\Users\\ndir C:\\Users\\nget-localgroup\\nnet localgroup}'}","winlog":"{'task': 'Engine Lifecycle'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpClient.dll'}"}
+{"process":"{'name': 'net.exe', 'command_line': '\"C:\\Windows\\system32\\net.exe\" user'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'net1.exe', 'command_line': 'C:\\Windows\\system32\\net1 user'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'SDXHelper.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\combase.dll'}"}
+{"process":"{'name': 'updater.exe'}","winlog":"{'task': 'Pipe Created (rule: PipeEvent)'}","file":"None"}
+{"process":"{'name': 'updater.exe', 'command_line': '\"C:\\Program Files (x86)\\Google\\GoogleUpdater\\136.0.7079.0\\updater.exe\" --crash-handler --system \"--database=C:\\Program Files (x86)\\Google\\GoogleUpdater\\136.0.7079.0\\Crashpad\" --url=https:\/\/clients2.google.com\/cr\/report --annotation=prod=Update4 --annotation=ver=136.0.7079.0 \"--attachment=C:\\Program Files (x86)\\Google\\GoogleUpdater\\updater.log\" --initial-client-data=0x284,0x288,0x28c,0x258,0x290,0xb1d810,0xb1d81c,0xb1d828'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'cmdkey.exe', 'command_line': '\"C:\\Windows\\system32\\cmdkey.exe\" \/list'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {net user\\nget-localuser\\nget-localgroupmember -group Users\\ncmdkey.exe \/list\\nls C:\/Users\\nget-childitem C:\\Users\\ndir C:\\Users\\nget-localgroup\\nnet localgroup}'}","winlog":"{'task': 'Engine Lifecycle'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Security Group Management'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Security Group Management'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Security Group Management'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Security Group Management'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Security Group Management'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Security Group Management'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Security Group Management'}","file":"None"}
+{"process":"{'name': 'net.exe', 'command_line': '\"C:\\Windows\\system32\\net.exe\" localgroup'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\AppData\\Local\\Microsoft\\Windows\\PowerShell\\StartupProfileData-NonInteractive'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'SDXHelper.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'SDXHelper.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\modulo_base.txt'}"}
+{"process":"{'name': 'backgroundTaskHost.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'winlogbeat.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new'}"}

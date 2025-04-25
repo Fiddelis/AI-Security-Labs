@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario2\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple events involving the process 'powershell.exe', including a file creation event. Additionally, there are several events related to 'chrome.exe' and registry modifications.\"\n}"}

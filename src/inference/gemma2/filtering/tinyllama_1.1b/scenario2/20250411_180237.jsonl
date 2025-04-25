@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The events show common system activities like file creation, process access and registry modifications. There are no signs of unusual behavior or suspicious commands.\" \n}"}

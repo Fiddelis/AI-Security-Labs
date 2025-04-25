@@ -1,0 +1,17 @@
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Dns query (rule: DnsQuery)'}","file":"None"}
+{"process":"{'name': 'cmd.exe', 'command_line': '\"cmd.exe\" \/c systeminfo & reg query HKLM\\SYSTEM\\CurrentControlSet\\Services\\Disk\\Enum'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'systeminfo.exe', 'command_line': 'systeminfo  '}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'systeminfo.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll'}"}
+{"process":"{'name': 'calc.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'Calculator.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'WmiPrvSE.exe', 'command_line': 'C:\\Windows\\system32\\wbem\\wmiprvse.exe -secured -Embedding'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Windows\\System32\\winevt\\Logs\\Parameters.evtx'}"}
+{"process":"{'name': 'reg.exe', 'command_line': 'reg  query HKLM\\SYSTEM\\CurrentControlSet\\Services\\Disk\\Enum'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'cmd.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'winlogbeat.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\amsi.dll'}"}
+{"process":"{'name': 'winlogbeat.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\objeto_padrao.txt'}"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario3\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious powershell.exe processes loading images from .NET directories, one of which attempts to delete a file in the Temp directory. This indicates potential malicious activity.\"\n}"}

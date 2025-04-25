@@ -1,0 +1,1 @@
+{"file":"events\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and unusual commands like 'whoami.exe' executed. Also, repeated access to the same .winlogbeat.yml.new file.\"\n}"}

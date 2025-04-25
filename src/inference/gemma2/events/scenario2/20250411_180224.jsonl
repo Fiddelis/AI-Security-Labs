@@ -1,0 +1,1 @@
+{"file":"events\/scenario2\/20250411_180224.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch shows multiple instances of scheduled tasks being created and executed, along with PowerShell executions. This combination raises suspicion for potentially malicious activity.\"\n}\n```"}

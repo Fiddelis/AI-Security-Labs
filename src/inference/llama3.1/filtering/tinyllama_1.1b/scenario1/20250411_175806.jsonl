@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious registry modifications and potential malware activity detected, including attempts to add executable files to the Windows Run key.\"\n}"}

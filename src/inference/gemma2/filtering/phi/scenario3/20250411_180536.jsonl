@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario3\/20250411_180536.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes exhibit suspicious activity including registry modifications, process creation and network connections. PowerShell and cmd.exe are used in potentially malicious command lines.\"\n}\n```"}

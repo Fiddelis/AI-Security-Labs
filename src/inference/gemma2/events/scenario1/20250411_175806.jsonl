@@ -1,0 +1,1 @@
+{"file":"events\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and cmd.exe are used to create\/modify registry entries, potentially indicating malicious activity. File creation events involving winlogbeat further raise suspicion.\"\n}"}

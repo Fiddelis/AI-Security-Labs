@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/scenario3\/20250411_180623.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated use of powershell.exe with various actions like file deletion, registry modifications, and loading .NET assemblies suggests potential malicious activity.\"\n}\n```"}

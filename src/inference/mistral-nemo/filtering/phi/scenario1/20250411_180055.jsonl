@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario1\/20250411_180055.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell processes were involved in compressing files and accessing specific paths, which is indicative of potential malicious activity.\"\n}"}

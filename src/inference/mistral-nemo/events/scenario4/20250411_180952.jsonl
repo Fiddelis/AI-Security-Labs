@@ -1,0 +1,1 @@
+{"file":"events\/scenario4\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive network connections from Chrome, followed by PowerShell and command-line executions with privileged user creations and group additions. Additionally, unusual file creation events involving winlogbeat.exe.\"\n}"}

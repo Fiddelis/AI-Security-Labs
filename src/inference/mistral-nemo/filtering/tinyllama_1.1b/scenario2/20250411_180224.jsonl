@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/scenario2\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe executing scripts and scheduled tasks, along with creation of new files by winlogbeat.exe and chrome.exe modifying registry values.\"\n}"}

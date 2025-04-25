@@ -1,0 +1,1 @@
+{"file":"events\/scenario2\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and cmd.exe being used, along with registry modifications, file creation, and interaction with Windows Defender components raise suspicion.\"\n}"}

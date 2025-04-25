@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/scenario2\/20250411_180213.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and system events, including possible privilege escalation attempts via sethc.exe modification and wuauserv restart. Additionally, several files were created with unusual paths.\"\n}"}

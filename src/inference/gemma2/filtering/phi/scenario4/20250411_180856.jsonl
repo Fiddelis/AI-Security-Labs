@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario4\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are interacting with the registry and loading unusual files (urlmon.dll), coupled with command execution through cmd.exe, suggests potential malicious activity.\"\n}"}

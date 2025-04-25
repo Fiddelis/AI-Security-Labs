@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario1\/20250411_175855.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are accessing and modifying system registry values, including cmd.exe, powershell.exe, svchost.exe, chrome.exe, which could indicate malicious configuration changes or persistence attempts.\" \n}\n```"}

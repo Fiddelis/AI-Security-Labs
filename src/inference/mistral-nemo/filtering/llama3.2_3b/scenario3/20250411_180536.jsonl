@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/scenario3\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive registry events by services.exe and powershell.exe, along with process creation of sc.exe with suspicious command lines, indicate potential malicious activity.\"\n}"}

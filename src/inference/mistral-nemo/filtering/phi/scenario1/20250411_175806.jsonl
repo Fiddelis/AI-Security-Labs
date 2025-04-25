@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and cmd.exe execution followed by registry modifications suggest potential suspicious activity.\"\n}"}

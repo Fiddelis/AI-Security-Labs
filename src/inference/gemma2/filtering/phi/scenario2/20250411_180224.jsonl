@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario2\/20250411_180224.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch includes a scheduled task creation event using `schtasks` with a suspicious PowerShell command and file path (`c:\\\\objeto_logico_NonExistingScript.ps1`). This warrants further investigation.\"\n}\n```"}

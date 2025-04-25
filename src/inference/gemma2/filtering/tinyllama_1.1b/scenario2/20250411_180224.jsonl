@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/scenario2\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple scheduled tasks are created with PowerShell scripts executing from non-standard paths, suggesting potential malicious activity.\" \n}"}

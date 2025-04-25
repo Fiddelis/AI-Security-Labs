@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario3\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive registry events by chrome.exe followed by an image loaded event suggest potential unwanted behavior.\"\n}"}

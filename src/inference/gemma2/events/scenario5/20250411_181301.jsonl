@@ -1,0 +1,2 @@
+{"file":"events\/scenario5\/20250411_181301.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The events show common system activity and standard applications like Chrome, PowerShell, and Tasklist. No suspicious patterns or unusual combinations are detected.\"\n}\n```"}
+{"file":"events\/scenario5\/20250411_181301.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated registry value sets by chrome.exe are common and not necessarily malicious.\"\n}\n```"}

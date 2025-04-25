@@ -1,0 +1,11 @@
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Network connection detected (rule: NetworkConnect)'}","file":"None"}
+{"process":"{'name': 'cmd.exe', 'command_line': '\"cmd.exe\" \/c wmic process call create notepad.exe'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'cmd.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'WMIC.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'notepad.exe', 'command_line': 'notepad.exe'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"None","winlog":"{'task': 'None'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Special Logon'}","file":"None"}
+{"process":"{'name': 'calc.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Special Logon'}","file":"None"}

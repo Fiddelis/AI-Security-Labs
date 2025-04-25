@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario3\/20250411_180502.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Powershell is used to execute multiple scripts from various locations, files are created and registry values are modified. This combination suggests potential malicious activity.\"\n}\n```"}

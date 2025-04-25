@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario3\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch is interesting due to the repeated access to registry values by multiple processes, including powershell.exe and chrome.exe. This suggests potential malicious activity.\"\n}"}

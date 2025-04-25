@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario2\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"While some processes like PowerShell and WMIC are involved, the events collectively describe common system activities. No unusual patterns or combinations suggest malicious intent.\" \n}"}

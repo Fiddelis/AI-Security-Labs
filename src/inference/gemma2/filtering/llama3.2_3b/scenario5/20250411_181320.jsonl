@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/scenario5\/20250411_181320.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell executing suspicious commands (like listing files recursively) combined with registry modifications and loading of external DLLs raises concern.\" \n}\n```"}

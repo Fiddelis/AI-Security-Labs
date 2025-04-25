@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario4\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious activity, including a command-line execution of wmic to create a new process (notepad.exe), multiple attempts to set registry values, and the loading of urlmon.dll.\"\n}"}

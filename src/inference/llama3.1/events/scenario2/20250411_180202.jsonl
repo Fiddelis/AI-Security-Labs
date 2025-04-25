@@ -1,0 +1,1 @@
+{"file":"events\/scenario2\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious activity, including repeated access to PowerShell and registry value changes. Additionally, a file was created in the Downloads directory, which may indicate an attempt to hide malicious files.\"\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario1\/20250411_180055.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated use of powershell.exe to compress files, combined with registry modifications and process access events, suggests potential malicious activity.\"\n}\n```"}

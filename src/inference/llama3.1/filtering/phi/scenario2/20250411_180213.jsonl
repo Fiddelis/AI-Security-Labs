@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario2\/20250411_180213.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious activity, including a series of registry value sets by chrome.exe and multiple process accesses by powershell.exe. Additionally, there is an attempt to modify the system32 directory.\"\n}"}

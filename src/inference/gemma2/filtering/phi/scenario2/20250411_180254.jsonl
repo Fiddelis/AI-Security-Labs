@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario2\/20250411_180254.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The logs show common system activities and applications like svchost, cmd, chrome, and powershell. There are no unusual patterns or indicators of malicious behavior.\"\n}\n```"}

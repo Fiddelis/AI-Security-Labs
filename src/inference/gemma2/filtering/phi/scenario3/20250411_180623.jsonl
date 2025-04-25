@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario3\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Powershell execution with file deletion and registry modifications observed, suggesting potential malicious activity.\"\n}"}

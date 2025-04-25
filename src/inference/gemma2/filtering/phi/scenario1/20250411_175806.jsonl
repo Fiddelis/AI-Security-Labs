@@ -1,0 +1,1 @@
+{"file":"filtering\/phi\/scenario1\/20250411_175806.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Execution of reg.exe with a command to add an entry to the Run registry key, potentially indicating persistence.\" \n}\n```"}

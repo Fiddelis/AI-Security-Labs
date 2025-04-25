@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma2_2b\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (powershell, cmd, reg) are interacting with the registry to create or modify run keys, potentially indicating malware installation or persistence.\"\n}"}
