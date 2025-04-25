@@ -25,7 +25,6 @@ class Main:
             content = "\n".join(event)
             alerts = pd.read_json(StringIO(content), orient='records', lines=True)
             if self.mode == "filtering":
-                logging.info(f"Filtering chunk with {client.model}")
                 for _, row in alerts.iterrows():
                     alert = row.to_dict()
                     response = client.send_message(alert, file_name)
@@ -33,7 +32,6 @@ class Main:
                         results.append(alert)
 
             elif self.mode == "inference":
-                logging.info(f"Inference chunk with {client.model}")
                 response = client.send_message(alerts, file_name)
                 results.append({"file": file_name, "analysis": response})
             else:
@@ -82,8 +80,8 @@ class ArgumentParserBuilder:
 def main():
     LoggerSetup().setup()
     models_dict = {
-        "models_filtering": ["llama3.2:3b", "tinyllama:1.1b", "gemma2:2b"],
-        "models_inference": ["mistral-small3.1:24b", "deepseek-r1:14b", "phi4:14b"]
+        "models_filtering": ["llama3.2:3b", "tinyllama:1.1b", "gemma2:2b", "phi"],
+        "models_inference": ["gemma2", "deepseek-r1:14b", "phi4:14b", "mistral-nemo", "llama3.1"]
     }
 
     parser = ArgumentParserBuilder.build()
