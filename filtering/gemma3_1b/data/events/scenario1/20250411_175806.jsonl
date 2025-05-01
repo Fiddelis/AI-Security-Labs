@@ -1,0 +1,1 @@
+{"process":"{'name': 'reg.exe', 'command_line': 'REG  ADD \"HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\" \/V \"entrada_principal\" \/t REG_SZ \/F \/D \"C:\\Path\\pacote_temporario.exe\"'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}

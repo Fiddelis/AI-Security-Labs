@@ -27,8 +27,8 @@ class Main:
             if self.mode == "filtering":
                 for _, row in alerts.iterrows():
                     alert = row.to_dict()
-                    response = client.send_message(alert, file_name)
-                    if "NOT IMPORTANT" not in response:
+                    response = client.send_message(alert, file_name).lower()
+                    if "not important" not in response:
                         results.append(alert)
 
             elif self.mode == "inference":

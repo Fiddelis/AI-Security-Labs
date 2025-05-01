@@ -50,7 +50,7 @@ class OllamaClient:
         self.mode = mode
         self.mode_message = modes[mode]
     
-    def send_message(self, logs: pd.DataFrame | dict | str, file_name: str):
+    def send_message(self, logs: pd.DataFrame | dict | str, file_name: str) -> str:
         self.message.extend(self.mode_message)
 
         if isinstance(logs, pd.DataFrame):

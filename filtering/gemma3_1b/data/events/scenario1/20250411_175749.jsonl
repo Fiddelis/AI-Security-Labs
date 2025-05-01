@@ -1,0 +1,2 @@
+{"winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","process":"{'name': 'cmd.exe', 'command_line': '\"cmd.exe\" \/c SCHTASKS \/Create \/SC ONCE \/TN spawn \/TR C:\\windows\\system32\\cmd.exe \/ST 20:10'}","file":"None"}
+{"winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","process":"{'name': 'schtasks.exe', 'command_line': 'SCHTASKS  \/Create \/SC ONCE \/TN spawn \/TR C:\\windows\\system32\\cmd.exe \/ST 20:10'}","file":"None"}
