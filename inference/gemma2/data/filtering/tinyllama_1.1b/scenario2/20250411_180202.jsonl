@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/tinyllama_1.1b\/scenario2\/20250411_180202.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Several suspicious activities detected, including use of PowerShell and WMIC, registry modifications, file creation, and process spawning.\" \n}\n```"}

@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected in the batch including repeated process creation of powershell.exe, whoami.exe, and cmd.exe. Additionally, reg.exe was used to add a registry value indicating persistence mechanism.\"\n}"}

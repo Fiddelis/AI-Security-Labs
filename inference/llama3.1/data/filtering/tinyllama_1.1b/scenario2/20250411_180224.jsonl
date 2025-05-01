@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/tinyllama_1.1b\/scenario2\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious processes (e.g. powershell.exe, schtasks.exe) and files being created or accessed in a short timeframe suggest potential malicious activity.\"\n}"}

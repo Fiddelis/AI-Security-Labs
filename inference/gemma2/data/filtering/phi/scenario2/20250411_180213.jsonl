@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi\/scenario2\/20250411_180213.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"A suspicious command executed by cmd.exe attempting to modify and replace the system's 'sethc.exe' with a copy of 'cmd.exe', indicating potential privilege escalation or backdoor installation.\" \n}"}

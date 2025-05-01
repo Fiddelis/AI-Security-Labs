@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi4-mini\/scenario3\/20250411_180623.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell executions with file creation, deletion, and registry modifications, along with loading of various .NET and Defender DLLs raise suspicion.\"\n}\n```"}

@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi\/scenario2\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected, including Powershell execution and file creation, followed by multiple registry modifications from Chrome.\"\n}"}

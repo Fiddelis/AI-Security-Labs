@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi4-mini\/scenario4\/20250411_180856.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes exhibit suspicious activity: Registry modifications (powershell, cmd, wmic), process creation and access, and file creations associated with winlogbeat.\" \n}\n```"}

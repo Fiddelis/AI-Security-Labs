@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/gemma2_2b\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious processes and registry modifications, including powershell.exe accessing sensitive areas of the system, as well as unusual file creation events.\"\n}"}

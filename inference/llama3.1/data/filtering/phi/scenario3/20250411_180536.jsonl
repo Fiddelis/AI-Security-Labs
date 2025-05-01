@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi\/scenario3\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events detected, including frequent DNS queries and network connections from chrome.exe, registry modifications by powershell.exe and services.exe, and potential malware execution via cmd.exe.\"\n}"}

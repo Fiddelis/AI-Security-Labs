@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/tinyllama_1.1b\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple instances of suspicious registry value changes and process accesses, indicating potential malicious activity.\"\n}"}

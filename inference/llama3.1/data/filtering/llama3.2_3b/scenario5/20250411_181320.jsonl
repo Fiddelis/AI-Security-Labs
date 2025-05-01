@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/llama3.2_3b\/scenario5\/20250411_181320.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe are accessing registry values and loading DLLs from suspicious locations, indicating potential malicious activity.\"\n}"}

@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/gemma2_2b\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes (powershell.exe, cmd.exe, reg.exe) are creating registry values and files, which could indicate a potential malware or lateral movement attempt.\"\n}"}

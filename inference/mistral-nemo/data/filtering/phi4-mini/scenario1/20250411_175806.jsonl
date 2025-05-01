@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi4-mini\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and cmd.exe being used to modify registry values and create files, suggesting potential malware installation or execution attempts.\"\n}"}
