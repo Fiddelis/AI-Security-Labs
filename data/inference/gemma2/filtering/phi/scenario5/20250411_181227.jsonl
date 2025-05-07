@@ -1,2 +1,0 @@
-{"file":"filtering\/phi\/scenario5\/20250411_181227.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell creating scheduled tasks that execute 'calc.exe' at logon with elevated privileges are observed.\"\n}\n```"}
-{"file":"filtering\/phi\/scenario5\/20250411_181227.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated registry modifications by chrome.exe are common and likely benign.\"\n}\n```"}

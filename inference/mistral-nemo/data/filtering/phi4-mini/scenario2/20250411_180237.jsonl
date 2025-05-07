@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi4-mini\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and unusual processes like tasklist.exe and whoami.exe being created along with registry modifications and file creations suggest potential suspicious activity.\"\n}"}

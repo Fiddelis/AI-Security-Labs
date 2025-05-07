@@ -1,1 +1,0 @@
-{"file":"filtering\/phi\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creation and access events, including a potentially malicious registry modification by reg.exe, suggest a targeted attack.\"\n}"}

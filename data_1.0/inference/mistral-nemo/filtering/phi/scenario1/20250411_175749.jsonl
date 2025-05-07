@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi\/scenario1\/20250411_175749.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive 'Execute a Remote Command' tasks with no associated process or file, followed by suspicious activities like powershell and cmd execution without user context, and subsequent creation of a taskscheduled job.\"\n}"}

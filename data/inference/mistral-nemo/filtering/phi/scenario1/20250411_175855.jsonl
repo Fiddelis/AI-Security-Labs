@@ -1,1 +1,0 @@
-{"file":"filtering\/phi\/scenario1\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive network connection events from chrome.exe, along with powershell.exe process accesses and registry value sets, indicating potential command and control or data exfiltration activity.\"\n}"}

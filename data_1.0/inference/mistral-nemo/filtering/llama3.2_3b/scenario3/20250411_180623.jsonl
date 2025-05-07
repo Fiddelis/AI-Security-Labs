@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/llama3.2_3b\/scenario3\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell processes creating files, accessing registry and resources, suggesting possible malicious script execution.\"\n}"}

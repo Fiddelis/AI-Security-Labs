@@ -1,1 +1,0 @@
-{"file":"events\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events are observed, including registry modifications, process creations with potential malicious payloads, and file creations in user download directories.\"\n}"}

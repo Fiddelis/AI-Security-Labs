@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/gemma2_2b\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe being used to interact with the registry and create new files, suggesting potential script execution or malicious activity.\"\n}"}

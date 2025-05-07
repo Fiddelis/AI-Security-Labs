@@ -1,0 +1,2 @@
+{"file":"data\/filtering\/llama3.2_3b\/scenario3\/20250411_180502.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell launching scripts from unusual locations, along with file creation and deletion activities raise suspicion.\" \n}"}
+{"file":"data\/filtering\/llama3.2_3b\/scenario3\/20250411_180502.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"A single registry value set by chrome.exe is common and not indicative of malicious activity.\"\n}\n```"}

@@ -1,2 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/scenario5\/20250411_181227.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell executing scheduled tasks that execute calc.exe, coupled with file creation and registry modifications, suggest potential malicious activity.\" \n}\n```"}
-{"file":"filtering\/llama3.2_3b\/scenario5\/20250411_181227.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"Winlogbeat creating a configuration file is expected behavior.\"\n}\n```"}

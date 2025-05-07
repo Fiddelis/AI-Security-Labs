@@ -1,1 +1,0 @@
-{"file":"filtering\/phi\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious activities such as registry value set, process creation, and file creation are detected in the batch. The repeated creation of files with similar names suggests potential persistence or malware activity.\"\n}"}

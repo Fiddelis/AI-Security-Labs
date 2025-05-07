@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/scenario4\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (WMIC.exe, calc.exe, Calculator.exe) loading the same DLLs (urlmon.dll) and one process (winlogbeat.exe) creating a new file with suspicious path (.winlogbeat.yml.new), indicating potential malicious activity.\"\n}"}

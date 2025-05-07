@@ -1,0 +1,1 @@
+{"file":"data\/events\/scenario4\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive network connection events from chrome.exe followed by suspicious command-line execution of net.exe and net1.exe processes, suggesting potential privilege escalation or lateral movement.\"\n}"}

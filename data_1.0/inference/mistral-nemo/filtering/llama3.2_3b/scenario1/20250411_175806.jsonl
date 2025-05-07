@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/llama3.2_3b\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and reg.exe processes executing along with registry modifications, suggesting potential script-based or persistent malware activity.\"\n}"}

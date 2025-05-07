@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma2_2b\/scenario2\/20250411_180202.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Frequent use of PowerShell, registry manipulation, and file creation raises suspicion. Processes like WMIC loading suspicious DLLs and the creation of a temporary file by PowerShell warrant further investigation.\"\n}\n```"}

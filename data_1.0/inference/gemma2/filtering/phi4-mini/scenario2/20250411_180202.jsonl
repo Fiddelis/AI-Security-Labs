@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi4-mini\/scenario2\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Frequent activity involving powershell.exe, wmic.exe, and registry modifications raises suspicion of potential malicious activity.\" \n}"}

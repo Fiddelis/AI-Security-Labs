@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma2_2b\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious activity, including repeated access to PowerShell and registry modifications, which are indicative of potential malicious behavior.\"\n}"}

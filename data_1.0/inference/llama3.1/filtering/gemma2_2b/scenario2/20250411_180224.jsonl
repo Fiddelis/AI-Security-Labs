@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/gemma2_2b\/scenario2\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes are running with elevated privileges, attempting to create and access files. This indicates potential malware activity.\"\n}"}

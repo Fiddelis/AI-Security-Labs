@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma2_2b\/scenario2\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes have been created, including WMIC.exe which has loaded multiple system files. Additionally, PowerShell and Command Prompt have been used to access sensitive areas of the registry and create new files.\"\n}"}

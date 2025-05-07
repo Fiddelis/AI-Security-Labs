@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The creation of a new file named 'entrada_logico.txt' by powershell.exe, coupled with registry value modifications by both powershell.exe and cmd.exe, suggests potential malicious activity warranting further investigation.\" \n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/scenario4\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell.exe being accessed and run, along with unusual process creations like WMIC.exe and wmiprvse.exe. Additionally, several registry value sets detected, which could indicate malicious activity.\"\n}"}

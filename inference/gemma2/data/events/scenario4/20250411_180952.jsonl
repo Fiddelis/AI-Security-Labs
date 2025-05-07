@@ -1,1 +1,0 @@
-{"file":"data\/events\/scenario4\/20250411_180952.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (cmd.exe, net.exe, net1.exe, powershell.exe) are used to create and manage user accounts and domain groups, suggesting potential account compromise or privilege escalation attempts.\"\n}\n```"}

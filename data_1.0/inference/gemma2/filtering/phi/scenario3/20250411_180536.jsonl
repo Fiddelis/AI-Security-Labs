@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi\/scenario3\/20250411_180536.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are interacting with the registry and creating files, including powershell.exe and winlogbeat.exe. This combination of actions warrants further investigation for potential malicious activity.\"\n}\n```"}

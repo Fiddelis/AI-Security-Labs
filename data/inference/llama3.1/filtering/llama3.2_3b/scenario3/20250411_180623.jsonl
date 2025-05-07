@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/scenario3\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious powershell activity, multiple image loads and registry value sets from process creation events.\"\n}"}

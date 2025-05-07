@@ -1,1 +1,0 @@
-{"file":"filtering\/phi\/scenario2\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell (powershell.exe) and unusual process behavior such as WMIC.exe loading system DLLs, which could indicate suspicious activity.\"\n}"}

@@ -1,0 +1,13 @@
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'whoami.exe', 'command_line': '\"C:\\Windows\\system32\\whoami.exe\"'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {&\"C:\\entrada_padrao\\modulo_ativo\\pacote_principal\\src\\Get-Keystrokes.ps1\" -LogPath $env:TEMP\\key.log}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {&\"C:\\registro_ativo\\tarefa_temporario\\estrutura_secundario\\src\\Get-Keystrokes.ps1\" -LogPath $env:TEMP\\key.log}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpClient.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'conhost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {&\"C:\\tarefa_base\\entrada_ativo\\entrada_temporario\\src\\Get-Keystrokes.ps1\" -LogPath $env:TEMP\\key.log}'}","winlog":"{'task': 'Engine Lifecycle'}","file":"None"}
+{"process":"{'name': 'winlogbeat.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new'}"}

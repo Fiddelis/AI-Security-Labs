@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/scenario4\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The events show common system activity, including processes accessing files and registry values. There are no unusual patterns or indicators of malicious behavior.\"\n}"}

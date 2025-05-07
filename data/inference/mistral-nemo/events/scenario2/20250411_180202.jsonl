@@ -1,1 +1,0 @@
-{"file":"events\/scenario2\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple occurrences of 'powershell.exe' and 'cmd.exe' processes, along with related registry value set events and file creation events, suggest potential suspicious behavior involving lateral movement or privilege escalation.\"\n}"}

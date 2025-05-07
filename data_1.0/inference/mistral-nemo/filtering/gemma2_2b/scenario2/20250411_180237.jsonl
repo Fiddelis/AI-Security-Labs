@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/gemma2_2b\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Frequent use of PowerShell.exe and cmd.exe, with actions like Registry value set and Process Create. Additionally, unusual file creation events involving winlogbeat.exe.\"\n}"}

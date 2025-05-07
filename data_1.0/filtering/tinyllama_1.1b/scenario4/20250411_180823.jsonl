@@ -1,0 +1,42 @@
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Network connection detected (rule: NetworkConnect)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Network connection detected (rule: NetworkConnect)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Network connection detected (rule: NetworkConnect)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'calc.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'cmd.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Windows\\System32\\Tasks\\pacote_comum_005_OnLogon'}"}
+{"process":"{'name': 'schtasks.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\taskschd.dll'}"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Windows\\System32\\Tasks\\pacote_ativo_005_OnStartup'}"}
+{"process":"{'name': 'cmd.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'conhost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'ApplicationFrameHost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'Calculator.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Pipe Created (rule: PipeEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\amsi.dll'}"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\unidade_ativo.txt'}"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'whoami.exe', 'command_line': '\"C:\\Windows\\system32\\whoami.exe\"'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}

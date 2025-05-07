@@ -1,1 +1,0 @@
-{"process":"{'name': 'net1.exe', 'command_line': 'C:\\Windows\\system32\\net1  localgroup administrators \"pacote_comum_Admin\" \/add'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}

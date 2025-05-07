@@ -1,1 +1,0 @@
-{"file":"filtering\/phi\/scenario4\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple events involving suspicious processes such as cmd.exe, WMIC.exe, and calc.exe being executed. Additionally, urlmon.dll is loaded by WMIC.exe which could indicate a potential exploit attempt.\"\n}"}

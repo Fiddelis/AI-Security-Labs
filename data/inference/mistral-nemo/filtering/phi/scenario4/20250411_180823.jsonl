@@ -1,1 +1,0 @@
-{"file":"filtering\/phi\/scenario4\/20250411_180823.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events observed, including scheduled tasks creating calculator processes on startup\/logon, powershell.exe accessing processes and registry values set by various processes.\"\n}"}

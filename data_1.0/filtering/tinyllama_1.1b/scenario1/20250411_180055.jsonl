@@ -1,0 +1,49 @@
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe', 'command_line': '\"powershell.exe\" & {Compress-Archive -Path \\\"\"C:\\elemento_padrao\\objeto_secundario\\unidade_comum\\bin\\pacote_base\\\"\" -DestinationPath $env:TEMP\\elemento_temporario.zip -Force}'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\mscoree.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscoreei.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\316b66ba76e2cd70541b5fe8161637c9\\mscorlib.ni.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clrjit.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\AppData\\Local\\Temp\\__PSScriptPolicyTest_t13oq01p.uuw.ps1'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File Delete logged (rule: FileDeleteDetected)'}","file":"{'path': 'C:\\Users\\fiddelis\\AppData\\Local\\Temp\\__PSScriptPolicyTest_t13oq01p.uuw.ps1'}"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\modulo_temporario\\objeto_principal\\unidade_secundario\\bin\\entrada_logico\" -DestinationPath $env:TEMP\\elemento_logico.zip -Force}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\unidade_temporario\\estrutura_temporario\\objeto_ativo\\bin\\componente_geral\" -DestinationPath $env:TEMP\\modulo_comum.zip -Force}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\objeto_base\\registro_logico\\tarefa_logico\\bin\\objeto_padrao\" -DestinationPath $env:TEMP\\componente_temporario.zip -Force}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\modulo_ativo\\elemento_temporario\\componente_logico\\bin\\objeto_logico\" -DestinationPath $env:TEMP\\pacote_temporario.zip -Force}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\pacote_logico\\unidade_auxiliar\\modulo_principal\\bin\\tarefa_geral\" -DestinationPath $env:TEMP\\objeto_comum.zip -Force}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\pacote_temporario\\objeto_principal\\pacote_principal\\bin\\pacote_logico\" -DestinationPath $env:TEMP\\registro_principal.zip -Force}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\tarefa_secundario\\pacote_secundario\\pacote_logico\\bin\\tarefa_temporario\" -DestinationPath $env:TEMP\\pacote_temporario.zip -Force}'}","winlog":"{'task': 'Engine Lifecycle'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpClient.dll'}"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\elemento_secundario\\tarefa_padrao\\tarefa_geral\\bin\\componente_auxiliar\" -DestinationPath $env:TEMP\\componente_auxiliar.zip -Force}'}","winlog":"{'task': 'Pipeline Execution Details'}","file":"{'path': 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Archive\\Microsoft.PowerShell.Archive.psm1'}"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\tarefa_secundario\\tarefa_comum\\elemento_padrao\\bin\\entrada_temporario\" -DestinationPath $env:TEMP\\pacote_auxiliar.zip -Force}'}","winlog":"{'task': 'Engine Lifecycle'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\AppData\\Local\\Microsoft\\Windows\\PowerShell\\StartupProfileData-NonInteractive'}"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\unidade_ativo\\elemento_base\\elemento_temporario\\bin\\tarefa_logico\" -DestinationPath $env:TEMP\\objeto_temporario.zip -Force}'}","winlog":"{'task': 'Executing Pipeline'}","file":"{'path': 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Archive\\Microsoft.PowerShell.Archive.psm1'}"}
+{"process":"{'command_line': 'powershell.exe & {Compress-Archive -Path \"C:\\componente_secundario\\registro_geral\\registro_ativo\\bin\\tarefa_ativo\" -DestinationPath $env:TEMP\\modulo_ativo.zip -Force}'}","winlog":"{'task': 'Executing Pipeline'}","file":"{'path': 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Archive\\Microsoft.PowerShell.Archive.psm1'}"}
+{"process":"{'name': 'RuntimeBroker.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'notepad.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'calc.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'Calculator.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'ApplicationFrameHost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'Calculator.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Pipe Created (rule: PipeEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll'}"}
+{"process":"{'name': 'winlogbeat.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'whoami.exe', 'command_line': '\"C:\\Windows\\system32\\whoami.exe\"'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}

@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi\/scenario3\/20250411_180623.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Powershell is loading multiple .NET dll files, deleting a temporary file, and interacting with the registry. This combination suggests potential malicious activity.\"\n}\n```"}

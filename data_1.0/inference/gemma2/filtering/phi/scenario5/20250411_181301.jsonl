@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/phi\/scenario5\/20250411_181301.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes, including powershell.exe and chrome.exe, are performing registry writes and file creations. This combination of actions could indicate malicious activity.\" \n}\n```"}

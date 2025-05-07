@@ -2,4 +2,4 @@ ollama==0.4.7
 pandas==2.2.3
 openai==1.69.0
 matplotlib==3.10.1
-elasticsearch==8.17.2
+elasticsearch==7.17.12

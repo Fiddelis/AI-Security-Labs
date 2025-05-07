@@ -1,0 +1,1 @@
+{"file":"data\/filtering\/gemma2_2b\/scenario2\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple stages of a living off the land attack chain involving PowerShell and scheduled tasks, potentially indicating an attempt to establish persistence.\"\n}"}

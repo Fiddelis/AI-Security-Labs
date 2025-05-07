@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma2_2b\/scenario2\/20250411_180224.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of scheduled tasks being created, powershell executions with bypass flags, and registry modifications suggest possible malicious activity. Further investigation is warranted.\"\n}\n```"}
