@@ -8,7 +8,7 @@ import logging
 import glob
 import argparse
 import os
-import re
+import random
 
 class Main:
     def __init__(self, models: list[str], mode: str, path: list[str], max_tokens: int):
@@ -40,6 +40,14 @@ class Main:
         return results
 
     def run(self):
+        files = []
+        for path in self.path:
+            if not os.path.exists(path):
+                logging.error(f"Path not found: {path}")
+                continue
+            files.extend(glob.glob(f"{path}/*.jsonl"))
+        random.shuffle(files)
+        print(files)
         for model in self.models:
             client = OllamaClient(model, self.mode)
             chunker = JsonlChunker(self.max_tokens)
@@ -49,23 +57,16 @@ class Main:
             except:
                 logging.error(f"Model not started: {model}")
                 continue
-            
-            for path in self.path:
-                if not os.path.exists(path):
-                    logging.error(f"Path not found: {path}")
-                    continue
-                
-                files = glob.glob(f"{path}/*.jsonl")
-                file_names = [os.path.basename(f) for f in files]
-                for file_name, file in zip(file_names, files):
-                    output_path = f"{client.mode}/{client.model.replace(':', '_')}/{path}"
-                    os.makedirs(output_path, exist_ok=True)
+        
+            for file_name in files:
+                output_path = f"{client.mode}/{client.model.replace(':', '_')}/{path}"
+                os.makedirs(output_path, exist_ok=True)
 
-                    result = self.__inference(client, file, chunker)
-                    
-                    output_file = f"{output_path}/{file_name}"
-                    pd.DataFrame(result).to_json(output_file, orient="records", lines=True, force_ascii=False)
-                    logging.info(f"{self.mode} Saved: {output_file}")
+                result = self.__inference(client, file_name, chunker)
+                
+                output_file = f"{output_path}/{file_name}"
+                pd.DataFrame(result).to_json(output_file, orient="records", lines=True, force_ascii=False)
+                logging.info(f"{self.mode} Saved: {output_file}")
 
 class ArgumentParserBuilder:
     @staticmethod
@@ -80,8 +81,8 @@ class ArgumentParserBuilder:
 def main():
     LoggerSetup().setup()
     models_dict = {
-        "models_filtering": ["llama3.2:3b", "tinyllama:1.1b", "gemma2:2b", "phi"],
-        "models_inference": ["gemma2", "deepseek-r1:14b", "phi4:14b", "mistral-nemo", "llama3.1"]
+        "models_filtering": ["gemma3:4b", "tinyllama:1.1b", "llama3.2:3b", "phi4-mini"],
+        "models_inference": ["deepseek-r1:14b", "phi4", "gemma3:12b", "qwen3:14b", "llama3.1", "mistral-nemo"]
     }
 
     parser = ArgumentParserBuilder.build()
@@ -95,16 +96,11 @@ def main():
     else:
         models = args.model
 
-    path_output = []
-    for path in args.path:
-        for i in range(1, 7):
-            path_output.append(f'{path}/scenario{i}')
-
     logging.info(f"Model: {models}")
     logging.info(f"Mode: {args.mode}")
-    logging.info(f"Paths: {path_output}")
+    logging.info(f"Paths: {args.path}")
 
-    app = Main(models=models, mode=args.mode, path=path_output, max_tokens=args.tokens)
+    app = Main(models=models, mode=args.mode, path=args.path, max_tokens=args.tokens)
     app.run()
 
 if __name__ == "__main__":

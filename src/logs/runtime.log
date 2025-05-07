@@ -1,0 +1,72 @@
+2025-05-07 15:54:18,649 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 15:54:18,649 [INFO] Mode: inference
+2025-05-07 15:54:18,649 [INFO] Paths: ['safe']
+2025-05-07 15:54:20,659 [ERROR] Model not started: gemma2
+2025-05-07 15:54:22,662 [ERROR] Model not started: deepseek-r1:14b
+2025-05-07 15:54:24,666 [ERROR] Model not started: phi4:14b
+2025-05-07 15:54:26,670 [ERROR] Model not started: mistral-nemo
+2025-05-07 15:54:28,674 [ERROR] Model not started: llama3.1
+2025-05-07 16:01:06,087 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 16:01:06,087 [INFO] Mode: inference
+2025-05-07 16:01:06,088 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:01:08,134 [ERROR] Model not started: gemma2
+2025-05-07 16:01:10,164 [ERROR] Model not started: deepseek-r1:14b
+2025-05-07 16:01:12,196 [ERROR] Model not started: phi4:14b
+2025-05-07 16:01:14,236 [ERROR] Model not started: mistral-nemo
+2025-05-07 16:01:16,288 [ERROR] Model not started: llama3.1
+2025-05-07 16:01:23,193 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 16:01:23,194 [INFO] Mode: inference
+2025-05-07 16:01:23,194 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:01:25,247 [ERROR] Model not started: gemma2
+2025-05-07 16:01:27,272 [ERROR] Model not started: deepseek-r1:14b
+2025-05-07 16:01:29,305 [ERROR] Model not started: phi4:14b
+2025-05-07 16:01:31,332 [ERROR] Model not started: mistral-nemo
+2025-05-07 16:01:33,359 [ERROR] Model not started: llama3.1
+2025-05-07 16:01:49,662 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 16:01:49,662 [INFO] Mode: inference
+2025-05-07 16:01:49,662 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:01:49,663 [ERROR] Path not found: data/safe
+2025-05-07 16:01:49,663 [ERROR] Path not found: data/attack
+2025-05-07 16:01:49,663 [ERROR] Path not found: data/safe
+2025-05-07 16:01:49,663 [ERROR] Path not found: data/attack
+2025-05-07 16:01:49,663 [ERROR] Path not found: data/safe
+2025-05-07 16:01:49,664 [ERROR] Path not found: data/attack
+2025-05-07 16:01:49,664 [ERROR] Path not found: data/safe
+2025-05-07 16:01:49,664 [ERROR] Path not found: data/attack
+2025-05-07 16:01:49,664 [ERROR] Path not found: data/safe
+2025-05-07 16:01:49,664 [ERROR] Path not found: data/attack
+2025-05-07 16:02:15,311 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 16:02:15,312 [INFO] Mode: inference
+2025-05-07 16:02:15,312 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:02:52,110 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 16:02:52,110 [INFO] Mode: inference
+2025-05-07 16:02:52,110 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:03:06,609 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 16:03:06,610 [INFO] Mode: inference
+2025-05-07 16:03:06,610 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:04:26,890 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 16:04:26,891 [INFO] Mode: inference
+2025-05-07 16:04:26,891 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:07:57,854 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 16:07:57,855 [INFO] Mode: inference
+2025-05-07 16:07:57,855 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:08:16,709 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 16:08:16,709 [INFO] Mode: inference
+2025-05-07 16:08:16,709 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:10:25,931 [INFO] Model: ['gemma2', 'deepseek-r1:14b', 'phi4:14b', 'mistral-nemo', 'llama3.1']
+2025-05-07 16:10:25,932 [INFO] Mode: inference
+2025-05-07 16:10:25,932 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:10:27,958 [ERROR] Model not started: gemma2
+2025-05-07 16:10:29,998 [ERROR] Model not started: deepseek-r1:14b
+2025-05-07 16:10:32,025 [ERROR] Model not started: phi4:14b
+2025-05-07 16:10:34,080 [ERROR] Model not started: mistral-nemo
+2025-05-07 16:10:36,110 [ERROR] Model not started: llama3.1
+2025-05-07 16:42:32,273 [INFO] Model: ['deepseek-r1:14b', 'phi4', 'gemma3:12b', 'qwen3:14b', 'llama3.1', 'mistral-nemo']
+2025-05-07 16:42:32,273 [INFO] Mode: inference
+2025-05-07 16:42:32,273 [INFO] Paths: ['data/safe', 'data/attack']
+2025-05-07 16:42:34,333 [ERROR] Model not started: deepseek-r1:14b
+2025-05-07 16:42:36,376 [ERROR] Model not started: phi4
+2025-05-07 16:42:38,420 [ERROR] Model not started: gemma3:12b
+2025-05-07 16:42:40,447 [ERROR] Model not started: qwen3:14b
+2025-05-07 16:42:42,489 [ERROR] Model not started: llama3.1
+2025-05-07 16:42:44,519 [ERROR] Model not started: mistral-nemo
