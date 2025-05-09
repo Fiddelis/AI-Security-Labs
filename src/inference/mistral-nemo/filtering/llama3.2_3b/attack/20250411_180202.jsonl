@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and WMIC execution, followed by file creation and registry modifications. This pattern could indicate reconnaissance or lateral movement activities.\"\n}"}

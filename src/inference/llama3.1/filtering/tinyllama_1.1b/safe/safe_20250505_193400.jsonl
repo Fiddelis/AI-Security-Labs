@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple 'Process Creation' events, followed by an unusual sequence of system and policy-related events, including repeated instances of the same event type. This pattern suggests potential malicious activity.\"\n}"}

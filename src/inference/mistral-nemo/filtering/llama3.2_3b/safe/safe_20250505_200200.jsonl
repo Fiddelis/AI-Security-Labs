@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"This batch contains multiple events involving PowerShell executing scripts, creating temporary files in the user's temp directory and then deleting them, which could indicate a potential malware infection.\"\n}"}

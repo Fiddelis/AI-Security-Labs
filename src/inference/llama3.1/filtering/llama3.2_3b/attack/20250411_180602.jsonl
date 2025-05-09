@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious process creation and access, including powershell.exe and attrib.exe, with potential lateral movement attempts via registry modifications and file creations.\"\n}"}

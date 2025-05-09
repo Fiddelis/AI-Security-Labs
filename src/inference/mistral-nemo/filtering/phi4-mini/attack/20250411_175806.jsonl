@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"This batch contains multiple consecutive PowerShell and cmd.exe processes accessing or setting registry values and creating files, which could indicate an attempt to maintain persistence in the system.\"\n}"}

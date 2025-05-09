@@ -1,0 +1,26 @@
+{"process":{"name":"ShellExperienceHost.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\urlmon.dll"}}
+{"process":{"name":"svchost.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":null,"winlog":{"task":"None"},"file":null}
+{"process":{"name":"Explorer.EXE"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe","command_line":"\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" "},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Dns query (rule: DnsQuery)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll"}}
+{"process":{"name":"WmiPrvSE.exe","command_line":"C:\\Windows\\system32\\wbem\\wmiprvse.exe -secured -Embedding"},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":{"name":"WmiPrvSE.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\wbem\\wmiutils.dll"}}
+{"process":{"name":"services.exe"},"winlog":{"task":"Logon"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Network connection detected (rule: NetworkConnect)"},"file":null}
+{"process":{"name":"svchost.exe"},"winlog":{"task":"Network connection detected (rule: NetworkConnect)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Network connection detected (rule: NetworkConnect)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":{"name":"updater.exe"},"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\taskschd.dll"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}

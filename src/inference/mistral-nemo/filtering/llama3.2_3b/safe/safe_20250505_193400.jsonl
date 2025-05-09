@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains mostly informational events related to system boot, time updates, and process creation of non-malicious processes. There are no suspicious or malicious activities detected across the entire batch.\"\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_200000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated registry value set events for svchost.exe andDrvInst.exe processes, as well as suspicious file creations by winlogbeat.exe and SDXHelper.exe.\"\n}"}

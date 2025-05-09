@@ -1,0 +1,2 @@
+{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE loading suspicious DLLs, including combase.dll, urlmon.dll, amsi.dll, and MpOAV.dll. These behaviors may indicate malicious activity.\"\n}"}
+{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple DNS queries from EXCEL.EXE in a short time frame, potentially indicating lateral movement or unauthorized network activity.\"\n}"}

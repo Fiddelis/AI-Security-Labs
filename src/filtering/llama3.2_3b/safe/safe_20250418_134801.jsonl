@@ -1,0 +1,141 @@
+{"process":{"name":"MicrosoftEdge_X64_135.0.3179.73_135.0.3179.54.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\Install\\{A9CECA4D-A384-4986-AAF3-AC2EDBAAEEF5}\\EDGEMITMP_F12CA.tmp\\setup.exe"}}
+{"process":{"name":"MicrosoftEdge_X64_135.0.3179.73_135.0.3179.54.exe"},"winlog":{"task":"File creation time changed (rule: FileCreateTime)"},"file":{"path":"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\Install\\{A9CECA4D-A384-4986-AAF3-AC2EDBAAEEF5}\\EDGEMITMP_F12CA.tmp\\setup.exe"}}
+{"process":{"name":"CompatTelRunner.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\amsi.dll"}}
+{"process":{"name":"services.exe"},"winlog":{"task":"Logon"},"file":null}
+{"process":null,"winlog":{"task":"Special Logon"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":null,"winlog":{"task":"Special Logon"},"file":null}
+{"process":null,"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Windows\\Logs\\WindowsUpdate\\WindowsUpdate.20250418.103848.435.13.etl"}}
+{"process":{"name":"svchost.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Windows\\System32\\config\\systemprofile\\AppData\\Local\\Microsoft\\Windows\\PowerShell\\StartupProfileData-NonInteractive"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Dns query (rule: DnsQuery)"},"file":null}
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":{"name":"svchost.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"svchost.exe","command_line":"C:\\Windows\\system32\\svchost.exe -k LocalService -p -s BthAvctpSvc"},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":{"name":"MsMpEng.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\taskschd.dll"}}
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":{"name":"CompatTelRunner.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\taskschd.dll"}}
+{"process":{"name":"svchost.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Windows\\ServiceProfiles\\NetworkService\\AppData\\Local\\Microsoft\\Windows\\DeliveryOptimization\\State\\keyValueLKG.dat"}}
+{"process":{"name":"svchost.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Windows\\ServiceProfiles\\NetworkService\\AppData\\Local\\Microsoft\\Windows\\DeliveryOptimization\\Cache\\92b4d2de7ce59c99048d53c98b8bfdad748e75ca\\content.phf"}}
+{"process":{"name":"MicrosoftEdgeUpdate.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\Download\\{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}\\135.0.3179.73\\MicrosoftEdge_X64_135.0.3179.73_135.0.3179.54.exe"}}
+{"process":{"name":"MicrosoftEdgeUpdate.exe"},"winlog":{"task":"File Delete logged (rule: FileDeleteDetected)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Temp\\{65F168EA-06D0-456B-BB74-C6BD51846C82}-MicrosoftEdge_X64_135.0.3179.73_135.0.3179.54.exe"}}
+{"process":{"name":"MpCmdRun.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Windows\\Temp\\MpCmdRun-3a-53C9D589-6B66-4F30-9BAB-9A0193B0BAFC.lock"}}
+{"process":{"name":"MpCmdRun.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpCmdRun.exe"}}
+{"process":null,"winlog":{"task":"None"},"file":null}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\classes\\semver.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\cmp.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\coerce.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\compare-build.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\compare-loose.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\diff.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\gt.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\gte.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\lt.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\lte.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\neq.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\parse.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\prerelease.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\rsort.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\functions\\sort.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\index.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\internal\\debug.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\internal\\lrucache.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\range.bnf"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\ranges\\gtr.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\ranges\\intersects.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\ranges\\max-satisfying.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\ranges\\min-satisfying.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\ranges\\min-version.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\ranges\\outside.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\semver\\ranges\\valid.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\serialize-javascript\\LICENSE"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\set-blocking"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\set-blocking\\CHANGELOG.md"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\set-blocking\\LICENSE.txt"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\set-function-length\\.eslintrc"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\set-function-length\\.github\\FUNDING.yml"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\set-function-length\\.nycrc"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\set-function-length\\CHANGELOG.md"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\set-function-length\\LICENSE"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\set-function-length\\env.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\set-function-length\\package.json"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\shebang-command\\package.json"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\shebang-command\\readme.md"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\shebang-regex"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\shebang-regex\\readme.md"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\side-channel\\.eslintrc"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\side-channel\\.github"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\side-channel\\CHANGELOG.md"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\side-channel\\test\\index.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\side-channel\\tsconfig.json"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\signal-exit\\index.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\signal-exit\\package.json"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\signal-exit\\signals.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\.travis.yml"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\Jenkinsfile"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\LICENSE"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\README.md"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\bin\\sshpk-sign"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\lib\\algs.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\lib\\dhe.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\lib\\ed-compat.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\lib\\fingerprint.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\lib\\formats"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\lib\\formats\\pem.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\lib\\formats\\rfc4253.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\lib\\formats\\ssh.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\lib\\formats\\x509.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\lib\\index.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\man\\man1\\sshpk-conv.1"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\man\\man1\\sshpk-sign.1"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\man\\man1\\sshpk-verify.1"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\sshpk\\package.json"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\string-width\\index.d.ts"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\string-width\\package.json"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\strip-ansi"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\strip-ansi\\index.d.ts"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\strip-ansi\\index.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\strip-ansi\\license"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\strip-ansi\\package.json"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\strip-ansi\\readme.md"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\strip-final-newline\\license"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\strip-json-comments\\index.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\strip-json-comments\\package.json"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\strip-json-comments\\readme.md"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\supports-color"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\supports-color\\browser.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\supports-color\\package.json"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\CHANGELOG.md"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\index.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\Any.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\Array.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\Error.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\Function.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\Nil.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\String.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\Type.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\assert.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\assign.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\enums.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\fail.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\forbidNewOperator.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\fromJSON.d.ts"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\func.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\installTypeFormatter.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\irreducible.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\isArray.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\isBoolean.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\isIdentity.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\isInterface.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\isMaybe.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\isNumber.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\isObject.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\isSubsetOf.d.ts"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\isType.js"}}
+{"process":{"name":"git.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\inatel\\S206 - Qualidade de Software\\node_modules\\tcomb\\lib\\isTypeName.js"}}

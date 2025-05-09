@@ -1,0 +1,21 @@
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":{"name":"mmc.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"powershell.exe","command_line":"\"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" "},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\mscoree.dll"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll"}}
+{"process":{"command_line":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},"winlog":{"task":"Provider Lifecycle"},"file":null}
+{"process":{"command_line":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},"winlog":{"task":"Provider Lifecycle"},"file":null}
+{"process":{"command_line":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},"winlog":{"task":"Provider Lifecycle"},"file":null}
+{"process":{"command_line":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},"winlog":{"task":"Provider Lifecycle"},"file":null}
+{"process":{"command_line":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},"winlog":{"task":"Provider Lifecycle"},"file":null}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Temp\\__PSScriptPolicyTest_pby4rzcb.dfy.ps1"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"File Delete logged (rule: FileDeleteDetected)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Temp\\__PSScriptPolicyTest_pby4rzcb.dfy.ps1"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"file":null}
+{"process":{"command_line":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},"winlog":{"task":"Engine Lifecycle"},"file":null}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpClient.dll"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\urlmon.dll"}}
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"powershell.exe","command_line":"\"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -ExecutionPolicy Bypass -File .\\teste.ps1"},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clrjit.dll"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Microsoft\\Windows\\PowerShell\\StartupProfileData-NonInteractive"}}

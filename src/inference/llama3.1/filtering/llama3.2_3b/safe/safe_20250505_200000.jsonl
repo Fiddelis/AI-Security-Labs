@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes and system events are loading DLLs from the Windows System32 directory, which could indicate malicious activity such as a lateral movement or a malware infection.\"\n}"}

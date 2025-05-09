@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and command line processes running consecutively, along with file creation events targeting unusual locations like Downloads folder, suggesting possible script execution or data exfiltration.\"\n}"}

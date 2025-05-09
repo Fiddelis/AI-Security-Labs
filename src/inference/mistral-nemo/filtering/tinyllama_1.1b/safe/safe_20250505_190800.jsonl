@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell being used consecutively, creating and deleting files in the temp directory, and executing a script (.ps1 file), indicating potential malicious activity such as script injection or execution.\"\n}"}

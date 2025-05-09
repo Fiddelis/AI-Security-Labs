@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple Powershell.exe processes were created with bypass flags, suggesting possible malicious script execution. Additionally, new registry values and files were created by schtasks.exe, which is unusual behavior.\"\n}"}

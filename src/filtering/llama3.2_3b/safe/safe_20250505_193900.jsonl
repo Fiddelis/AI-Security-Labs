@@ -1,0 +1,14 @@
+{"process":{"name":"svchost.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":null,"winlog":{"task":"None"},"file":null}
+{"process":{"name":"chrome.exe","command_line":"\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" "},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"WmiPrvSE.exe","command_line":"C:\\Windows\\system32\\wbem\\wmiprvse.exe -secured -Embedding"},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":{"name":"svchost.exe","command_line":"C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s NgcSvc"},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":{"name":"svchost.exe","command_line":"C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s NgcCtnrSvc"},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":null,"winlog":{"task":"Special Logon"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":{"name":"updater.exe","command_line":"\"C:\\Program Files (x86)\\Google\\GoogleUpdater\\138.0.7156.0\\updater.exe\" --crash-handler --system \"--database=C:\\Program Files (x86)\\Google\\GoogleUpdater\\138.0.7156.0\\Crashpad\" --url=https:\/\/clients2.google.com\/cr\/report --annotation=prod=Update4 --annotation=ver=138.0.7156.0 \"--attachment=C:\\Program Files (x86)\\Google\\GoogleUpdater\\updater.log\" --initial-client-data=0x268,0x26c,0x270,0x228,0xb0,0x7ff64806c508,0x7ff64806c514,0x7ff64806c520"},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}

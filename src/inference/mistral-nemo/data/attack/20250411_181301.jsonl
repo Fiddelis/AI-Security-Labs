@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains predominantly normal system and application events with no suspicious activities or anomalous behaviors.\"\n}"}
+{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"All events in the batch are identical and only indicate normal activity of Chrome setting registry values.\"\n}"}

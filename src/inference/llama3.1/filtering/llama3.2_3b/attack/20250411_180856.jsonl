@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated Image loaded events involving AMSI and MpOAV DLLs, which may indicate a malicious attempt to disable Windows Defender. Additionally, suspicious registry modifications via powershell.exe.\"\n}"}

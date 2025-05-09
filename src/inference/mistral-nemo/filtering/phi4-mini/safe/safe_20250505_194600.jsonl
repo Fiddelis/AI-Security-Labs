@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple file creation events by notepad.exe within a short time frame, followed by a registry value set event. This pattern could indicate an attempt at persistence or evasion.\"\n}"}

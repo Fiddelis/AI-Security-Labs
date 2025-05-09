@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and files have been observed, including potential AMSI bypass attempts with systeminfo.exe loading amsi.dll, and registry value sets in multiple processes.\"\n}"}

@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple powershell.exe events with access and creation tasks, along with WMIC.exe loading suspicious DLLs like urlmon.dll and MpOAV.dll.\"\n}"}

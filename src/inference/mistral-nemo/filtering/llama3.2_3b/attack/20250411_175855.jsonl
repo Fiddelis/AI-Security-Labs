@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe processes creating, accessing and executing files like .key, which is unusual. Additionally, whoami.exe being executed suggests potential privilege escalation or information gathering.\"\n}"}

@@ -1,0 +1,22 @@
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Network connection detected (rule: NetworkConnect)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Network connection detected (rule: NetworkConnect)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Network connection detected (rule: NetworkConnect)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'powershell.exe', 'command_line': '\"powershell.exe\" & {ls -recurse\\nget-childitem -recurse\\ngci -recurse}'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscoreei.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clrjit.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll'}"}
+{"process":"{'command_line': 'powershell.exe & {ls -recurse\\nget-childitem -recurse\\ngci -recurse}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {ls -recurse\\nget-childitem -recurse\\ngci -recurse}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {ls -recurse\\nget-childitem -recurse\\ngci -recurse}'}","winlog":"{'task': 'Engine Lifecycle'}","file":"None"}
+{"process":"{'name': 'conhost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"None","winlog":"{'task': 'User Account Management'}","file":"None"}
+{"process":"None","winlog":"{'task': 'User Account Management'}","file":"None"}
+{"process":"{'name': 'RuntimeBroker.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'calc.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'Calculator.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}

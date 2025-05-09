@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious process creations and registry value sets, including attempts to create new users and groups with privileged access. Additionally, a file was created in the Downloads directory.\"\n}"}

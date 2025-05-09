@@ -59,12 +59,13 @@ class Main:
                 continue
         
             for file_name in files:
-                output_path = f"{client.mode}/{client.model.replace(':', '_')}/{path}"
-                os.makedirs(output_path, exist_ok=True)
+                output_dir = f"{client.mode}/{client.model.replace(':', '_')}/{os.path.dirname(file_name)}"
+                os.makedirs(output_dir, exist_ok=True)
+
+                output_file = os.path.join(output_dir, os.path.basename(file_name))
 
                 result = self.__inference(client, file_name, chunker)
                 
-                output_file = f"{output_path}/{file_name}"
                 pd.DataFrame(result).to_json(output_file, orient="records", lines=True, force_ascii=False)
                 logging.info(f"{self.mode} Saved: {output_file}")
 

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains a mix of benign system events and process creations, including legitimate processes like 'smss.exe'. There are no indicators of malicious activity or anomalies in the event tasks.\"\n}\n```"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181320.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events detected, including repeated network connections to powershell.exe and image loads from the Windows directory. Also, multiple registry value set events from various processes.\"\n}"}

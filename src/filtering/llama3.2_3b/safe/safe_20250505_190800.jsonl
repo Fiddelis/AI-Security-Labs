@@ -1,0 +1,9 @@
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\mscoree.dll"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Temp\\__PSScriptPolicyTest_pby4rzcb.dfy.ps1"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\teste.ps1"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\8927ab54ce082e161d10f64f21320f69\\mscorlib.ni.dll"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Temp\\__PSScriptPolicyTest_wkvsotss.si5.ps1"}}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"File Delete logged (rule: FileDeleteDetected)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Temp\\__PSScriptPolicyTest_wkvsotss.si5.ps1"}}
+{"process":null,"winlog":{"task":"Execute a Remote Command"},"file":null}

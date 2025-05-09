@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180823.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of potentially suspicious activities, including repeated registry value sets by chrome.exe and powershell.exe accessing files with potential malicious intent.\"\n}"}

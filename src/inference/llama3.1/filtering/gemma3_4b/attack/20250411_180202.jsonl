@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated access to powershell.exe, suspicious registry value sets and file creations, possible indication of a malware or attack in progress.\"\n}"}
