@@ -32,7 +32,8 @@ class OllamaClient:
                 "Return **only a single result** in the following strict JSON format (no additional text):\n"
                 "{\n"
                 "  \"CLASSIFICATION\": \"INTERESTING\" | \"NOT INTERESTING\",\n"
-                "  \"JUSTIFICATION\": \"<concise explanation for why the batch is or isn't interesting>\"\n"
+                "  \"JUSTIFICATION\": \"<concise explanation for why the batch is or isn't interesting>\",\n"
+                "  \"CONFIDENCE\": <float between 0 and 1>\"\n"
                 "}"
                 )
             },
