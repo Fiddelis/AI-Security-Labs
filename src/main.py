@@ -1,6 +1,7 @@
 from ollama_client import OllamaClient
 from jsonl_processor import JsonlChunker
 
+from concurrent.futures import ThreadPoolExecutor
 from logger import LoggerSetup
 from io import StringIO
 import pandas as pd
@@ -19,25 +20,40 @@ class Main:
 
     def __inference(self, client: OllamaClient, file_name: str, chunker: JsonlChunker):
         event_chunks = chunker.chunk_file(file_name)
-        results = []
-        
-        for event in event_chunks:
+
+        def process_chunk(event):
             content = "\n".join(event)
             alerts = pd.read_json(StringIO(content), orient='records', lines=True)
+
             if self.mode == "filtering":
+                filtered = []
                 for _, row in alerts.iterrows():
                     alert = row.to_dict()
                     response = client.send_message(alert, file_name).lower()
                     if "not important" not in response:
-                        results.append(alert)
+                        filtered.append(alert)
+                return filtered
 
             elif self.mode == "inference":
                 response = client.send_message(alerts, file_name)
-                results.append({"file": file_name, "analysis": response})
+                return {"file": file_name, "analysis": response}
+
             else:
                 logging.error(f"Mode not found: {self.mode}")
+                return None
 
-        return results
+        with ThreadPoolExecutor(max_workers=4) as executor:
+            results = list(executor.map(process_chunk, event_chunks))
+
+        # Flatten the results if necessary
+        flattened_results = []
+        for result in results:
+            if isinstance(result, list):
+                flattened_results.extend(result)
+            elif result is not None:
+                flattened_results.append(result)
+
+        return flattened_results
 
     def run(self):
         files = []
