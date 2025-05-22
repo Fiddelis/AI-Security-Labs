@@ -1,0 +1,2 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_181351.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious PowerShell commands and registry access attempts, including image loading of potential malicious DLLs.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/phi4-mini\/attack\/20250411_181351.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious PowerShell activity, file creations, and registry modifications indicate potential malicious behavior.\",\n  \"CONFIDENCE\": 0.85\n}"}

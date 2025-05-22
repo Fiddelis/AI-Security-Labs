@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple suspicious events, including registry value set and process access events from known malicious processes like powershell.exe, as well as file creation events for potentially malicious files.\",\n  \"CONFIDENCE\": 0.85\n}"}

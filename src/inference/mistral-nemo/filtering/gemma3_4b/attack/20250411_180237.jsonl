@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Frequent execution of powershell.exe and cmd.exe, access to registry values, and creation of new files (.winlogbeat.yml.new) indicates potential reconnaissance or lateral movement activities.\",\n  \"CONFIDENCE\": 0.95\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry value sets and network connections detected from chrome.exe within a short span, along with an unusual process creation of updater.exe and simultaneous file creations by winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

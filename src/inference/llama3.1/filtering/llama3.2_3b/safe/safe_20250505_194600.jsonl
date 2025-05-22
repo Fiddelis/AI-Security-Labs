@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"There are multiple instances of the winlogbeat.exe process creating the same file in a short time period, which may indicate an attempt to evade monitoring or persist on the system.\",\n  \"CONFIDENCE\": 0.85\n}"}

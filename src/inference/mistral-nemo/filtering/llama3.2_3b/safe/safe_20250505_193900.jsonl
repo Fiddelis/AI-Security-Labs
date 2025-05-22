@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple network connection events from chrome.exe and svchost.exe, along with repeated file create events for winlogbeat.exe suggesting potential anomalous behavior.\",\n  \"CONFIDENCE\": 0.9\n}"}

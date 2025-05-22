@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell.exe and cmd.exe with no apparent legitimate purpose, attempting to access registry values and files. Additionally, suspicious process creation of whoami.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

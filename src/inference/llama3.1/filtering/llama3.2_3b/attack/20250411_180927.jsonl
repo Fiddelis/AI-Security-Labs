@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creations and registry modifications, including attempts to add users and groups, which could indicate a potential lateral movement or privilege escalation attack.\",\n  \"CONFIDENCE\": 0.8\n}"}

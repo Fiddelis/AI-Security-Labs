@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_180641.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes attempting to access or create files and registry values, as well as suspicious network connections.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"data\/attack\/20250411_180641.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry value sets and suspicious file access by svchost.exe, chrome.exe, and winlogbeat.exe processes.\",\n  \"CONFIDENCE\": 0.9\n}"}

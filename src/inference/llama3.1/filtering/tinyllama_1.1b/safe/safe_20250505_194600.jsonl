@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple file creation events by different processes, including a legitimate process (notepad.exe) and potentially malicious activity (registry value set)\",\n  \"CONFIDENCE\": 0.9\n}"}

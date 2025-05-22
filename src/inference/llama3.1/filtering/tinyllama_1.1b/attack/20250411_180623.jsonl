@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of multiple suspicious events, including registry value sets, process creates with powershell.exe, and file creations\/accesses\/deletes, suggests a potential attack or malicious activity.\",\n  \"CONFIDENCE\": 0.95\n}"}

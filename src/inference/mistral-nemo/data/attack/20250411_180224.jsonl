@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains suspicious activities such as scheduled tasks creation and execution using powershell.exe, which is bypassing execution policy.\",\n  \"CONFIDENCE\": 0.95\n}"}

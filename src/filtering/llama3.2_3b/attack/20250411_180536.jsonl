@@ -1,0 +1,19 @@
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Network connection detected (rule: NetworkConnect)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Network connection detected (rule: NetworkConnect)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Dns query (rule: DnsQuery)'}","file":"None"}
+{"process":"None","winlog":"{'task': 'None'}","file":"None"}
+{"process":"{'name': 'cmd.exe', 'command_line': '\"cmd.exe\" \/c sc.exe create elemento_principal= \"C:\\elemento_geral\\componente_comum\\modulo_geral\\bin\\unidade_base.exe\" start=auto  type=Own & sc.exe start modulo_comum'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'cmd.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'sc.exe', 'command_line': 'sc.exe  create tarefa_principal= \"C:\\pacote_auxiliar\\registro_base\\modulo_ativo\\bin\\unidade_geral.exe\" start=auto  type=Own '}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'services.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'sc.exe', 'command_line': 'sc.exe  start elemento_auxiliar'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'tarefa_logico.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\316b66ba76e2cd70541b5fe8161637c9\\mscorlib.ni.dll'}"}
+{"process":"{'name': 'conhost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'winlogbeat.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new'}"}
+{"process":"{'name': 'notepad.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
+{"process":"{'name': 'calc.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\urlmon.dll'}"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'svchost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}

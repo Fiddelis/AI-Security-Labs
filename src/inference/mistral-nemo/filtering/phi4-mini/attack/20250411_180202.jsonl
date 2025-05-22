@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell executions, suspicious command lines ('\/c wmic process call create notepad.exe'), and unusual file creations suggest possible reconnaissance or malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious registry value set and image loaded events for chrome.exe, as well as a file created event for winlogbeat.exe with potential security implications.\",\n  \"CONFIDENCE\": 0.85\n}"}

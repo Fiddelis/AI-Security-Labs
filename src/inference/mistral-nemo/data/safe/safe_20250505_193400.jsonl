@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple 'Process Creation' events and an unusual event ('Other Policy Change Events') mixed with system boot logs suggest potential anomalous behavior warranting further investigation.\",\n  \"CONFIDENCE\": 0.85\n}"}

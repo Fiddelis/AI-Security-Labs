@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"No malicious processes detected. All events are typical Windows OS boot and policy change events.\",\n  \"CONFIDENCE\": 1.0\n}"}

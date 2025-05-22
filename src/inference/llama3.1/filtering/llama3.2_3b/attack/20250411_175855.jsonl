@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creations and registry value sets detected, including potential indicators of malicious activity such as PowerShell execution and Windows Defender component loading.\",\n  \"CONFIDENCE\": 0.85\n}"}
