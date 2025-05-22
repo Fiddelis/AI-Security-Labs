@@ -42,7 +42,7 @@ class Main:
                 logging.error(f"Mode not found: {self.mode}")
                 return None
 
-        with ThreadPoolExecutor(max_workers=4) as executor:
+        with ThreadPoolExecutor(max_workers=3) as executor:
             results = list(executor.map(process_chunk, event_chunks))
 
         # Flatten the results if necessary
