@@ -63,33 +63,27 @@ class Main:
                 continue
             files.extend(glob.glob(f"{path}/*.jsonl"))
         random.shuffle(files)
+        print(files)
+        for test_num in range(2):
+            for model in self.models:
+                client = OllamaClient(model, self.mode)
+                chunker = JsonlChunker(self.max_tokens)
+                try:
+                    client.send_message({}, "") # start model
+                    logging.info(f"model started: {model}")
+                except:
+                    logging.error(f"Model not started: {model}")
+                    continue
+                
+                for file_name in files:
+                    output_dir = f"{test_num}/{client.mode}/{client.model.replace(':', '_')}/{os.path.dirname(file_name)}"
+                    os.makedirs(output_dir, exist_ok=True)
 
-        for model in self.models:
-            client = OllamaClient(model, self.mode)
-            chunker = JsonlChunker(self.max_tokens)
-            try:
-                client.send_message({}, "")  # start model
-                logging.info(f"Model started: {model}")
-            except:
-                logging.error(f"Model not started: {model}")
-                continue
-
-            # Criar pasta de saída numerada
-            base_output_dir = f"{self.mode}/{client.model.replace(':', '_')}"
-            os.makedirs(base_output_dir, exist_ok=True)
-            existing = [int(os.path.basename(p)) for p in glob.glob(f"{base_output_dir}/*") if os.path.basename(p).isdigit()]
-            next_index = max(existing, default=0) + 1
-            output_session_dir = os.path.join(base_output_dir, str(next_index))
-            os.makedirs(output_session_dir, exist_ok=True)
-
-            logging.info(f"Saving results in: {output_session_dir}")
-
-            for file_name in files:
-                output_file = os.path.join(output_session_dir, os.path.basename(file_name))
-
-                result = self.__inference(client, file_name, chunker)
-                pd.DataFrame(result).to_json(output_file, orient="records", lines=True, force_ascii=False)
-                logging.info(f"{self.mode} Saved: {output_file}")
+                    output_file = os.path.join(output_dir, os.path.basename(file_name))
+                    result = self.__inference(client, file_name, chunker)
+                    
+                    pd.DataFrame(result).to_json(output_file, orient="records", lines=True, force_ascii=False)
+                    logging.info(f"{self.mode} Saved: {output_file}")
 
 class ArgumentParserBuilder:
     @staticmethod
