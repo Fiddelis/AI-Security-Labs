@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events related to file creation and network connection from unusual processes or with no associated process, along with a suspicious Notepad executable running with specific command line arguments.\",\n  \"CONFIDENCE\": 0.85\n}"}

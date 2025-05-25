@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple ImageLoad events for EXCEL.EXE loading multiple DLLs, including suspicious AMSI.dll. Additionally, a FileCreate event for a .LNK file which could be indicative of LNK-based attacks.\",\n  \"CONFIDENCE\": 0.85\n}"}

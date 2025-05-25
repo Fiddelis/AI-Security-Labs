@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (SDXHelper.exe, EXCEL.EXE) repeatedly loading system DLLs (combase.dll, urlmon.dll, amsi.dll), suggesting possible malicious behavior such as DLL search order hijacking.\",\n  \"CONFIDENCE\": 0.85\n}"}

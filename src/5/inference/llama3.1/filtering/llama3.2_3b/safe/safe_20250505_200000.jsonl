@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes with repeated registry value set events, and suspicious file creation events involving svchost.exe and winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}

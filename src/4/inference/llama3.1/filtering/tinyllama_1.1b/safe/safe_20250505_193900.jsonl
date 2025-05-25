@@ -1,0 +1,2 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of chrome.exe are making registry value sets and network connections. This could be indicative of a malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"A registry value was set by chrome.exe, which is a common and legitimate action.\",\n  \"CONFIDENCE\": 0.1\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"High frequency of PowerShell events, including registry modifications and file creations\/deletions. Multiple instances of the same command line indicate scripted or automated behavior.\",\n  \"CONFIDENCE\": 0.85\n}"}

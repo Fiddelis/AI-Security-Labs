@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains normal system events, such as boot-related tasks and summary events. There is no indication of malicious behavior.\",\n  \"CONFIDENCE\": 0.95\n}"}

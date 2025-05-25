@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch shows excessive PowerShell activity with numerous file creations and image loads in a short period, suggesting potential script execution or malicious behavior.\",\n  \"CONFIDENCE\": 0.95\n}"}

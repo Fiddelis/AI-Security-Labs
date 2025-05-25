@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes (e.g. WMIC, whoami) and network connections (e.g. chrome.exe, cmd.exe with wmic command), as well as unusual file accesses.\",\n  \"CONFIDENCE\": 0.85\n}"}

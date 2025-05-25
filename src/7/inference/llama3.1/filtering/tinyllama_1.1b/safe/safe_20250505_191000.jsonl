@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple instances of the same process (SDXHelper.exe, rundll32.exe, and EXCEL.EXE) loading DLLs from the System32 directory. This could be indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

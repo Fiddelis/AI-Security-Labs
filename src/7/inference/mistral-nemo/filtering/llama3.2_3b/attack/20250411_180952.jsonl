@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected including creating admin users, modifying groups, and accessing processes. Also, unusual file creation events with svchost.exe.\",\n  \"CONFIDENCE\": 0.95\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive process creations from unknown sources followed by a known system process (smss.exe), indicating potential suspicious activity.\",\n  \"CONFIDENCE\": 0.75\n}"}

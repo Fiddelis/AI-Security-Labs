@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe creating files in temporary directories, which could be indicative of lateral movement or malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

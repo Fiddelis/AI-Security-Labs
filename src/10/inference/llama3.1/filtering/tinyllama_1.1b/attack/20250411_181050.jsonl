@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_181050.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and activities, including creation of unknown files, registry value changes, and network connections.\",\n  \"CONFIDENCE\": 0.8\n}"}

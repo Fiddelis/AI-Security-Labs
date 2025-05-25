@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"All events are normal system logon and shutdown tasks or non-event logs. No malicious behavior detected.\",\n  \"CONFIDENCE\": 0.95\n}"}

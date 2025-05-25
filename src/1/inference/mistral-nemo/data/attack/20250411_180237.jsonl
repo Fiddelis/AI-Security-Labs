@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple occurrences of powershell.exe being executed followed by file creation and access events, suggesting potential script execution or data exfiltration.\",\n  \"CONFIDENCE\": 0.75\n}"}

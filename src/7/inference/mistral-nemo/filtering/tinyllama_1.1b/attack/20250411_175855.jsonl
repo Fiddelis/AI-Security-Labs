@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events of Powershell.exe accessing registry and processes, along with Chrome.exe loading images. This could indicate malicious behavior or privilege escalation.\",\n  \"CONFIDENCE\": 0.75\n}"}

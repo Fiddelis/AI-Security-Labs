@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Presence of suspicious tasks such as 'Process Creation' with a null process object, and system events like 'SystemStart', 'VsmPolicyEnablement', and 'BootType', suggest potentially malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple occurrences of PowerShell.exe and cmd.exe processes associated with registry modifications and file creations, suggesting potential malware installation or modification of system settings.\",\n  \"CONFIDENCE\": 0.9\n}"}

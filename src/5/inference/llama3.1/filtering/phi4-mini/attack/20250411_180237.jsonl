@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious process execution and file creation events, including potential malicious activity from powershell.exe and cmd.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

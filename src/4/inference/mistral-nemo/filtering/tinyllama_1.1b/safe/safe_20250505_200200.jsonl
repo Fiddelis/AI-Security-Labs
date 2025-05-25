@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell events including command-line execution, image loads, and file deletion\/deletion attempt within a short timeframe. Also notable is the SSH network connection event.\",\n  \"CONFIDENCE\": 0.95\n}"}

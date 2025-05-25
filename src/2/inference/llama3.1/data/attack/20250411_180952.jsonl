@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious processes and registry value modifications, including attempts to create new users and groups, and access sensitive areas of the system.\",\n  \"CONFIDENCE\": 0.9\n}"}

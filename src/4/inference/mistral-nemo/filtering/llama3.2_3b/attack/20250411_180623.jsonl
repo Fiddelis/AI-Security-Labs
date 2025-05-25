@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\"CLASSIFICATION\": \"INTERESTING\", \"JUSTIFICATION\": \"Multiple PowerShell.exe processes executing consecutively with varying tasks such as Dns queries, registry value sets, image loads, file creation and deletion which could indicate a script or policy test activity.\", \"CONFIDENCE\": 0.8}"}

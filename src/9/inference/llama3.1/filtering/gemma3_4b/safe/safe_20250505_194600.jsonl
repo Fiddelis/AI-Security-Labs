@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple instances of suspicious file operations, including creation of files in the Downloads folder and registry value set events.\",\n  \"CONFIDENCE\": 0.8\n}"}

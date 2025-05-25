@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry value sets for chrome.exe and a pipe created by updater.exe suggest possible malicious activity such as persistence or data exfiltration.\",\n  \"CONFIDENCE\": 0.85\n}"}

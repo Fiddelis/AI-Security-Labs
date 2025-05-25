@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell being invoked consecutively, followed by file deletions and pipe creations, indicative of possible command execution and file manipulation.\",\n  \"CONFIDENCE\": 0.75\n}"}

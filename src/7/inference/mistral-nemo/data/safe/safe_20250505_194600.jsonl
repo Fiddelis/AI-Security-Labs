@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of notepad.exe creating and editing files in Downloads folder, which is unusual for a legitimate user behavior. Additionally, rundll32.exe process creation with non-standard command line arguments.\",\n  \"CONFIDENCE\": 0.85\n}"}

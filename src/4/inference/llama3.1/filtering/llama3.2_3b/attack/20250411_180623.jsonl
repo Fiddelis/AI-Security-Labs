@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe accessing registry, loading images, and creating files, as well as other suspicious activities.\",\n  \"CONFIDENCE\": 0.95\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple occurrences of powershell.exe with different actions and no associated file events, along with the creation of an unusual file entrada_logico.txt.\",\n  \"CONFIDENCE\": 0.95\n}"}

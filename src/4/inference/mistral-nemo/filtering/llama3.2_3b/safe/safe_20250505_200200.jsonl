@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual behaviors involving PowerShell.exe and winlogbeat.exe within a short time frame, including file creation, access to system directories, and deletion of temporary scripts.\",\n  \"CONFIDENCE\": 0.95\n}"}

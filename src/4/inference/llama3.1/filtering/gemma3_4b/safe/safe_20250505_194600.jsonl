@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of File created events for winlogbeat-8.15.1-windows-x86_64 and the presence of a suspicious rundll32.exe command line argument.\",\n  \"CONFIDENCE\": 0.9\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The batch consists mostly of standard Windows event tasks such as 'DirtyBootShutdown', 'BootMenuPolicy', and 'Summary2'. No suspicious activities or anomalies were detected.\",\n  \"CONFIDENCE\": 0.95\n}"}

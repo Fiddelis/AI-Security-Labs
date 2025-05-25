@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities are observed, including repeated loading of DLLs by powershell.exe and creation\/deletion of files in user directories.\",\n  \"CONFIDENCE\": 0.95\n}"}

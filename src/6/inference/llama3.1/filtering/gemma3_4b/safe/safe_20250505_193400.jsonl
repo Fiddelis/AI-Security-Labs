@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple Process Creation events with a legitimate process (smss.exe) followed by an unusual 'DirtyBootShutdown' and 'DirtyTransition' event, indicating potential exploitation of the system.\",\n  \"CONFIDENCE\": 0.85\n}"}

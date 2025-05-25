@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious activity, including the creation of multiple registry values and files, which could indicate malware or malicious behavior.\",\n  \"CONFIDENCE\": 0.9\n}"}
+{"file":"data\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and Chrome executing suspicious commands, potential malware activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

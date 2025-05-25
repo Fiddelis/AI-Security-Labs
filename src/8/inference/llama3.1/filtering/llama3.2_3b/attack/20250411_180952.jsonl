@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes, such as cmd.exe and powershell.exe, are creating new users and groups in the domain. Additionally, files are being created on the system with potentially suspicious paths.\",\n  \"CONFIDENCE\": 0.8\n}"}

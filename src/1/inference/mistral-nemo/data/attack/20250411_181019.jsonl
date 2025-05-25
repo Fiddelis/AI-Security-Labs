@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_181019.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell executions and suspicious service creation attempts ('sc.exe') within a short period of time.\",\n  \"CONFIDENCE\": 0.9\n}"}
+{"file":"data\/attack\/20250411_181019.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive registry value set events for chrome.exe along with powershell.exe access event suggests possible malicious activity.\",\n  \"CONFIDENCE\": 0.7\n}"}

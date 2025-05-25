@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events are observed, including repeated access to PowerShell and creation of new files. This suggests a possible lateral movement or persistence mechanism.\",\n  \"CONFIDENCE\": 0.9\n}"}

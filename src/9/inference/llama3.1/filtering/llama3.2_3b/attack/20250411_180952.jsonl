@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple process creation events for suspicious executables (e.g., whoami.exe, cmd.exe with malicious command line arguments), combined with file creation events indicating potential malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

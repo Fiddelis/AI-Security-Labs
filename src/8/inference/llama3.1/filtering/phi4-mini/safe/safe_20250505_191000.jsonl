@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated loading of the same DLL files by EXCEL.EXE and SDXHelper.exe processes, which could indicate potential malware activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

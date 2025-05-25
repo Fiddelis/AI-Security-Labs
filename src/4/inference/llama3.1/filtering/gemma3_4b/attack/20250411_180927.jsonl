@@ -1,0 +1,2 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious process creations, registry value sets, and file accesses, indicating potential malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual registry events and file creation by legitimate processes, specifically powershell.exe.\",\n  \"CONFIDENCE\": 0.9\n}"}

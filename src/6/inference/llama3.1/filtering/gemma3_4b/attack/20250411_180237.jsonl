@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple instances of suspicious activity, including registry value set and file creation events, which are often indicative of malware or malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

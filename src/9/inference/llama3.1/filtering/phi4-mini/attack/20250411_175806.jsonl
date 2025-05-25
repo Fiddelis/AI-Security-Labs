@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious activities, including multiple instances of Registry value set (rule: RegistryEvent) and File created (rule: FileCreate) events, which may indicate a potential threat.\",\n  \"CONFIDENCE\": 0.85\n}"}

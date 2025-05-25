@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (chrome.exe, powershell.exe, cmd.exe, net.exe) are creating network connections and registry modifications. Additionally, file creation events are being triggered by svchost.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

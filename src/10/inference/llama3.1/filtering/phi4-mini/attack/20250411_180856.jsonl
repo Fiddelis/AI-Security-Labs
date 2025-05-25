@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected, including creation of new processes and files, access to sensitive registry values, and loading of DLLs. This suggests potential malware activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

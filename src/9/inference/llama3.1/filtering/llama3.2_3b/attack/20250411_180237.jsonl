@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious activities such as modifying registry values, creating new files, and accessing processes with potential malicious intent.\",\n  \"CONFIDENCE\": 0.9\n}"}

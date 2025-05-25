@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180823.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events detected, including multiple instances of chrome.exe loading DLLs and svchost.exe creating files in the Windows Task folder.\",\n  \"CONFIDENCE\": 0.8\n}"}

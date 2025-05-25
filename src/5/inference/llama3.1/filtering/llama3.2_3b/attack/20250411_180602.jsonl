@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated registry value set and process access events involving powershell.exe and chrome.exe, along with a suspicious DLL load from amsi.dll. Additionally, a file creation event involving pacote_base.txt.\",\n  \"CONFIDENCE\": 0.85\n}"}

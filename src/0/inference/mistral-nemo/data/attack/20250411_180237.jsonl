@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell and cmd.exe processes executed, with some tasks including Registry value sets and file creations. Additionally, the whoami.exe process was created which could indicate reconnaissance activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

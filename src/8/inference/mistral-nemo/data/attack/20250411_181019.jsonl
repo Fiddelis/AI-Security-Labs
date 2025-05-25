@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_181019.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell execution, combined with service manipulation attempts using sc.exe and unusual registry accesses.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"data\/attack\/20250411_181019.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple identical registry events followed by image loads of potentially suspicious DLLs and then a powershell.exe access event.\",\n  \"CONFIDENCE\": 0.8\n}"}

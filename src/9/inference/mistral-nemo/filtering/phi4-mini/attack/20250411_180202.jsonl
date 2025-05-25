@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple occurrences of powershell.exe and cmd.exe processes, along with unusual tasks such as Process Access and File Create events. Also, suspicious commands like 'whoami.exe' and 'notepad.exe'.\",\n  \"CONFIDENCE\": 0.9\n}"}

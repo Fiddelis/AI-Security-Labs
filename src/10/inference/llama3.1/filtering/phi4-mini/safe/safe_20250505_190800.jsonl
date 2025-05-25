@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe are creating, loading, and deleting files, and setting registry values. This indicates potential malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

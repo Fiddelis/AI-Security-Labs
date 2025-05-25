@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains a sequence of events related to the execution of PowerShell scripts, including loading DLLs and creating files. This is suspicious behavior that warrants further investigation.\",\n  \"CONFIDENCE\": 0.95\n}"}

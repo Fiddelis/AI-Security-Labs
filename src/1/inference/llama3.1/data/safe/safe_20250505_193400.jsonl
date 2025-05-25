@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of 'Process Creation' event and a sudden change in system events (e.g., multiple instances of 'None', then 'DirtyTransition') may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

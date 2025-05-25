@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious processes (powershell.exe, ipconfig.exe) and frequent image loading events for these processes indicate potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

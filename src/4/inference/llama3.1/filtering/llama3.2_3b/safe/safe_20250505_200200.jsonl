@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities involving PowerShell and file creation\/deletion, including access to sensitive directories.\",\n  \"CONFIDENCE\": 0.95\n}"}

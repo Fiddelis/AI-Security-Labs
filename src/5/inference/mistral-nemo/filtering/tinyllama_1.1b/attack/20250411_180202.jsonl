@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple Windows Management Instrumentation Command-line (WMIC.exe) accesses followed by PowerShell execution and file creation. This could indicate lateral movement or privilege escalation.\",\n  \"CONFIDENCE\": 0.85\n}"}

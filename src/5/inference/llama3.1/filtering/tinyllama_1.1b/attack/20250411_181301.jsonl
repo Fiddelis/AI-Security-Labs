@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious registry value sets and file creations from trusted processes, along with multiple instances of image loads for amsi.dll, indicate potential malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

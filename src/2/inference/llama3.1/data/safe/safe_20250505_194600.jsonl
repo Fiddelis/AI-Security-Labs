@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains a combination of legitimate system processes and suspicious registry value sets, suggesting potential tampering.\",\n  \"CONFIDENCE\": 0.85\n}"}

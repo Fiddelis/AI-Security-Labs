@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180213.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creations and accesses, including PowerShell commands to create a backup of the sethc.exe file, and potential code execution through a malicious cmd.exe command.\",\n  \"CONFIDENCE\": 0.8\n}"}

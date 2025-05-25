@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple power shell processes created and deleted files in a short period, along with unusual DLL loading for powershell.exe.\",\n  \"CONFIDENCE\": 0.75\n}"}

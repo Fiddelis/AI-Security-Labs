@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of Excel.exe and SDXHelper.exe loading suspicious DLLs like urlmon.dll and amsi.dll. Also, multiple registry value set events by svchost.exe and RuntimeBroker.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

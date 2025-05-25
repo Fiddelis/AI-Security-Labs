@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of 'Registry' process creation and multiple system events (e.g. SystemStart, DirtyBootShutdown) indicate potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and registry access events, including creation of new processes and loading of DLLs from suspicious directories.\",\n  \"CONFIDENCE\": 0.9\n}"}
+{"file":"data\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and svchost.exe accessing registry values, potentially indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

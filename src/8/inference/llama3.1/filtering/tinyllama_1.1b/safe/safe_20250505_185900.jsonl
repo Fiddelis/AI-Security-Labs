@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of 'powershell.exe' and 'winlogbeat.exe' exhibiting suspicious behavior, including loading of various DLLs and creation of files in unexpected locations.\",\n  \"CONFIDENCE\": 0.87\n}"}

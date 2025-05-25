@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell processes running consecutively with registry value set and process access events, suggesting possible script execution.\",\n  \"CONFIDENCE\": 0.75\n}"}

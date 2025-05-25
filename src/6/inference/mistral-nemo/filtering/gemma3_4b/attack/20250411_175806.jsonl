@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell.exe and cmd.exe being used to create registry values and modify system settings, suggesting potential malicious activity such as persistence mechanisms or command execution.\",\n  \"CONFIDENCE\": 0.95\n}"}

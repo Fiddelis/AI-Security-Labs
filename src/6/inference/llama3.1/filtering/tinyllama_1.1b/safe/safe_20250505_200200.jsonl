@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repetitive process creation and image loading of powershell.exe, combined with potential malicious file access (e.g., File Delete logged)\",\n  \"CONFIDENCE\": 0.85\n}"}

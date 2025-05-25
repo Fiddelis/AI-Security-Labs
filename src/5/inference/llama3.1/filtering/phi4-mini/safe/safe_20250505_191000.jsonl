@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE have been loading DLLs from the System32 folder, which could indicate malicious activity. Additionally, there are multiple DNS queries being performed by EXCEL.EXE.\",\n  \"CONFIDENCE\": 0.8\n}"}

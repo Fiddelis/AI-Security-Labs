@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell processes executing commands and loading files, one of which deleted a script file afterwards. Also, an SSH connection was detected.\",\n  \"CONFIDENCE\": 0.85\n}"}

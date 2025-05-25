@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive registry modifications by chrome.exe and powershell.exe, followed by file creation by winlogbeat.exe. This pattern could indicate attempted persistence or privilege escalation.\",\n  \"CONFIDENCE\": 0.85\n}"}

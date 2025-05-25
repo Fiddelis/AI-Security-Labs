@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry value sets and file creation events by winlogbeat.exe, followed by multiple powershell.exe processes. This could indicate an attacker using these tools to prepare for further actions.\",\n  \"CONFIDENCE\": 0.85\n}"}

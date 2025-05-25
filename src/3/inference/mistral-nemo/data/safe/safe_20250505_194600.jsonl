@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple files created by notepad.exe and winlogbeat.exe in rapid succession, indicating potential data exfiltration or unwanted behavior.\",\n  \"CONFIDENCE\": 0.75\n}"}

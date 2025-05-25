@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_175806.jsonl","analysis":"{\"CLASSIFICATION\": \"INTERESTING\", \"JUSTIFICATION\": \"Multiple attempts to create new registry keys and file creations from powershell.exe suggest potential installation of malicious software or persistence mechanism.\", \"CONFIDENCE\": 0.85}"}

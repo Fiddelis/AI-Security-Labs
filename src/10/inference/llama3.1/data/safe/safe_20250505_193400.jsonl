@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of repeated 'None' events and a mix of system initialization and process creation events, including the creation of smss.exe, indicates an unusual pattern that warrants investigation.\",\n  \"CONFIDENCE\": 0.8\n}"}

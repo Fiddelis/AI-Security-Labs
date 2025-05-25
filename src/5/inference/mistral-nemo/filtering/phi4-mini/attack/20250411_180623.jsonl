@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180623.jsonl","analysis":"{\"CLASSIFICATION\": \"INTERESTING\", \"JUSTIFICATION\": \"The batch contains multiple PowerShell events including file creations, registry value sets, and a delete event on the same file within a short time frame, suggesting potentially malicious activity.\", \"CONFIDENCE\": 0.85}"}

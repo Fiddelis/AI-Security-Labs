@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of multiple Registry value set events and File created events, combined with the repeated access to PowerShell processes, suggests potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

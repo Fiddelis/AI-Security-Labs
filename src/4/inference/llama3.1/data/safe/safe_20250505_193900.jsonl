@@ -1,0 +1,2 @@
+{"file":"data\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of chrome.exe are setting registry values and making network connections, which may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"data\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of Chrome and updater.exe are creating registry values, loading images, and interacting with system files.\",\n  \"CONFIDENCE\": 0.95\n}"}

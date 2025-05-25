@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious file creation and access events, potential lateral movement attempts, and unusual command execution.\",\n  \"CONFIDENCE\": 0.85\n}"}

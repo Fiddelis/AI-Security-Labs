@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"There is a consistent pattern of EXCEL.EXE loading multiple DLLs from the Windows System32 directory, which may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

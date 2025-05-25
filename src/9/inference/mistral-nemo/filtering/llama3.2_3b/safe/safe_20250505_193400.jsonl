@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The batch consists of Windows Event Log tasks which are standard system boot and shutdown events, not indicative of any malicious behavior. No unusual processes or activities were observed.\",\n  \"CONFIDENCE\": 1.0\n}"}

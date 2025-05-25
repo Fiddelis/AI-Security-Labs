@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple successful file creations by notepad.exe followed by loading of urlmon.dll, suggesting possible malicious activity such as downloading and executing malware.\",\n  \"CONFIDENCE\": 0.85\n}"}

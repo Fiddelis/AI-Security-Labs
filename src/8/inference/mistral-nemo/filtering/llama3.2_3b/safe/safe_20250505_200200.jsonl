@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell events related to a single user account within a short timeframe, including execution of scripts and loading of potentially malicious DLLs.\",\n  \"CONFIDENCE\": 0.95\n}"}

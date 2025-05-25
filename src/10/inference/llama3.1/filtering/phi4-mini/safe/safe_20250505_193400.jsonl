@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of Process Creation and unusual task names like DirtyTransition, VsmPolicyEnablement, BootMenuPolicy, LeapSecondDataUpdate, which are not typical system tasks.\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_181050.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple suspicious activities involving PowerShell and cmd.exe processes with encoded strings, suggesting potential command-line-based payload deployment or execution of malicious scripts.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious powershell.exe processes with various command lines and Winlog events suggests potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"data\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events involving PowerShell and WinLogBeat, including registry value set, process accessed, and file creation.\",\n  \"CONFIDENCE\": 0.8\n}"}

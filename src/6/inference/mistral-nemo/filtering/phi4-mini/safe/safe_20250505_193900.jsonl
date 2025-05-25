@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual activities within a short span: repeated registry value sets for chrome.exe, unexpected image loads (amsi.dll, MpOAV.dll), and creation of updater.exe with extensive command line arguments.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are creating files with suspicious paths, and some tasks seem to be related to registry or process creation, which could indicate malicious behavior.\",\n  \"CONFIDENCE\": 0.8\n}"}

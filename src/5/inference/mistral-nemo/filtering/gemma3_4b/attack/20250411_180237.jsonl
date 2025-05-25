@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple occurrences of powershell.exe and cmd.exe, both known for command execution. Registry values set and file created events suggest potential configuration changes or data exfiltration.\",\n  \"CONFIDENCE\": 0.85\n}"}

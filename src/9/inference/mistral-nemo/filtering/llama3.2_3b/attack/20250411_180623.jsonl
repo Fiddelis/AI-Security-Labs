@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive PowerShell events including file creation and deletion in temp folder, along with registry modifications, suggest possible malicious script execution.\",\n  \"CONFIDENCE\": 0.85\n}"}

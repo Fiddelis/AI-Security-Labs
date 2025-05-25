@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell and Chrome processes creating registry values followed by image load events on suspicious DLLs could indicate potentially malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

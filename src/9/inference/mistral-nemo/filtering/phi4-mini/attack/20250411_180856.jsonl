@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected, including repeated network connections by chrome.exe, execution of WMIC.exe loading multiple DLLs, and creation of a new file by winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

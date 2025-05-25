@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple ImageLoad events involving PowerShell and Windows Defender DLLs, along with a suspicious ProcessCreate event for ipconfig.exe with the '\/all' flag.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process access and creation events were observed, including execution of PowerShell and WMIC utilities. Additionally, file creation events were detected for unknown files.\",\n  \"CONFIDENCE\": 0.85\n}"}

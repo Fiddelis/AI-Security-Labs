@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple 'Process Creation' events with no other associated process information, followed by numerous 'None' task events. This unusual pattern could indicate an attempt to conceal malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

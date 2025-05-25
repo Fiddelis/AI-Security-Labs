@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity detected: multiple instances of WMIC.exe loading DLLs and PowerShell processes interacting with the system in an unusual manner.\",\n  \"CONFIDENCE\": 0.9\n}"}

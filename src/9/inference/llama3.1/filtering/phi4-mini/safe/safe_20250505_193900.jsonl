@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (chrome.exe, svchost.exe, WmiPrvSE.exe) load various DLLs from suspicious locations, and a new executable (updater.exe) is created with an unusual command line.\",\n  \"CONFIDENCE\": 0.87\n}"}

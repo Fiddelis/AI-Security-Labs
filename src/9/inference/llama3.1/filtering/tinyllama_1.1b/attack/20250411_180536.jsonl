@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious process creations and registry value sets, including powershell.exe, cmd.exe, sc.exe, and svchost.exe. Additionally, there are multiple file creation events.\",\n  \"CONFIDENCE\": 0.85\n}"}

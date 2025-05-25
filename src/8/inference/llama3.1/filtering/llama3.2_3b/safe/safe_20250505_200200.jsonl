@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and winlogbeat.exe accessing sensitive system files, including temporary directories and configuration files.\",\n  \"CONFIDENCE\": 0.9\n}"}

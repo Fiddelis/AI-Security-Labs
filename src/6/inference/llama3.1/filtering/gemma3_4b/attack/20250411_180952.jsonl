@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of multiple attempts to create or access sensitive files and registry values, particularly the repeated creation of a suspicious file in the Windows System32 directory, suggests malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\"CLASSIFICATION\": \"INTERESTING\", \"JUSTIFICATION\": \"Frequent PowerShell activity with varying command lines, including loading of potentially suspicious DLLs (clrjit.dll, MpOAV.dll), file deletion, and pipe creation.\", \"CONFIDENCE\": 0.85}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple process creation events with a legitimate process (smss.exe) and some unknown tasks, which could be indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

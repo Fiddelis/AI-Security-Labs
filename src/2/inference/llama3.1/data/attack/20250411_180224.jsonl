@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple attempts to create and schedule tasks using schtasks, set registry values, and create files in sensitive locations. This behavior is suspicious and could be indicative of a potential threat.\",\n  \"CONFIDENCE\": 0.9\n}"}

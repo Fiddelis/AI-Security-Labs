@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe accessing the registry, suggesting potential persistence mechanisms being set up. Additionally, unusual file creation events involving winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.95\n}"}

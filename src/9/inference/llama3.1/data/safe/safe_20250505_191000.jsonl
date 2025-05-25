@@ -1,0 +1,2 @@
+{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains repeated and suspicious loading of DLLs by EXCEL.EXE, which may indicate potential malware activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated file creations in a short period, followed by DNS queries from Excel. This pattern may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

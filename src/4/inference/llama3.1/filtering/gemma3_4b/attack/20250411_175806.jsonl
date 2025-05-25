@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated and suspicious activity, including creation of registry values and executable files, indicates potential malicious behavior.\",\n  \"CONFIDENCE\": 0.85\n}"}
