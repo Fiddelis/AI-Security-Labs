@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains repeated registry value sets by svchost.exe, and potentially suspicious file creations by services.exe and DrvInst.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}

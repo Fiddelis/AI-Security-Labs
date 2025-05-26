@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell.exe, WMIC.exe and cmd.exe being executed, along with registry value sets and file creates, suggesting potential lateral movement or privilege escalation attempts.\",\n  \"CONFIDENCE\": 0.95\n}"}

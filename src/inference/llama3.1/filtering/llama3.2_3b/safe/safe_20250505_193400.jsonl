@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple 'Process Creation' events and one event with a suspicious task ('DirtyBootShutdown') which may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

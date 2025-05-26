@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple 'Process Creation' events occurred without a process name, and an unknown process 'smss.exe' was involved in one of them. This may indicate suspicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

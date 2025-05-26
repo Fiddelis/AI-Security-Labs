@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell processes loading various DLLs and creating temporary files, followed by deletion of one such file. This is indicative of potential script execution or policy testing.\",\n  \"CONFIDENCE\": 0.85\n}"}

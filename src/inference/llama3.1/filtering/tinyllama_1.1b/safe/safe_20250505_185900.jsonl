@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events suggest suspicious activity, including repeated loading of DLLs by powershell.exe and creation of files by winlogbeat.exe. Additionally, a registry value was set by mmc.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

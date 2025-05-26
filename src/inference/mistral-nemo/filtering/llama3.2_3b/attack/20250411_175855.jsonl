@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple suspicious events such as Powershell and whoami.exe processes being created, accessed and network connections detected.\",\n  \"CONFIDENCE\": 0.9\n}"}

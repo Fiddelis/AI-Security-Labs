@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events with 'Process Creation' task indicate potential malicious activity, especially since one of the processes is named 'smss.exe', which can be used for process injection attacks.\",\n  \"CONFIDENCE\": 0.9\n}"}

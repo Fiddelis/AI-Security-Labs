@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry value sets and image loads by chrome.exe, which could indicate a malware or unauthorized activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

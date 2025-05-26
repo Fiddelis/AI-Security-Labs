@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events related to powershell.exe loading DLLs and creating files, as well as a suspicious file delete logged event. This combination of events suggests potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

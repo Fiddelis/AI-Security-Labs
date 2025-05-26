@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of the EXCEL.EXE process loading suspicious DLLs, including amsi.dll and coml2.dll. This behavior is often indicative of malware or malicious activity.\",\n  \"CONFIDENCE\": 0.95\n}"}
