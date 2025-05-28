@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple 'Process Creation' events, one of which involves the suspicious 'Registry' process. This combined with several 'None' tasks suggests a potential attempt to hide malicious activity.\",\n  \"CONFIDENCE\": 0.75\n}"}

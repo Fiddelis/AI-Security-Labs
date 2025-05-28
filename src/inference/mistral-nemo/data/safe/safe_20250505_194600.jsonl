@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple successful file creation events involving 'notepad.exe' and 'winlogbeat.exe', with the same file paths repeated consecutively. This could indicate an attempted persistence mechanism or data exfiltration.\",\n  \"CONFIDENCE\": 0.85\n}"}
