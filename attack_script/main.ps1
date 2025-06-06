@@ -1,6 +1,6 @@
-$numFile = 5
+$numFile = 8
 
-for ($i = 1; $i -le $numFile; $i++) {
+for ($i = 6; $i -le $numFile; $i++) {
     $file = ".\scenario_$i.csv"
     
     if (Test-Path $file) {

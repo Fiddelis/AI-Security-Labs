@@ -7,7 +7,7 @@ es = Elasticsearch(
     http_auth=("elastic", "123456")
 )
 
-data = pd.read_csv('safe_logs.csv')
+data = pd.read_csv('tests.csv')
 
 # Conversão de Series para timestamp e adição do tempo final
 data['Execution Time (UTC)'] = pd.to_datetime(data['Execution Time (UTC)'], format="%Y-%m-%dT%H:%M:%SZ")
@@ -45,4 +45,4 @@ for index, row in data.iterrows():
     
     # Salvando dados de eventos em data/events/{timestamp}.csv
     pd_events = pd.DataFrame(events)
-    pd_events.to_json(f'data/safe/safe_{row['Execution Time (UTC)'].strftime("%Y%m%d_%H%M%S")}.jsonl', orient="records", lines=True, force_ascii=False)
+    pd_events.to_json(f'attacks/{row['Execution Time (UTC)'].strftime("%Y%m%d_%H%M%S")}.jsonl', orient="records", lines=True, force_ascii=False)

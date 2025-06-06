@@ -1,0 +1,4 @@
+"Order","Technique","TestName","auto_generated_guid","supported_platforms","TimeoutSeconds","InputArgs","AtomicsFolder","enabled","notes"
+,"T1047","Create a Process using WMI Query and an Encoded Command","7db7a7f9-9531-4840-9b30-46220135441c","windows","120","","Public","True",""
+,"T1552.001","WinPwn - sensitivefiles","114dd4e3-8d1c-4ea7-bb8d-8d8f6aca21f0","windows","120","","Public","True",""
+,"T1021.002","Map Admin Share PowerShell","514e9cd7-9207-4882-98b1-c8f791bae3c5","windows","120","","Public","True",""

@@ -1,0 +1,4 @@
+"Order","Technique","TestName","auto_generated_guid","supported_platforms","TimeoutSeconds","InputArgs","AtomicsFolder","enabled","notes"
+,"T1562.004","Disable Microsoft Defender Firewall","88d05800-a5e4-407e-9b53-ece4174f197f","windows","120","","Public","True",""
+,"T1003.001","Dump LSASS.exe Memory using ProcDump","0be2230c-9ab3-4ac2-8826-3199b9a0ebf8","windows","120","","Public","True",""
+,"T1082","Hostname Discovery (Windows)","85cfbf23-4a1e-4342-8792-007e004b975f","windows","120","","Public","True",""
