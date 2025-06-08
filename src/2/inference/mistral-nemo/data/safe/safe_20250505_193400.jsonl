@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple process creations, including 'Registry' and 'smss.exe', followed by numerous SYSTEM events, which could indicate a sequence of malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

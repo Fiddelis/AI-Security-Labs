@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The majority of events are related to system tasks and battery changes, which are normal operations. The presence of 'Process Creation' for 'smss.exe' is not anomalous as it's a standard Windows process.\",\n  \"CONFIDENCE\": 1\n}"}

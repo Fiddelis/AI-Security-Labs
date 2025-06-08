@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious EXCEL.EXE process is loading multiple DLLs from the Windows System32 folder, and creating a file in the user's AppData directory.\",\n  \"CONFIDENCE\": 0.8\n}"}

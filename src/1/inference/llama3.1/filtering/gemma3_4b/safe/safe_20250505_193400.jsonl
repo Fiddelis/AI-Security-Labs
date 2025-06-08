@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events such as 'Process Creation' with null process information and potentially malicious tasks like 'DirtyBootShutdown', indicating a possible system compromise.\",\n  \"CONFIDENCE\": 0.85\n}"}

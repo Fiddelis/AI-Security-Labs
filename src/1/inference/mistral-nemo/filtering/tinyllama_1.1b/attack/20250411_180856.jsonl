@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes and events involving powershell.exe and unusual network connections from chrome.exe. Also, multiple special logons which could indicate privilege escalation.\",\n  \"CONFIDENCE\": 0.85\n}"}

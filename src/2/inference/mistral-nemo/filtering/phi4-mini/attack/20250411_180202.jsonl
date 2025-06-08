@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple powershell.exe events occurring consecutively, including a file creation event. WMIC.exe and wmiprvse.exe processes involved which are commonly used in suspicious activities.\",\n  \"CONFIDENCE\": 0.95\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180641.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious processes (powershell.exe, csc.exe, modulo_temporario.exe, tarefa_base.exe) and registry value sets. Also, a potentially malicious executable file created.\",\n  \"CONFIDENCE\": 0.9\n}"}

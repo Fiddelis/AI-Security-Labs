@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated occurrences of suspicious events, such as registry modifications and file creations, involving known malicious actors like WMIC.exe and suspicious processes like powershell.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

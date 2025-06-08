@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of Notepad creating files, followed by a suspicious process create event for rundll32.exe with an unknown GUID. This pattern is indicative of possible malware infection or attack.\",\n  \"CONFIDENCE\": 0.95\n}"}

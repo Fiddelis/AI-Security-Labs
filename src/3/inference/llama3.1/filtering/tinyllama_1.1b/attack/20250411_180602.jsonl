@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious activity, including frequent Registry value set events and a potential lateral movement attempt via winlogbeat.\",\n  \"CONFIDENCE\": 0.8\n}"}

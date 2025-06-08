@@ -1,0 +1,2 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180654.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell events followed by file creation and deletion, suggesting potential malicious script execution.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180654.jsonl","analysis":"{\"CLASSIFICATION\": \"INTERESTING\", \"JUSTIFICATION\": \"PowerShell execution with unknown script and remote command execution task present.\", \"CONFIDENCE\": 0.8}"}

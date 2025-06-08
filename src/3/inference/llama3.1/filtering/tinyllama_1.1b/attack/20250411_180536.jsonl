@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious network connections and registry value sets by known malicious executables, as well as an unusual number of image loads from .NET assemblies.\",\n  \"CONFIDENCE\": 0.8\n}"}

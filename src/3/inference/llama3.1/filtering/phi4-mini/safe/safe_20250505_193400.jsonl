@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of 'DirtyBootShutdown' and 'DirtyTransition' tasks, which are indicative of malicious activity, in combination with process creation events, suggests a potential security incident.\",\n  \"CONFIDENCE\": 0.9\n}"}

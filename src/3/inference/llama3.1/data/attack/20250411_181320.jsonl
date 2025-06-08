@@ -1,0 +1,3 @@
+{"file":"data\/attack\/20250411_181320.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events involving PowerShell execution and file access, including potential lateral movement attempts.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"data\/attack\/20250411_181320.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious PowerShell and .dll file operations, as well as potential registry manipulation.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"data\/attack\/20250411_181320.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple Registry value set events with unknown process names, and suspicious file access.\",\n  \"CONFIDENCE\": 0.8\n}"}

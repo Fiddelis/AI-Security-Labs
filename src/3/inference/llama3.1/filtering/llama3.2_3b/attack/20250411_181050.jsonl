@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181050.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and files have been detected, including certutil.exe executing potentially malicious scripts, registry value sets by chrome.exe, and file creations by winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}

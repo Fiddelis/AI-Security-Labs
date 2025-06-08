@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of winlogbeat.exe and chrome.exe exhibiting suspicious behavior, such as creating files in the Downloads directory and setting registry values.\",\n  \"CONFIDENCE\": 0.8\n}"}

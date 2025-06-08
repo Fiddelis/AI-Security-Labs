@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual activities involving notepad.exe and winlogbeat.exe within a short period, including file creation in downloads folder, registry modifications, and unexplained network connection.\",\n  \"CONFIDENCE\": 0.95\n}"}

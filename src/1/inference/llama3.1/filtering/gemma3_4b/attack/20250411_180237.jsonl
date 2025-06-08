@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes (powershell, cmd, tasklist) are accessing registry values or files, and some of these processes are being created or loaded in unexpected locations.\",\n  \"CONFIDENCE\": 0.85\n}"}

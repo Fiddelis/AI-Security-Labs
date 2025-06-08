@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry modifications and file creations involving unusual files (.winlogbeat.yml.new, registro_auxiliar.txt) and processes (powershell.exe), along with chrome.exe making multiple registry changes.\",\n  \"CONFIDENCE\": 0.95\n}"}

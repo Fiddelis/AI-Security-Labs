@@ -1,0 +1,2 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (chrome.exe, svchost.exe) engaging in excessive registry modifications and network connections, potentially indicative of malware activity or data exfiltration.\",\n  \"CONFIDENCE\": 0.9\n}"}
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\"CLASSIFICATION\": \"NOT INTERESTING\", \"JUSTIFICATION\": \"Single type of benign activity - Chrome running.\", \"CONFIDENCE\": 1.0}"}

@@ -1,0 +1,2 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of chrome.exe are setting registry values, and there are also suspicious network connections and file creations by winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Registry value set, which may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.7\n}"}

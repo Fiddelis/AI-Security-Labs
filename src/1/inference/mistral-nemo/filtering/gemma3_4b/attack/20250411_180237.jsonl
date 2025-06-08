@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities observed within a short period. Powershell.exe running frequently, attempting to create and access files in user's Downloads folder, and commands like 'whoami.exe' being executed.\",\n  \"CONFIDENCE\": 0.85\n}"}

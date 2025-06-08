@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_195000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving Python scripts and PowerShell, which could indicate suspicious activity such as script-based attacks or privilege escalation.\",\n  \"CONFIDENCE\": 0.85\n}"}

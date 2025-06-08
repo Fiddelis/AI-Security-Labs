@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creations and accesses, including attempts to add users and groups with potentially malicious passwords.\",\n  \"CONFIDENCE\": 0.9\n}"}

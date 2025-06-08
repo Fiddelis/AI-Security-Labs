@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple FileCreate events from notepad.exe and winlogbeat.exe, which may indicate a malicious or suspicious activity.\",\n  \"CONFIDENCE\": 0.7\n}"}

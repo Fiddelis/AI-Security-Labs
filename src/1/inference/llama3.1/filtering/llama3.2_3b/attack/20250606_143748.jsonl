@@ -1,0 +1,2 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250606_143748.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated access to suspicious processes (powershell.exe) and files, including attempts to download a malicious script from GitHub.\",\n  \"CONFIDENCE\": 0.9\n}"}
+{"file":"filtering\/llama3.2_3b\/attack\/20250606_143748.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events, including PowerShell execution and remote command execution.\",\n  \"CONFIDENCE\": 0.9\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes attempting to create and modify registry keys for persistence, followed by a PowerShell process accessing files, indicating potential malware installation.\",\n  \"CONFIDENCE\": 0.95\n}"}

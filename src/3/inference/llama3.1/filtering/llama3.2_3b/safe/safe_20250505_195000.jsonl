@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_195000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are loading DLLs from system folders, and multiple files are being created by winlogbeat.exe in the Downloads folder.\",\n  \"CONFIDENCE\": 0.9\n}"}

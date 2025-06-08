@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe being executed, along with several file creation events by winlogbeat.exe, suggesting potential script execution or data exfiltration.\",\n  \"CONFIDENCE\": 0.85\n}"}

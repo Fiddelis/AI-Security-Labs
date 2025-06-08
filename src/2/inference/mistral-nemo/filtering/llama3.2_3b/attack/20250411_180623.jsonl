@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspected PowerShell script execution and deletion within a short timeframe, potentially indicative of malicious activity. PowereShell.exe loaded unknown DLL file.\",\n  \"CONFIDENCE\": 0.85\n}"}

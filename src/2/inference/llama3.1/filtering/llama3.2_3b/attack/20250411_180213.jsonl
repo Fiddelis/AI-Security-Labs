@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180213.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events, including a command executed by cmd.exe that attempts to modify the sethc.exe file, and multiple registry value sets by powershell.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}

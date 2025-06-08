@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple occurrences of PowerShell and unusual commands like 'whoami.exe' being executed. Also, frequent file creation events by winlogbeat.exe which could indicate unauthorized data exfiltration.\",\n  \"CONFIDENCE\": 0.75\n}"}

@@ -41,9 +41,12 @@ class Main:
             else:
                 logging.error(f"Mode not found: {self.mode}")
                 return None
-
-        with ThreadPoolExecutor(max_workers=1) as executor:
-            results = list(executor.map(process_chunk, event_chunks))
+        
+        results = []
+        for event in event_chunks:
+            res = process_chunk(event)
+            if res is not None:
+                results.append(res)
 
         # Flatten the results if necessary
         flattened_results = []
@@ -64,7 +67,8 @@ class Main:
             files.extend(glob.glob(f"{path}/*.jsonl"))
         random.shuffle(files)
         print(files)
-        for test_num in range(4,11):
+        # TROCAR O RANGE PARA QUANTIDADE DE TESTES
+        for test_num in range(1,11):
             for model in self.models:
                 client = OllamaClient(model, self.mode)
                 chunker = JsonlChunker(self.max_tokens)

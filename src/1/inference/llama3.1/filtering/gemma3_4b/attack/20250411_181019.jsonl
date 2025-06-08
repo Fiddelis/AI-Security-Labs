@@ -1,0 +1,2 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_181019.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events indicate potential malware or lateral movement, including suspicious process creations and registry value sets.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/gemma3_4b\/attack\/20250411_181019.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious registry value sets and unusual image loads by chrome.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

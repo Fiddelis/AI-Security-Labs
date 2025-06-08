@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving suspicious processes like.powershell.exe and cmd.exe with commands suggestive of information gathering (tasklist, whoami) within a short timeframe.\",\n  \"CONFIDENCE\": 0.85\n}"}

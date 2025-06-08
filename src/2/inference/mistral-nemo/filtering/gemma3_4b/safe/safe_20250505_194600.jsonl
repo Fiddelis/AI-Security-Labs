@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving notepad.exe creating files and accessing system resources, along with unusual registry activity by Explorer.EXE and rundll32.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

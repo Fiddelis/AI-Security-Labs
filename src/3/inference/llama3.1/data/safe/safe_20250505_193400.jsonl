@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple 'Process Creation' events, and suspicious system tasks such as 'DirtyBootShutdown', 'DirtyTransition', and repeated 'Summary2' and 'BatteryCountChange' events.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repetitive and suspicious activity from a single process ('chrome.exe') accessing the registry multiple times, which could indicate potential malicious behavior.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry value sets by chrome.exe, possibly indicative of a malicious script or malware.\",\n  \"CONFIDENCE\": 0.9\n}"}
