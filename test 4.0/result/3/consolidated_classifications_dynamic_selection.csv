@@ -1,0 +1,301 @@
+source_file,model,font,type,classification,confidence
+data/attack/20250411_175749.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8333333333333334
+data/attack/20250411_175806.jsonl,selecao_dinamica,data,attack,INTERESTING,0.95
+data/attack/20250411_175826.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8666666666666666
+data/attack/20250411_175855.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8833333333333333
+data/attack/20250411_175959.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8749999999999999
+data/attack/20250411_180055.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8833333333333333
+data/attack/20250411_180121.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8772727272727271
+data/attack/20250411_180202.jsonl,selecao_dinamica,data,attack,INTERESTING,0.85
+data/attack/20250411_180213.jsonl,selecao_dinamica,data,attack,INTERESTING,0.925
+data/attack/20250411_180224.jsonl,selecao_dinamica,data,attack,INTERESTING,0.85
+data/attack/20250411_180237.jsonl,selecao_dinamica,data,attack,NOT INTERESTING,0.85
+data/attack/20250411_180254.jsonl,selecao_dinamica,data,attack,INTERESTING,0.85
+data/attack/20250411_180316.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8941176470588235
+data/attack/20250411_180502.jsonl,selecao_dinamica,data,attack,INTERESTING,0.7999999999999999
+data/attack/20250411_180536.jsonl,selecao_dinamica,data,attack,INTERESTING,0.85
+data/attack/20250411_180602.jsonl,selecao_dinamica,data,attack,INTERESTING,0.85
+data/attack/20250411_180623.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8999999999999999
+data/attack/20250411_180641.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8666666666666667
+data/attack/20250411_180654.jsonl,selecao_dinamica,data,attack,INTERESTING,0.9
+data/attack/20250411_180711.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8833333333333332
+data/attack/20250411_180823.jsonl,selecao_dinamica,data,attack,INTERESTING,0.9
+data/attack/20250411_180856.jsonl,selecao_dinamica,data,attack,INTERESTING,0.85
+data/attack/20250411_180927.jsonl,selecao_dinamica,data,attack,INTERESTING,0.95
+data/attack/20250411_180952.jsonl,selecao_dinamica,data,attack,INTERESTING,0.95
+data/attack/20250411_181019.jsonl,selecao_dinamica,data,attack,INTERESTING,0.85
+data/attack/20250411_181050.jsonl,selecao_dinamica,data,attack,INTERESTING,0.85
+data/attack/20250411_181122.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8722222222222222
+data/attack/20250411_181227.jsonl,selecao_dinamica,data,attack,INTERESTING,0.925
+data/attack/20250411_181243.jsonl,selecao_dinamica,data,attack,INTERESTING,0.85
+data/attack/20250411_181301.jsonl,selecao_dinamica,data,attack,INTERESTING,0.85
+data/attack/20250411_181320.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8833333333333333
+data/attack/20250411_181351.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8833333333333333
+data/attack/20250606_143546.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8555555555555556
+data/attack/20250606_143623.jsonl,selecao_dinamica,data,attack,INTERESTING,0.811111111111111
+data/attack/20250606_143642.jsonl,selecao_dinamica,data,attack,INTERESTING,0.7999999999999999
+data/attack/20250606_143748.jsonl,selecao_dinamica,data,attack,INTERESTING,0.675
+data/attack/20250606_143816.jsonl,selecao_dinamica,data,attack,INTERESTING,0.9375
+data/attack/20250606_143841.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8777777777777778
+data/attack/20250606_143915.jsonl,selecao_dinamica,data,attack,INTERESTING,0.9416666666666664
+data/attack/20250606_143926.jsonl,selecao_dinamica,data,attack,INTERESTING,0.95
+data/attack/20250606_143937.jsonl,selecao_dinamica,data,attack,INTERESTING,0.8875
+data/safe/safe_20250418_134500.jsonl,selecao_dinamica,data,safe,INTERESTING,0.4499999999999999
+data/safe/safe_20250418_134601.jsonl,selecao_dinamica,data,safe,INTERESTING,0.8642857142857141
+data/safe/safe_20250418_134701.jsonl,selecao_dinamica,data,safe,NOT INTERESTING,0.9328125
+data/safe/safe_20250418_134801.jsonl,selecao_dinamica,data,safe,NOT INTERESTING,0.9235294117647058
+data/safe/safe_20250418_134901.jsonl,selecao_dinamica,data,safe,NOT INTERESTING,0.475
+data/safe/safe_20250505_184100.jsonl,selecao_dinamica,data,safe,INTERESTING,0.8708333333333331
+data/safe/safe_20250505_185900.jsonl,selecao_dinamica,data,safe,INTERESTING,0.8
+data/safe/safe_20250505_190800.jsonl,selecao_dinamica,data,safe,INTERESTING,0.85
+data/safe/safe_20250505_191000.jsonl,selecao_dinamica,data,safe,INTERESTING,0.8999999999999999
+data/safe/safe_20250505_191300.jsonl,selecao_dinamica,data,safe,INTERESTING,0.8666666666666666
+data/safe/safe_20250505_193400.jsonl,selecao_dinamica,data,safe,INTERESTING,0.85
+data/safe/safe_20250505_193900.jsonl,selecao_dinamica,data,safe,INTERESTING,0.8999999999999999
+data/safe/safe_20250505_194600.jsonl,selecao_dinamica,data,safe,NOT INTERESTING,0.85
+data/safe/safe_20250505_195000.jsonl,selecao_dinamica,data,safe,INTERESTING,0.85
+data/safe/safe_20250505_195200.jsonl,selecao_dinamica,data,safe,NOT INTERESTING,0.0725
+data/safe/safe_20250505_195500.jsonl,selecao_dinamica,data,safe,INTERESTING,0.4699999999999999
+data/safe/safe_20250505_195700.jsonl,selecao_dinamica,data,safe,NOT INTERESTING,0.8833333333333333
+data/safe/safe_20250505_200000.jsonl,selecao_dinamica,data,safe,INTERESTING,0.85
+data/safe/safe_20250505_200200.jsonl,selecao_dinamica,data,safe,INTERESTING,0.8999999999999999
+filtering/gemma3_4b/attack/20250411_175749.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8166666666666668
+filtering/gemma3_4b/attack/20250411_175806.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.95
+filtering/gemma3_4b/attack/20250411_175826.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.85
+filtering/gemma3_4b/attack/20250411_175855.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8666666666666666
+filtering/gemma3_4b/attack/20250411_175959.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8375
+filtering/gemma3_4b/attack/20250411_180055.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.9499999999999998
+filtering/gemma3_4b/attack/20250411_180121.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8954545454545453
+filtering/gemma3_4b/attack/20250411_180202.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.95
+filtering/gemma3_4b/attack/20250411_180213.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8999999999999999
+filtering/gemma3_4b/attack/20250411_180224.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8999999999999999
+filtering/gemma3_4b/attack/20250411_180237.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.85
+filtering/gemma3_4b/attack/20250411_180254.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.9333333333333332
+filtering/gemma3_4b/attack/20250411_180316.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.9058823529411764
+filtering/gemma3_4b/attack/20250411_180502.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.9
+filtering/gemma3_4b/attack/20250411_180536.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8999999999999999
+filtering/gemma3_4b/attack/20250411_180602.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8999999999999999
+filtering/gemma3_4b/attack/20250411_180623.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.85
+filtering/gemma3_4b/attack/20250411_180641.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.9333333333333332
+filtering/gemma3_4b/attack/20250411_180654.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8833333333333334
+filtering/gemma3_4b/attack/20250411_180711.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8916666666666665
+filtering/gemma3_4b/attack/20250411_180823.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8666666666666667
+filtering/gemma3_4b/attack/20250411_180856.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.85
+filtering/gemma3_4b/attack/20250411_180927.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8
+filtering/gemma3_4b/attack/20250411_180952.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8
+filtering/gemma3_4b/attack/20250411_181019.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.85
+filtering/gemma3_4b/attack/20250411_181050.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8999999999999999
+filtering/gemma3_4b/attack/20250411_181122.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.85
+filtering/gemma3_4b/attack/20250411_181227.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.875
+filtering/gemma3_4b/attack/20250411_181243.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.9
+filtering/gemma3_4b/attack/20250411_181301.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.85
+filtering/gemma3_4b/attack/20250411_181320.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.9499999999999998
+filtering/gemma3_4b/attack/20250411_181351.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.85
+filtering/gemma3_4b/attack/20250606_143546.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.9277777777777776
+filtering/gemma3_4b/attack/20250606_143623.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.8222222222222222
+filtering/gemma3_4b/attack/20250606_143642.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.7999999999999998
+filtering/gemma3_4b/attack/20250606_143748.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.7
+filtering/gemma3_4b/attack/20250606_143816.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.925
+filtering/gemma3_4b/attack/20250606_143841.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.7944444444444445
+filtering/gemma3_4b/attack/20250606_143915.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.9166666666666666
+filtering/gemma3_4b/attack/20250606_143926.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.925
+filtering/gemma3_4b/attack/20250606_143937.jsonl,selecao_dinamica,gemma3_4b,attack,INTERESTING,0.9375
+filtering/gemma3_4b/safe/safe_20250418_134500.jsonl,selecao_dinamica,gemma3_4b,safe,NOT INTERESTING,0.4375
+filtering/gemma3_4b/safe/safe_20250418_134601.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.8071428571428572
+filtering/gemma3_4b/safe/safe_20250418_134701.jsonl,selecao_dinamica,gemma3_4b,safe,NOT INTERESTING,0.8984375
+filtering/gemma3_4b/safe/safe_20250418_134801.jsonl,selecao_dinamica,gemma3_4b,safe,NOT INTERESTING,0.9058823529411764
+filtering/gemma3_4b/safe/safe_20250418_134901.jsonl,selecao_dinamica,gemma3_4b,safe,NOT INTERESTING,0.475
+filtering/gemma3_4b/safe/safe_20250505_184100.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.8583333333333333
+filtering/gemma3_4b/safe/safe_20250505_185900.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.8999999999999999
+filtering/gemma3_4b/safe/safe_20250505_190800.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.825
+filtering/gemma3_4b/safe/safe_20250505_191000.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.8
+filtering/gemma3_4b/safe/safe_20250505_191300.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.875
+filtering/gemma3_4b/safe/safe_20250505_193400.jsonl,selecao_dinamica,gemma3_4b,safe,NOT INTERESTING,0.95
+filtering/gemma3_4b/safe/safe_20250505_193900.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.8999999999999999
+filtering/gemma3_4b/safe/safe_20250505_194600.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.9
+filtering/gemma3_4b/safe/safe_20250505_195000.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.85
+filtering/gemma3_4b/safe/safe_20250505_195200.jsonl,selecao_dinamica,gemma3_4b,safe,NOT INTERESTING,0.109375
+filtering/gemma3_4b/safe/safe_20250505_195500.jsonl,selecao_dinamica,gemma3_4b,safe,NOT INTERESTING,4.372916666666667
+filtering/gemma3_4b/safe/safe_20250505_195700.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.9166666666666666
+filtering/gemma3_4b/safe/safe_20250505_200000.jsonl,selecao_dinamica,gemma3_4b,safe,NOT INTERESTING,0.8666666666666666
+filtering/gemma3_4b/safe/safe_20250505_200200.jsonl,selecao_dinamica,gemma3_4b,safe,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_175749.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.8999999999999999
+filtering/llama3.2_3b/attack/20250411_175806.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.95
+filtering/llama3.2_3b/attack/20250411_175826.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.875
+filtering/llama3.2_3b/attack/20250411_175855.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.825
+filtering/llama3.2_3b/attack/20250411_175959.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_180055.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_180121.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.8799999999999999
+filtering/llama3.2_3b/attack/20250411_180202.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_180213.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.95
+filtering/llama3.2_3b/attack/20250411_180224.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_180237.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_180254.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.95
+filtering/llama3.2_3b/attack/20250411_180316.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.8666666666666666
+filtering/llama3.2_3b/attack/20250411_180502.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_180536.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.75
+filtering/llama3.2_3b/attack/20250411_180602.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_180623.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_180641.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.95
+filtering/llama3.2_3b/attack/20250411_180654.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.8500000000000001
+filtering/llama3.2_3b/attack/20250411_180711.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.9
+filtering/llama3.2_3b/attack/20250411_180823.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.95
+filtering/llama3.2_3b/attack/20250411_180856.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_180927.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.95
+filtering/llama3.2_3b/attack/20250411_180952.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_181019.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_181050.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.95
+filtering/llama3.2_3b/attack/20250411_181122.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.9
+filtering/llama3.2_3b/attack/20250411_181227.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.8999999999999999
+filtering/llama3.2_3b/attack/20250411_181243.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.8999999999999999
+filtering/llama3.2_3b/attack/20250411_181301.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.95
+filtering/llama3.2_3b/attack/20250411_181320.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250411_181351.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.95
+filtering/llama3.2_3b/attack/20250606_143546.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.875
+filtering/llama3.2_3b/attack/20250606_143623.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.7899999999999999
+filtering/llama3.2_3b/attack/20250606_143642.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.7428571428571428
+filtering/llama3.2_3b/attack/20250606_143748.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.425
+filtering/llama3.2_3b/attack/20250606_143816.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.8833333333333333
+filtering/llama3.2_3b/attack/20250606_143841.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.85
+filtering/llama3.2_3b/attack/20250606_143915.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.925
+filtering/llama3.2_3b/attack/20250606_143926.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.925
+filtering/llama3.2_3b/attack/20250606_143937.jsonl,selecao_dinamica,llama3.2_3b,attack,INTERESTING,0.875
+filtering/llama3.2_3b/safe/safe_20250418_134500.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.425
+filtering/llama3.2_3b/safe/safe_20250418_134601.jsonl,selecao_dinamica,llama3.2_3b,safe,INTERESTING,0.8999999999999999
+filtering/llama3.2_3b/safe/safe_20250418_134701.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.943333333333333
+filtering/llama3.2_3b/safe/safe_20250418_134801.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.88125
+filtering/llama3.2_3b/safe/safe_20250418_134901.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.0
+filtering/llama3.2_3b/safe/safe_20250505_184100.jsonl,selecao_dinamica,llama3.2_3b,safe,INTERESTING,0.9125
+filtering/llama3.2_3b/safe/safe_20250505_185900.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.95
+filtering/llama3.2_3b/safe/safe_20250505_190800.jsonl,selecao_dinamica,llama3.2_3b,safe,INTERESTING,0.85
+filtering/llama3.2_3b/safe/safe_20250505_191000.jsonl,selecao_dinamica,llama3.2_3b,safe,INTERESTING,0.9
+filtering/llama3.2_3b/safe/safe_20250505_191300.jsonl,selecao_dinamica,llama3.2_3b,safe,INTERESTING,0.825
+filtering/llama3.2_3b/safe/safe_20250505_193400.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,1.0
+filtering/llama3.2_3b/safe/safe_20250505_193900.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.95
+filtering/llama3.2_3b/safe/safe_20250505_194600.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.8
+filtering/llama3.2_3b/safe/safe_20250505_195000.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.95
+filtering/llama3.2_3b/safe/safe_20250505_195200.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.0428571428571428
+filtering/llama3.2_3b/safe/safe_20250505_195500.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.3678571428571429
+filtering/llama3.2_3b/safe/safe_20250505_195700.jsonl,selecao_dinamica,llama3.2_3b,safe,INTERESTING,0.8699999999999999
+filtering/llama3.2_3b/safe/safe_20250505_200000.jsonl,selecao_dinamica,llama3.2_3b,safe,NOT INTERESTING,0.95
+filtering/llama3.2_3b/safe/safe_20250505_200200.jsonl,selecao_dinamica,llama3.2_3b,safe,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_175749.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_175806.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.95
+filtering/phi4-mini/attack/20250411_175826.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.9166666666666666
+filtering/phi4-mini/attack/20250411_175855.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_175959.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.9166666666666666
+filtering/phi4-mini/attack/20250411_180055.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8833333333333333
+filtering/phi4-mini/attack/20250411_180121.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8777777777777778
+filtering/phi4-mini/attack/20250411_180202.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_180213.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_180224.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8
+filtering/phi4-mini/attack/20250411_180237.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_180254.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_180316.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8633333333333333
+filtering/phi4-mini/attack/20250411_180502.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_180536.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_180602.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.825
+filtering/phi4-mini/attack/20250411_180623.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8999999999999999
+filtering/phi4-mini/attack/20250411_180641.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8999999999999999
+filtering/phi4-mini/attack/20250411_180654.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.95
+filtering/phi4-mini/attack/20250411_180711.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8999999999999999
+filtering/phi4-mini/attack/20250411_180823.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8999999999999999
+filtering/phi4-mini/attack/20250411_180856.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_180927.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8999999999999999
+filtering/phi4-mini/attack/20250411_180952.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.825
+filtering/phi4-mini/attack/20250411_181019.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8999999999999999
+filtering/phi4-mini/attack/20250411_181050.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.875
+filtering/phi4-mini/attack/20250411_181122.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.91875
+filtering/phi4-mini/attack/20250411_181227.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.9166666666666666
+filtering/phi4-mini/attack/20250411_181243.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.9
+filtering/phi4-mini/attack/20250411_181301.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_181320.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.85
+filtering/phi4-mini/attack/20250411_181351.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.9
+filtering/phi4-mini/attack/20250606_143546.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.9142857142857144
+filtering/phi4-mini/attack/20250606_143623.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8233333333333334
+filtering/phi4-mini/attack/20250606_143642.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.7999999999999999
+filtering/phi4-mini/attack/20250606_143748.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.6166666666666667
+filtering/phi4-mini/attack/20250606_143816.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8875
+filtering/phi4-mini/attack/20250606_143841.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.9142857142857144
+filtering/phi4-mini/attack/20250606_143915.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.8916666666666666
+filtering/phi4-mini/attack/20250606_143926.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.9375
+filtering/phi4-mini/attack/20250606_143937.jsonl,selecao_dinamica,phi4-mini,attack,INTERESTING,0.9333333333333332
+filtering/phi4-mini/safe/safe_20250418_134500.jsonl,selecao_dinamica,phi4-mini,safe,NOT INTERESTING,0.5
+filtering/phi4-mini/safe/safe_20250418_134601.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.8375
+filtering/phi4-mini/safe/safe_20250418_134701.jsonl,selecao_dinamica,phi4-mini,safe,NOT INTERESTING,0.8933333333333331
+filtering/phi4-mini/safe/safe_20250418_134801.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.90625
+filtering/phi4-mini/safe/safe_20250418_134901.jsonl,selecao_dinamica,phi4-mini,safe,NOT INTERESTING,0.0
+filtering/phi4-mini/safe/safe_20250505_184100.jsonl,selecao_dinamica,phi4-mini,safe,NOT INTERESTING,0.8833333333333333
+filtering/phi4-mini/safe/safe_20250505_185900.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.95
+filtering/phi4-mini/safe/safe_20250505_190800.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.85
+filtering/phi4-mini/safe/safe_20250505_191000.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.85
+filtering/phi4-mini/safe/safe_20250505_191300.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.8
+filtering/phi4-mini/safe/safe_20250505_193400.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.85
+filtering/phi4-mini/safe/safe_20250505_193900.jsonl,selecao_dinamica,phi4-mini,safe,NOT INTERESTING,0.8999999999999999
+filtering/phi4-mini/safe/safe_20250505_194600.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.95
+filtering/phi4-mini/safe/safe_20250505_195000.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.85
+filtering/phi4-mini/safe/safe_20250505_195200.jsonl,selecao_dinamica,phi4-mini,safe,NOT INTERESTING,0.0708333333333333
+filtering/phi4-mini/safe/safe_20250505_195500.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.515
+filtering/phi4-mini/safe/safe_20250505_195700.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.825
+filtering/phi4-mini/safe/safe_20250505_200000.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.875
+filtering/phi4-mini/safe/safe_20250505_200200.jsonl,selecao_dinamica,phi4-mini,safe,INTERESTING,0.9
+filtering/tinyllama_1.1b/attack/20250411_175749.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.825
+filtering/tinyllama_1.1b/attack/20250411_175806.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_175826.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8999999999999999
+filtering/tinyllama_1.1b/attack/20250411_175855.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_175959.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8833333333333333
+filtering/tinyllama_1.1b/attack/20250411_180055.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8999999999999999
+filtering/tinyllama_1.1b/attack/20250411_180121.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_180202.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.75
+filtering/tinyllama_1.1b/attack/20250411_180213.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.95
+filtering/tinyllama_1.1b/attack/20250411_180224.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_180237.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_180254.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.7749999999999999
+filtering/tinyllama_1.1b/attack/20250411_180316.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8999999999999998
+filtering/tinyllama_1.1b/attack/20250411_180502.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_180536.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.9
+filtering/tinyllama_1.1b/attack/20250411_180602.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_180623.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_180641.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.9
+filtering/tinyllama_1.1b/attack/20250411_180654.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.95
+filtering/tinyllama_1.1b/attack/20250411_180711.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.9
+filtering/tinyllama_1.1b/attack/20250411_180823.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.925
+filtering/tinyllama_1.1b/attack/20250411_180856.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.95
+filtering/tinyllama_1.1b/attack/20250411_180927.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.95
+filtering/tinyllama_1.1b/attack/20250411_180952.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_181019.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_181050.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.95
+filtering/tinyllama_1.1b/attack/20250411_181122.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8700000000000001
+filtering/tinyllama_1.1b/attack/20250411_181227.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8999999999999999
+filtering/tinyllama_1.1b/attack/20250411_181243.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_181301.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_181320.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250411_181351.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.85
+filtering/tinyllama_1.1b/attack/20250606_143546.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8699999999999999
+filtering/tinyllama_1.1b/attack/20250606_143623.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8049999999999999
+filtering/tinyllama_1.1b/attack/20250606_143642.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.725
+filtering/tinyllama_1.1b/attack/20250606_143748.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8999999999999999
+filtering/tinyllama_1.1b/attack/20250606_143816.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.875
+filtering/tinyllama_1.1b/attack/20250606_143841.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8666666666666666
+filtering/tinyllama_1.1b/attack/20250606_143915.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.8666666666666667
+filtering/tinyllama_1.1b/attack/20250606_143926.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.925
+filtering/tinyllama_1.1b/attack/20250606_143937.jsonl,selecao_dinamica,tinyllama_1.1b,attack,INTERESTING,0.875
+filtering/tinyllama_1.1b/safe/safe_20250418_134500.jsonl,selecao_dinamica,tinyllama_1.1b,safe,NOT INTERESTING,0.475
+filtering/tinyllama_1.1b/safe/safe_20250418_134601.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.9
+filtering/tinyllama_1.1b/safe/safe_20250418_134701.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.9071428571428573
+filtering/tinyllama_1.1b/safe/safe_20250418_134801.jsonl,selecao_dinamica,tinyllama_1.1b,safe,NOT INTERESTING,0.9166666666666666
+filtering/tinyllama_1.1b/safe/safe_20250418_134901.jsonl,selecao_dinamica,tinyllama_1.1b,safe,NOT INTERESTING,0.0
+filtering/tinyllama_1.1b/safe/safe_20250505_184100.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.8416666666666665
+filtering/tinyllama_1.1b/safe/safe_20250505_185900.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.85
+filtering/tinyllama_1.1b/safe/safe_20250505_190800.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.95
+filtering/tinyllama_1.1b/safe/safe_20250505_191000.jsonl,selecao_dinamica,tinyllama_1.1b,safe,NOT INTERESTING,0.825
+filtering/tinyllama_1.1b/safe/safe_20250505_191300.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.8875000000000001
+filtering/tinyllama_1.1b/safe/safe_20250505_193400.jsonl,selecao_dinamica,tinyllama_1.1b,safe,NOT INTERESTING,1.0
+filtering/tinyllama_1.1b/safe/safe_20250505_193900.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.9
+filtering/tinyllama_1.1b/safe/safe_20250505_194600.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.85
+filtering/tinyllama_1.1b/safe/safe_20250505_195000.jsonl,selecao_dinamica,tinyllama_1.1b,safe,NOT INTERESTING,0.875
+filtering/tinyllama_1.1b/safe/safe_20250505_195200.jsonl,selecao_dinamica,tinyllama_1.1b,safe,NOT INTERESTING,0.173076923076923
+filtering/tinyllama_1.1b/safe/safe_20250505_195500.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.6416666666666666
+filtering/tinyllama_1.1b/safe/safe_20250505_195700.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.825
+filtering/tinyllama_1.1b/safe/safe_20250505_200000.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.85
+filtering/tinyllama_1.1b/safe/safe_20250505_200200.jsonl,selecao_dinamica,tinyllama_1.1b,safe,INTERESTING,0.85
