@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of FileCreate events for the same file path, and a suspicious rundll32.exe command line.\",\n  \"CONFIDENCE\": 0.8\n}"}

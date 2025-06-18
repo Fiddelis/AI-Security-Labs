@@ -1,0 +1,2 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180823.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (powershell, schtasks, svchost, chrome) accessing or creating registry values and files in sensitive directories.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180823.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Unusual registry modification by a potentially untrusted process.\",\n  \"CONFIDENCE\": 0.8\n}"}

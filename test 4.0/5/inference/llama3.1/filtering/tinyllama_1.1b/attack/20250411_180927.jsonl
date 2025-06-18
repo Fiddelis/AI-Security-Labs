@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious activities, such as multiple registry value sets and image loads related to the Chrome browser. Additionally, there are attempts to create users and add them to groups.\",\n  \"CONFIDENCE\": 0.9\n}"}

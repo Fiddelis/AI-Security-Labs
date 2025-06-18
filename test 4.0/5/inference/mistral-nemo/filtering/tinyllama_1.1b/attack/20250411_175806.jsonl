@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple powershell.exe accesses and commands executed consecutively, followed by winlogbeat.exe file creation events, indicating possible unauthorized script execution or malware activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

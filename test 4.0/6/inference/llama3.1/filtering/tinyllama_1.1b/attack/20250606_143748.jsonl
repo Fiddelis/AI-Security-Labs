@@ -1,0 +1,2 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250606_143748.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated instances of powershell.exe loading various DLLs, which is indicative of potentially malicious activity.\",\n  \"CONFIDENCE\": 0.95\n}"}
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250606_143748.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Malicious PowerShell commands are present in the batch, indicating potential malware or unauthorized access.\",\n  \"CONFIDENCE\": 0.9\n}"}

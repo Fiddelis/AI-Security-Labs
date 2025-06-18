@@ -1,0 +1,2 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected, including repeated image loading of .dll files and file creation\/deletion.\",\n  \"CONFIDENCE\": 0.9\n}"}
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected, including PowerShell execution and registry value modifications.\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,0 +1,2 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repetitive network connections and registry value sets, possibly indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/phi4-mini\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes (powershell.exe, winlogbeat.exe) accessing registry values and files.\",\n  \"CONFIDENCE\": 0.8\n}"}

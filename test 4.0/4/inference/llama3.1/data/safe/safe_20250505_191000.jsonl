@@ -1,0 +1,2 @@
+{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE loading AMSI.dll and other system files, which could be indicative of malicious behavior.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Three instances of 'File created' events with suspicious recent files (.LNK), and 'Dns query' events from EXCEL.EXE.\",\n  \"CONFIDENCE\": 0.9\n}"}

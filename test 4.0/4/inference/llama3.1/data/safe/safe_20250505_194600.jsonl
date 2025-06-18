@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious file creation and registry value setting by notepad.exe, indicating potential malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

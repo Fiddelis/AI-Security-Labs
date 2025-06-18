@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes (powershell.exe, cmd.exe, WMIC.exe) and registry value sets, indicating potential malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"data\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious registry value set events from svchost.exe, and a special logon event without a clear process name.\",\n  \"CONFIDENCE\": 0.8\n}"}

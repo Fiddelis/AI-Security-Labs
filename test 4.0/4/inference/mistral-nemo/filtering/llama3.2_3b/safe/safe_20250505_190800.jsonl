@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple powershell.exe processes creating files and loading images consecutively, followed by file deletion. This could indicate suspicious script execution.\",\n  \"CONFIDENCE\": 0.85\n}"}

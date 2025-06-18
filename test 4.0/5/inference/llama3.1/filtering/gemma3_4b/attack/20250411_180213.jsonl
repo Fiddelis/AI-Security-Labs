@@ -1,0 +1,2 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180213.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events, including potential command execution and file modification.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180213.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of chrome.exe accessing AMSI and Windows Defender DLLs, and suspicious process creation and access events.\",\n  \"CONFIDENCE\": 0.9\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181320.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple Powershell processes spawned in quick succession, indicating potential script execution. One process created a file in the Temp directory, which is typical of malicious scripts downloading payloads.\",\n  \"CONFIDENCE\": 0.95\n}"}

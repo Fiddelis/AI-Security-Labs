@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of winlogbeat.exe creating a file with the same path, and notepad.exe interacting with the file.\",\n  \"CONFIDENCE\": 0.8\n}"}

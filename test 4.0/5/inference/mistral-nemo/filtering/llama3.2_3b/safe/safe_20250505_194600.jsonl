@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated file creations in user directory by winlogbeat.exe and subsequent access by notepad.exe. This pattern could indicate a possible data exfiltration attempt.\",\n  \"CONFIDENCE\": 0.75\n}"}

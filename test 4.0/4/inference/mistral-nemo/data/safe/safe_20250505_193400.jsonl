@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains only system boot and shutdown events, with no unusual or malicious activities observed. The presence of 'None' tasks further indicates that these are regular system logs.\",\n  \"CONFIDENCE\": 0.95\n}"}

@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell.exe and cmd.exe being created and interacting with each other, along with registry values being set and files being created in user's Downloads folder, which is unusual behavior.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"All events are routine Windows system tasks or non-critical boot events. No suspicious activities detected.\",\n  \"CONFIDENCE\": 1.0\n}"}

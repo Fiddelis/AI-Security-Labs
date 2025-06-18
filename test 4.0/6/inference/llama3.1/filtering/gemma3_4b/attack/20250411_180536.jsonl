@@ -1,0 +1,2 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious process creation and registry value setting events, potentially indicating a malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes accessing registry values and loading images, potentially indicating malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

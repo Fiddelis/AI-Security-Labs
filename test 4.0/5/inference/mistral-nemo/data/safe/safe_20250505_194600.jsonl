@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of Notepad.exe creating and interacting with files in the Downloads folder, along with unusual registry activity involving Explorer.EXE and rundll32.exe.\",\n  \"CONFIDENCE\": 0.9\n}"}

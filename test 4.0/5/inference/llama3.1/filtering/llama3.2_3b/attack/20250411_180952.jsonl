@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious command lines in processes like cmd.exe and net1.exe, indicating potential lateral movement or privilege escalation attempts.\",\n  \"CONFIDENCE\": 0.8\n}"}

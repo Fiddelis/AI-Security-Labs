@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Consecutive creation of PowerShell, cmd, and potentially suspicious tasks within a short timeframe. Also, file creations in Downloads folder with unusual filenames.\",\n  \"CONFIDENCE\": 0.7\n}"}

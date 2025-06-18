@@ -1,0 +1,2 @@
+{"file":"data\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious powershell.exe activity, including loading multiple DLLs and creating\/deleting files.\",\n  \"CONFIDENCE\": 0.9\n}"}
+{"file":"data\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated creation of files by svchost.exe and winlogbeat.exe, potential lateral movement attempts.\",\n  \"CONFIDENCE\": 0.8\n}"}

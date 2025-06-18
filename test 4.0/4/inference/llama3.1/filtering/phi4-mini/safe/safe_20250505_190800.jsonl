@@ -1,0 +1,2 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious PowerShell activity, including loading of .dll files and creation\/deletion of files in user directories.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving powershell.exe and files in temporary folders, indicating potential script execution.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events indicate suspicious activity, including network connections from chrome.exe and registry value sets from various processes.\",\n  \"CONFIDENCE\": 0.85\n}"}

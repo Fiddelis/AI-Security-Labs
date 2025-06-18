@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell processes accessed and created registry values, which could indicate a persistence mechanism or lateral movement within the network.\",\n  \"CONFIDENCE\": 0.85\n}"}

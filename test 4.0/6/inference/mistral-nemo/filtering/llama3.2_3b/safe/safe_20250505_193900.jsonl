@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving Chrome and Explorer, with registry modifications and pipe creation, suggesting potential browser hijacking or malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,2 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180502.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events indicate suspicious activity, including attempts to execute scripts and load DLLs.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180502.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Presence of suspicious registry modifications and file creation events associated with PowerShell and Chrome processes.\",\n  \"CONFIDENCE\": 0.85\n}"}

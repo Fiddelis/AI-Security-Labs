@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe loading various DLLs and creating files, including suspicious files like __PSScriptPolicyTest_raz5sdjq.utt.ps1, which indicates potential malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

@@ -1,0 +1,2 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events indicate potential malware activity, including suspicious registry value sets and image loads.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"filtering\/gemma3_4b\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious registry value sets by chrome.exe, potentially indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

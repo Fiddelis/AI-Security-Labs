@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple consecutive registry modifications and process creations involvingcmd.exe and net.exe with privilege escalation commands, suggesting potential unauthorized access attempts.\",\n  \"CONFIDENCE\": 0.85\n}"}

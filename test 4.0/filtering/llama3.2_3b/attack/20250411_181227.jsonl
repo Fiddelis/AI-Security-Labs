@@ -1,0 +1,30 @@
+{"process":"{'command_line': 'powershell.exe & {$Action = New-ScheduledTaskAction -Execute \"calc.exe\"\\n$Trigger = New-ScheduledTaskTrigger -AtLogon\\n$User = New-ScheduledTaskPrincipal -GroupId \"BUILTIN\\Administrators\" -RunLevel Highest\\n$Set = New-ScheduledTaskSettingsSet\\n$object = New-ScheduledTask -Action $Action -Principal $User -Trigger $Trigger -Settings $Set\\nRegister-ScheduledTask entrada_ativo$object}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'command_line': 'powershell.exe & {$Action = New-ScheduledTaskAction -Execute \"calc.exe\"\\n$Trigger = New-ScheduledTaskTrigger -AtLogon\\n$User = New-ScheduledTaskPrincipal -GroupId \"BUILTIN\\Administrators\" -RunLevel Highest\\n$Set = New-ScheduledTaskSettingsSet\\n$object = New-ScheduledTask -Action $Action -Principal $User -Trigger $Trigger -Settings $Set\\nRegister-ScheduledTask entrada_temporario$object}'}","winlog":"{'task': 'Provider Lifecycle'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe', 'command_line': '\"powershell.exe\" & {$Action = New-ScheduledTaskAction -Execute \\\"\"calc.exe\\\"\"\\n$Trigger = New-ScheduledTaskTrigger -AtLogon\\n$User = New-ScheduledTaskPrincipal -GroupId \\\"\"BUILTIN\\Administrators\\\"\" -RunLevel Highest\\n$Set = New-ScheduledTaskSettingsSet\\n$object = New-ScheduledTask -Action $Action -Principal $User -Trigger $Trigger -Settings $Set\\nRegister-ScheduledTask tarefa_geral$object}'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Pipe Created (rule: PipeEvent)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\316b66ba76e2cd70541b5fe8161637c9\\mscorlib.ni.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clrjit.dll'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File Delete logged (rule: FileDeleteDetected)'}","file":"{'path': 'C:\\Users\\fiddelis\\AppData\\Local\\Temp\\__PSScriptPolicyTest_f5ji0z2p.gde.ps1'}"}
+{"process":"{'command_line': 'powershell.exe & {$Action = New-ScheduledTaskAction -Execute \"calc.exe\"\\n$Trigger = New-ScheduledTaskTrigger -AtLogon\\n$User = New-ScheduledTaskPrincipal -GroupId \"BUILTIN\\Administrators\" -RunLevel Highest\\n$Set = New-ScheduledTaskSettingsSet\\n$object = New-ScheduledTask -Action $Action -Principal $User -Trigger $Trigger -Settings $Set\\nRegister-ScheduledTask estrutura_auxiliar$object}'}","winlog":"{'task': 'Engine Lifecycle'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"None","winlog":"{'task': 'Execute a Remote Command'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\AppData\\Local\\Microsoft\\Windows\\PowerShell\\StartupProfileData-NonInteractive'}"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'conhost.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","file":"{'path': 'C:\\Windows\\System32\\amsi.dll'}"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}
+{"process":"{'name': 'chrome.exe'}","winlog":"{'task': 'Dns query (rule: DnsQuery)'}","file":"None"}
+{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'File created (rule: FileCreate)'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\objeto_auxiliar.txt'}"}

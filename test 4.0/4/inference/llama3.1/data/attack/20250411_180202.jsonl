@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repetitive and suspicious access to registry values, combined with the execution of potentially malicious processes such as WMIC.exe loading AMSI.dll, suggests an attempted lateral movement or malware activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

@@ -1,0 +1,2 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated registry value set events, particularly for 'chrome.exe', and the loading of AMSI and MpOAV DLLs are suspicious indicators.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/phi4-mini\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry values were set by chrome.exe, which may indicate a malicious or unauthorized activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

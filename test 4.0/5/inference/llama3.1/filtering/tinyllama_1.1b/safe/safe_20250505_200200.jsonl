@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (powershell.exe, winlogbeat.exe, ssh.exe) are creating files in various directories. This could indicate an attempt to exfiltrate data or persist on the system.\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,0 +1,2 @@
+{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of SDXHelper.exe loading combase.dll and urlmon.dll, which could indicate malicious behavior.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of repeated 'User Account Management' tasks followed by suspicious activity from EXCEL.EXE, including loading an image and creating files.\",\n  \"CONFIDENCE\": 0.9\n}"}

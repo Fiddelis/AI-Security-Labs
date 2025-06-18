@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events indicate system startup and policy changes, potentially indicating malicious activity or an unexpected change in system state.\",\n  \"CONFIDENCE\": 0.8\n}"}

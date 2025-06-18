@@ -1,0 +1,11 @@
+{"winlog":{"task":"Process accessed (rule: ProcessAccess)"},"process":{"name":"powershell.exe"},"file":null}
+{"winlog":{"task":"File created (rule: FileCreate)"},"process":{"name":"winlogbeat.exe"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\logs\\winlogbeat-20250505-3.ndjson"}}
+{"winlog":{"task":"Image loaded (rule: ImageLoad)"},"process":{"name":"powershell.exe"},"file":{"path":"C:\\Windows\\System32\\mscoree.dll"}}
+{"winlog":{"task":"Image loaded (rule: ImageLoad)"},"process":{"name":"powershell.exe"},"file":{"path":"C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscoreei.dll"}}
+{"winlog":{"task":"Image loaded (rule: ImageLoad)"},"process":{"name":"powershell.exe"},"file":{"path":"C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\8927ab54ce082e161d10f64f21320f69\\mscorlib.ni.dll"}}
+{"winlog":{"task":"Image loaded (rule: ImageLoad)"},"process":{"name":"powershell.exe"},"file":{"path":"C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clrjit.dll"}}
+{"winlog":{"task":"Image loaded (rule: ImageLoad)"},"process":{"name":"powershell.exe"},"file":{"path":"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll"}}
+{"winlog":{"task":"File created (rule: FileCreate)"},"process":{"name":"powershell.exe"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Temp\\__PSScriptPolicyTest_juwnl41u.5gi.ps1"}}
+{"winlog":{"task":"Provider Lifecycle"},"process":{"command_line":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},"file":null}
+{"winlog":{"task":"Provider Lifecycle"},"process":{"command_line":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},"file":null}
+{"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"process":{"name":"powershell.exe"},"file":null}

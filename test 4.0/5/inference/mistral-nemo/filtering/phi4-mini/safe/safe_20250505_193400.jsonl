@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple 'Process Creation' tasks which could indicate suspicious activity, particularly as one follows a 'DirtyBootShutdown'. However, no details about the created processes are provided.\",\n  \"CONFIDENCE\": 0.6\n}"}

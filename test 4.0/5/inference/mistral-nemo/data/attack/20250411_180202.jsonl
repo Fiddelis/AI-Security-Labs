@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and WMIC processes, combined with registry accesses and file creations could indicate potential suspicious activity like privilege escalation or lateral movement.\",\n  \"CONFIDENCE\": 0.75\n}"}
