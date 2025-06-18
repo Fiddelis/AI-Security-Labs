@@ -30,7 +30,7 @@ class JsonlChunker:
 
                 tokens = self.count_tokens(line)
 
-                # Se a linha isolada excede max_tokens, envia-a sozinha
+                # Se a linha isolada excede max_tokens, envia sozinha
                 if tokens > self.max_tokens:
                     if current_batch:
                         batches.append(current_batch)
@@ -48,7 +48,7 @@ class JsonlChunker:
                     current_batch.append(line)
                     current_tokens += tokens
 
-        # Adiciona o último lote remanescente
+        # Adiciona o último lote restante
         if current_batch:
             batches.append(current_batch)
 

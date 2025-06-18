@@ -5,6 +5,7 @@ import json
 import time
 import os
 from typing import Union
+import subprocess
 
 class OllamaClient:
     def __init__(self, model: str, mode: str, timeout: float = 30.0):
@@ -57,15 +58,25 @@ class OllamaClient:
         self.mode = mode
         self.mode_message = modes[mode]
 
+    def start(self):
+        self.send_message({}, "")
+        
+    def stop(self):
+        try:
+            subprocess.run(["ollama", "stop", self.model], check=True)
+            logging.info(f"model stopped: {self.model}")
+        except subprocess.CalledProcessError as e:
+            logging.error(f"failed to stop model {self.model}: {e}")
+    
     def send_message(
         self,
         logs: Union[pd.DataFrame, dict, str],
         file_name: str
     ) -> str:
-        # 1) Monta uma lista nova de mensagens a cada chamada
+        # Monta uma lista nova de mensagens a cada chamada
         messages = [msg.copy() for msg in self.mode_message]
 
-        # 2) Serializa o payload do usuário
+        # Serializa o payload
         if isinstance(logs, pd.DataFrame):
             content = logs.to_json(orient="records", lines=True, force_ascii=False)
         elif isinstance(logs, dict):
@@ -75,7 +86,7 @@ class OllamaClient:
 
         messages.append({"role": "user", "content": content})
 
-        # 3) Chama a API com timeout e captura exceções
+        # Chama a API com timeout e captura exceções
         start_time = time.time()
         try:
             response = ollama.chat(
@@ -88,7 +99,7 @@ class OllamaClient:
             analysis = ""
         elapsed = round(time.time() - start_time, 6)
 
-        # 4) Prepara o objeto de log
+        # Prepara o objeto de log
         data = {
             "model": self.model,
             "mode": self.mode,
@@ -99,7 +110,7 @@ class OllamaClient:
             "analysis": analysis,
         }
 
-        # 6) Grava no JSONL com flush + fsync e trata possíveis erros de I/O
+        # Grava no JSONL com flush + fsync
         log_path = f"logs/{self.model.replace(':', '_')}.jsonl"
         try:
             with open(log_path, "a") as f:
