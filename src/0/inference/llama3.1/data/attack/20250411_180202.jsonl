@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creation events, including potential obfuscation of known malicious binaries (e.g., WMIC.exe loading AMSI and MPClient DLLs), and a notable increase in Registry value set events.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry values have been set by the chrome process, which could indicate a malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious registry value set events and image load events, particularly around Chrome processes accessing AMSI DLLs.\",\n  \"CONFIDENCE\": 0.8\n}"}

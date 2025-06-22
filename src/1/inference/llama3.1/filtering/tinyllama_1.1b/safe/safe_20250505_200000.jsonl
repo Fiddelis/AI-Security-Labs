@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of svchost.exe and DrvInst.exe setting registry values, combined with suspicious file creation events.\",\n  \"CONFIDENCE\": 0.9\n}"}

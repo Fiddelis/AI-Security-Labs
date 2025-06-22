@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated file creation attempts on 'arquivo.txt' by notepad.exe and suspicious process create of rundll32.exe with a long command line argument.\",\n  \"CONFIDENCE\": 0.95\n}"}

@@ -1,0 +1,2 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180055.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and registry modifications detected. Possible signs of malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/phi4-mini\/attack\/20250411_180055.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity detected, including repeated access to registry values and process execution.\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180224.jsonl","analysis":"{\"CLASSIFICATION\": \"INTERESTING\", \"JUSTIFICATION\": \"Creation of scheduled task with powershell.exe as the action, followed by querying that task and accessing it suggests a possible persistence mechanism.\", \"CONFIDENCE\": 0.9}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of the same process name (SDXHelper.exe, rundll32.exe, EXCEL.EXE, WmiPrvSE.exe) with suspicious activity such as loading DLLs and making DNS queries.\",\n  \"CONFIDENCE\": 0.85\n}"}

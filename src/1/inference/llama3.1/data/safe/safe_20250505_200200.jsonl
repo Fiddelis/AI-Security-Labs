@@ -1,0 +1,2 @@
+{"file":"data\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity involving PowerShell and potential tampering with system files.\",\n  \"CONFIDENCE\": 0.7\n}"}
+{"file":"data\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious PowerShell processes and file operations, including multiple instances of the same process loading different DLLs and creating\/deleting files.\",\n  \"CONFIDENCE\": 0.9\n}"}

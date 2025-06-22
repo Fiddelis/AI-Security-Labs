@@ -1,0 +1,30 @@
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","process":"{'name': 'powershell.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'cmd.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'powershell.exe'}","file":"None"}
+{"winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","process":"{'name': 'schtasks.exe'}","file":"{'path': 'C:\\Windows\\System32\\taskschd.dll'}"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'svchost.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'cmd.exe'}","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Execute a Remote Command'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'ApplicationFrameHost.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'powershell.exe'}","file":"None"}
+{"winlog":"{'task': 'Pipe Created (rule: PipeEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}
+{"winlog":"{'task': 'Image loaded (rule: ImageLoad)'}","process":"{'name': 'chrome.exe'}","file":"{'path': 'C:\\Windows\\System32\\amsi.dll'}"}
+{"winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","process":"{'name': 'svchost.exe', 'command_line': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s NgcCtnrSvc'}","file":"None"}
+{"winlog":"{'task': 'File created (rule: FileCreate)'}","process":"{'name': 'powershell.exe'}","file":"{'path': 'C:\\Users\\fiddelis\\Downloads\\modulo_temporario.txt'}"}
+{"winlog":"{'task': 'Special Logon'}","process":"None","file":"None"}
+{"winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","process":"{'name': 'chrome.exe'}","file":"None"}

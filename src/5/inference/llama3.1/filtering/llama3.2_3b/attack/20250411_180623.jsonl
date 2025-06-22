@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple suspicious events involving powershell.exe, including registry value sets, image loads, and file creations in temporary directories.\",\n  \"CONFIDENCE\": 0.9\n}"}

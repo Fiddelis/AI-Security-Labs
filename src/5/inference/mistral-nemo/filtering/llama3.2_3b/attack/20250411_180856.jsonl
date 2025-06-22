@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell, WMIC and unusual registry accesses along with frequent image loads of urlmon.dll suggest potential reconnaissance or lateral movement activities.\",\n  \"CONFIDENCE\": 0.85\n}"}

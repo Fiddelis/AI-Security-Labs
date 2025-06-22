@@ -1,0 +1,2 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181050.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Potential PowerShell usage, which is a common vector for malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181050.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes (certutil.exe, powershell.exe) and network connections detected (chrome.exe), indicating potential malware activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

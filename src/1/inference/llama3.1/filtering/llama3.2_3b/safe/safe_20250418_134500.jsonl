@@ -1,0 +1,2 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250418_134500.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious activity, including potential malware download and execution.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250418_134500.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creations and network connections, including the download of an external executable (winlogbeat.exe).\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple FileCreate events for suspicious files (.ssh\/known_hosts and a possibly malicious script) and other unusual activity, including multiple powershell.exe processes loading mscorlib.ni.dll.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_175806.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple process creations and registry modifications involving powershell.exe, cmd.exe, reg.exe, and others suggest potential malicious activity such as persistence or file manipulation.\",\n  \"CONFIDENCE\": 0.95\n}\n```"}

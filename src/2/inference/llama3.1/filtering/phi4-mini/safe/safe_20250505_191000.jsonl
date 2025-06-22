@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE loading AMSI.dll, a known security component that can be abused by malware. Additionally, there are multiple file creations and registry value sets in a short time frame.\",\n  \"CONFIDENCE\": 0.8\n}"}

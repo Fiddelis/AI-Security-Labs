@@ -1,0 +1,2 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities, including repeated execution of powershell.exe and registry value set events.\",\n  \"CONFIDENCE\": 0.85\n}"}
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious PowerShell activity with potential malicious files loaded, and a new configuration file created by WinLogBeat.\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are accessing or loading DLLs from the System32 directory, and there is a logon event with special privileges.\",\n  \"CONFIDENCE\": 0.8\n}"}

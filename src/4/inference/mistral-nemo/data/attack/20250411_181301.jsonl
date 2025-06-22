@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive registry events from chrome.exe in a short period, potentially indicating suspicious behavior.\",\n  \"CONFIDENCE\": 0.95\n}"}
+{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes with suspicious behavior, including powershell.exe accessing other processes and registry values being set repeatedly by chrome.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}

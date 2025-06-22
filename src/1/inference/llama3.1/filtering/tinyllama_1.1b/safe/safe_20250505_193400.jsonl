@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Presence of 'Process Creation' events with a process name, which may indicate unauthorized activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

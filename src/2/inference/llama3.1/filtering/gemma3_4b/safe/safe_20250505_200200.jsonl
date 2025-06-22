@@ -1,0 +1,2 @@
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes are interacting with system files and registry, indicating potential malware activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe loading suspicious DLLs and creating\/deleting files in user temp directory.\",\n  \"CONFIDENCE\": 0.9\n}"}

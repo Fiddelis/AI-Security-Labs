@@ -1,0 +1,23 @@
+{"process":null,"winlog":{"task":"SystemStart"}}
+{"process":null,"winlog":{"task":"VsmPolicyEnablement"}}
+{"process":null,"winlog":{"task":"DirtyBootShutdown"}}
+{"process":null,"winlog":{"task":"BootMenuPolicy"}}
+{"process":null,"winlog":{"task":"BootType"}}
+{"process":null,"winlog":{"task":"LeapSecondDataUpdate"}}
+{"process":null,"winlog":{"task":"BootmgrEntryCount"}}
+{"process":null,"winlog":{"task":"None"}}
+{"process":null,"winlog":{"task":"Other Policy Change Events"}}
+{"process":null,"winlog":{"task":"None"}}
+{"process":null,"winlog":{"task":"Process Creation"}}
+{"process":{"name":"smss.exe"},"winlog":{"task":"Process Creation"}}
+{"process":null,"winlog":{"task":"None"}}
+{"process":null,"winlog":{"task":"None"}}
+{"process":null,"winlog":{"task":"None"}}
+{"process":null,"winlog":{"task":"StandbyConnectivityUpdate"}}
+{"process":null,"winlog":{"task":"Summary2"}}
+{"process":null,"winlog":{"task":"Summary2"}}
+{"process":null,"winlog":{"task":"None"}}
+{"process":null,"winlog":{"task":"Summary2"}}
+{"process":null,"winlog":{"task":"DirtyTransition"}}
+{"process":null,"winlog":{"task":"Summary2"}}
+{"process":null,"winlog":{"task":"Summary2"}}

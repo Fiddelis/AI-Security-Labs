@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_193900.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple events related to the 'chrome.exe' process, including registry modifications and network connections, which could indicate potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}\n```"}

@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated registry value set events and suspicious process creation, including an attempt to add a malicious executable to the Windows Run registry key.\",\n  \"CONFIDENCE\": 0.8\n}"}

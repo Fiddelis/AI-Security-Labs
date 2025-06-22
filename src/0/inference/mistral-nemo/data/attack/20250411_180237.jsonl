@@ -1,0 +1,1 @@
+{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe running consecutively, along with unusual registry activities and file creations. This could indicate script-based attacks or lateral movement.\",\n  \"CONFIDENCE\": 0.85\n}"}

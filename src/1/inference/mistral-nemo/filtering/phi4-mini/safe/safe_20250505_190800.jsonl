@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell events with loaded images from unexpected paths and file creation in Temp folder. Indicative of possible script execution or malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

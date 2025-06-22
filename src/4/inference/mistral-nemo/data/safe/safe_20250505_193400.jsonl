@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple 'Process Creation' events in quick succession, followed by many 'None' and 'Summary2' events. This could indicate an attack attempt where a suspicious process was created before being wiped or obscured.\",\n  \"CONFIDENCE\": 0.7\n}"}

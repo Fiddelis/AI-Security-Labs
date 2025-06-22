@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated execution of powershell.exe with suspicious command lines and file loading, combined with deletion and creation of files, suggests a potential malicious script or tool is being executed.\",\n  \"CONFIDENCE\": 0.85\n}"}

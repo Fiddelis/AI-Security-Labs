@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive registry events from 'svchost.exe' and 'DrvInst.exe', followed by file creations in temporary directories, suggesting potential malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

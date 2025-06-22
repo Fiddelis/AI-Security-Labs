@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes with similar names (notepad.exe and winlogbeat.exe) are creating files in the same directory, which could be an indication of malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of 'chrome.exe' exhibiting suspicious behavior, including registry value set and pipe creation events, followed by an image loaded event with a DLL related to task scheduling.\",\n  \"CONFIDENCE\": 0.9\n}"}

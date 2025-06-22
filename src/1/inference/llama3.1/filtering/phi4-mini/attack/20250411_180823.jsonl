@@ -1,0 +1,2 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180823.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe accessing processes and files, potentially indicating malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"filtering\/phi4-mini\/attack\/20250411_180823.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events detected, including network connections and registry value sets from system processes.\",\n  \"CONFIDENCE\": 0.85\n}"}

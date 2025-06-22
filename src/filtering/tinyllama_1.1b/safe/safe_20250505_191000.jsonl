@@ -1,0 +1,19 @@
+{"process":{"name":"SDXHelper.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\combase.dll"}}
+{"process":{"name":"rundll32.exe","command_line":"C:\\Windows\\System32\\rundll32.exe C:\\Windows\\System32\\shell32.dll,SHCreateLocalServerRunDll {9aa46009-3ce0-458a-a354-715610a075e6} -Embedding"},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":{"name":"SDXHelper.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\urlmon.dll"}}
+{"process":{"name":"EXCEL.EXE","command_line":"\"C:\\Program Files\\Microsoft Office\\Root\\Office16\\EXCEL.EXE\" \"C:\\Users\\fiddelis\\Downloads\\AI-Security-Labs\\data\\real_values.csv\""},"winlog":{"task":"Process Create (rule: ProcessCreate)"},"file":null}
+{"process":null,"winlog":{"task":"None"},"file":null}
+{"process":{"name":"RuntimeBroker.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"EXCEL.EXE"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\mscoree.dll"}}
+{"process":{"name":"WmiPrvSE.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\wbem\\wmiutils.dll"}}
+{"process":null,"winlog":{"task":"Special Logon"},"file":null}
+{"process":{"name":"services.exe"},"winlog":{"task":"Logon"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":{"name":"EXCEL.EXE"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Roaming\\Microsoft\\Office\\Recent\\real_values.csv.LNK"}}
+{"process":null,"winlog":{"task":"None"},"file":null}
+{"process":null,"winlog":{"task":"None"},"file":null}
+{"process":{"name":"EXCEL.EXE"},"winlog":{"task":"Dns query (rule: DnsQuery)"},"file":null}
+{"process":{"name":"EXCEL.EXE"},"winlog":{"task":"Dns query (rule: DnsQuery)"},"file":null}

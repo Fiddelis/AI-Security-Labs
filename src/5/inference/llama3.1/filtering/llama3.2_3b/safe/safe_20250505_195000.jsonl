@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_195000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains repeated events of Image loaded and DNS queries, possibly indicating malicious behavior. Additionally, a suspicious special logon event is present.\",\n  \"CONFIDENCE\": 0.8\n}"}

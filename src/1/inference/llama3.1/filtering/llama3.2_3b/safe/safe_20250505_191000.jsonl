@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE and WmiPrvSE.exe are loading various DLLs, which may indicate suspicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

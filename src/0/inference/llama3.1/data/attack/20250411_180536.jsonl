@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and file events, including creation of services.exe and registry value changes.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"data\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry values were set and files were accessed\/created by various processes, which may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

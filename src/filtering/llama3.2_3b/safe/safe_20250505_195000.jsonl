@@ -1,0 +1,16 @@
+{"process":{"name":"SDXHelper.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\combase.dll"}}
+{"process":{"name":"SDXHelper.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\combase.dll"}}
+{"process":{"name":"taskhostw.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\taskschd.dll"}}
+{"process":{"name":"SDXHelper.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\urlmon.dll"}}
+{"process":{"name":"taskhostw.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\taskschd.dll"}}
+{"process":null,"winlog":{"task":"Special Logon"},"file":null}
+{"process":{"name":"SDXHelper.exe"},"winlog":{"task":"Dns query (rule: DnsQuery)"},"file":null}
+{"process":{"name":"SDXHelper.exe"},"winlog":{"task":"Dns query (rule: DnsQuery)"},"file":null}
+{"process":{"name":"powershell.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscoreei.dll"}}
+{"process":{"command_line":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},"winlog":{"task":"Provider Lifecycle"},"file":null}
+{"process":{"name":"python.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Programs\\Python\\Python313\\vcruntime140.dll"}}
+{"process":{"name":"python.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll"}}
+{"process":{"name":"python.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\select.pyd"}}
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":{"name":"SDXHelper.exe"},"winlog":{"task":"Dns query (rule: DnsQuery)"},"file":null}

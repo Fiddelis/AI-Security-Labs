@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving the EXCEL.EXE process loading system files and creating recent file links, which may indicate potential malicious activity.\",\n  \"CONFIDENCE\": 0.7\n}\n```"}

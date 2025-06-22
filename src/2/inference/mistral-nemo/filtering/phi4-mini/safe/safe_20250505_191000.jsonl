@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple image loaded events involving system libraries from EXCEL.EXE followed by a FileCreate event with an unusual file path for a LNK file, suggesting potential malicious activity.\",\n  \"CONFIDENCE\": 0.75\n}"}

@@ -1,0 +1,1 @@
+{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events, including registry value sets and process accesses, from various processes such as powershell.exe and cmd.exe, indicating potential malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

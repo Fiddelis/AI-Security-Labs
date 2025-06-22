@@ -1,0 +1,1 @@
+{"file":"filtering\/phi4-mini\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell.exe executing and creating files, which could indicate a possible script-based attack. Additionally, two svchost.exe processes creating files in suspicious locations.\",\n  \"CONFIDENCE\": 0.85\n}"}

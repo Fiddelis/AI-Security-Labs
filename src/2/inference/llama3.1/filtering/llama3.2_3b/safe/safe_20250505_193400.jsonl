@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Several suspicious events occurred, including 'Process Creation' with a legitimate process name (smss.exe) and other potentially malicious task types (DirtyBootShutdown).\",\n  \"CONFIDENCE\": 0.85\n}"}

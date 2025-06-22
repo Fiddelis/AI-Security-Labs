@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell processes creating and deleting files in the user's temp directory, along with loading of non-standard DLLs, indicates suspicious behavior likely intended to hide malicious activities.\",\n  \"CONFIDENCE\": 0.85\n}"}

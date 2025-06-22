@@ -1,0 +1,1 @@
+{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events such as file creations, registry value sets, and network connections detected. Also, multiple instances of the same process (notepad.exe) performing similar actions.\",\n  \"CONFIDENCE\": 0.95\n}"}

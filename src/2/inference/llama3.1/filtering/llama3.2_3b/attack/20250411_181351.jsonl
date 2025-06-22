@@ -1,0 +1,2 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181351.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious PowerShell commands are detected, which suggests a potential malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181351.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious PowerShell commands, registry value sets, and image loads suggests a potential security threat.\",\n  \"CONFIDENCE\": 0.8\n}"}

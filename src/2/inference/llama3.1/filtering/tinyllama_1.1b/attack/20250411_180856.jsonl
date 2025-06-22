@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple network connections and file access events from various processes, including legitimate system processes with suspicious behavior. Also, the execution of WMIC.exe and powershell.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}

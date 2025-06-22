@@ -1,0 +1,1 @@
+{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180237.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The events are normal system activities such as process creation, file operations, and registry changes. No signs of malicious behavior were detected.\",\n  \"CONFIDENCE\": 0.95\n}\n```"}

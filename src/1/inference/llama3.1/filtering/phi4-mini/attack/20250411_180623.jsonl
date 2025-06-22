@@ -1,0 +1,2 @@
+{"file":"filtering\/phi4-mini\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"An executable file created in the downloads directory may indicate suspicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}
+{"file":"filtering\/phi4-mini\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events related to powershell.exe, including creation of suspicious files and registry modifications.\",\n  \"CONFIDENCE\": 0.9\n}"}

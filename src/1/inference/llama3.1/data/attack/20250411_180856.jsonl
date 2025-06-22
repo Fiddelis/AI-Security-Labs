@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious registry value sets and process accesses, including a potential lateral movement attempt via URLMON.DLL.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"data\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected, including network connections by chrome.exe, registry value sets, and process creations.\",\n  \"CONFIDENCE\": 0.8\n}"}

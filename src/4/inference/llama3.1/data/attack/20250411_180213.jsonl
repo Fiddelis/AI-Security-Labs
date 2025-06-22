@@ -1,0 +1,2 @@
+{"file":"data\/attack\/20250411_180213.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry value sets and process accesses from powershell.exe, along with suspicious file operations.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"data\/attack\/20250411_180213.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe accessing processes and registry values, potential file creation and modification by cmd.exe, and suspicious DNS queries.\",\n  \"CONFIDENCE\": 0.85\n}"}

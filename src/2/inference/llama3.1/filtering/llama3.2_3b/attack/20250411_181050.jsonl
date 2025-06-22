@@ -1,0 +1,2 @@
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181050.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"PowerShell execution, which can be a precursor to malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
+{"file":"filtering\/llama3.2_3b\/attack\/20250411_181050.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and activities detected, including unusual registry modifications, file creations, and network connections.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,0 +1,42 @@
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":{"name":"mintty.exe"},"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"file":null}
+{"process":{"name":"mintty.exe"},"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"file":null}
+{"process":{"name":"mintty.exe"},"winlog":{"task":"Process accessed (rule: ProcessAccess)"},"file":null}
+{"process":{"name":"mintty.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"bash.exe"},"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"file":null}
+{"process":{"name":"bash.exe"},"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"file":null}
+{"process":{"name":"bash.exe"},"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"file":null}
+{"process":{"name":"bash.exe"},"winlog":{"task":"Process accessed (rule: ProcessAccess)"},"file":null}
+{"process":{"name":"bash.exe"},"winlog":{"task":"Pipe Created (rule: PipeEvent)"},"file":null}
+{"process":{"name":"bash.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"conhost.exe"},"winlog":{"task":"Process Tampering (rule: ProcessTampering)"},"file":null}
+{"process":{"name":"bash.exe"},"winlog":{"task":"Process accessed (rule: ProcessAccess)"},"file":null}
+{"process":null,"winlog":{"task":"Special Logon"},"file":null}
+{"process":{"name":"svchost.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\taskschd.dll"}}
+{"process":{"name":"svchost.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":null,"winlog":{"task":"User Account Management"},"file":null}
+{"process":{"name":"CompatTelRunner.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\Windows\\System32\\urlmon.dll"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpClient.dll"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"File stream created (rule: FileCreateStreamHash)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Download Service\\Files\\eb2883de-58c6-4a17-9fa1-f09fc5eba690:Zone.Identifier"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"File stream created (rule: FileCreateStreamHash)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Download Service\\Files\\eb2883de-58c6-4a17-9fa1-f09fc5eba690"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"File stream created (rule: FileCreateStreamHash)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Download Service\\Files\\110ec84c-b3a4-4e25-ba02-2b125e1c2b40:Zone.Identifier"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"File stream created (rule: FileCreateStreamHash)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Download Service\\Files\\110ec84c-b3a4-4e25-ba02-2b125e1c2b40"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"File stream created (rule: FileCreateStreamHash)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Download Service\\Files\\eb2883de-58c6-4a17-9fa1-f09fc5eba690:Zone.Identifier"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"File stream created (rule: FileCreateStreamHash)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Download Service\\Files\\110ec84c-b3a4-4e25-ba02-2b125e1c2b40:Zone.Identifier"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Image loaded (rule: ImageLoad)"},"file":{"path":"C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25030.2-0\\MpOAV.dll"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"File stream created (rule: FileCreateStreamHash)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Download Service\\Files\\8103921f-b1e2-49a1-a782-201a6812d48f:Zone.Identifier"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"File stream created (rule: FileCreateStreamHash)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Download Service\\Files\\8103921f-b1e2-49a1-a782-201a6812d48f"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"File stream created (rule: FileCreateStreamHash)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Download Service\\Files\\8103921f-b1e2-49a1-a782-201a6812d48f:Zone.Identifier"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\AppData\\Local\\Google\\Chrome\\User Data\\optimization_guide_model_store\\25\\DD1ECD924254BA85\\D50082F41A64E6BD\\visual_model_desktop.tflite"}}
+{"process":{"name":"chrome.exe"},"winlog":{"task":"Registry value set (rule: RegistryEvent)"},"file":null}
+{"process":{"name":"winlogbeat.exe"},"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Users\\fiddelis\\Downloads\\winlogbeat-8.15.1-windows-x86_64\\data\\.winlogbeat.yml.new"}}
+{"process":null,"winlog":{"task":"File created (rule: FileCreate)"},"file":{"path":"C:\\Windows\\Logs\\WindowsUpdate\\WindowsUpdate.20250418.103848.435.11.etl"}}
