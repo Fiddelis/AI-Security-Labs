@@ -63,7 +63,10 @@ class OllamaClient:
         
     def stop(self):
         try:
-            subprocess.run(["ollama", "stop", self.model], check=True)
+            subprocess.run([
+                    "docker", "exec", "ollama",
+                    "ollama", "stop", self.model
+                ], check=True)
             logging.info(f"model stopped: {self.model}")
         except subprocess.CalledProcessError as e:
             logging.error(f"failed to stop model {self.model}: {e}")
@@ -92,6 +95,7 @@ class OllamaClient:
             response = ollama.chat(
                 model=self.model,
                 messages=messages,
+                think=False
             )
             analysis = response["message"]["content"].strip()
         except Exception as exc:
