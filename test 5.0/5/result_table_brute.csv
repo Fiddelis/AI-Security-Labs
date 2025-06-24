@@ -1,0 +1,17 @@
+model;font;false_positive;false_negative;true_positive;true_negative
+deepseek-r1_14b;data;5;3;38;14
+deepseek-r1_14b;llama3.2_3b;8;1;40;11
+llama3.1;data;19;0;41;0
+llama3.1;llama3.2_3b;17;0;41;2
+mistral-nemo;data;19;0;41;0
+mistral-nemo;llama3.2_3b;17;0;41;2
+phi4;data;16;0;41;3
+phi4;llama3.2_3b;15;0;41;4
+qwen3_14b;data;10;2;39;9
+qwen3_14b;llama3.2_3b;10;3;38;9
+selecao_dinamica;data;10;1;40;9
+selecao_dinamica;llama3.2_3b;11;0;41;8
+voto_majoritario;data;12;0;41;7
+voto_majoritario;llama3.2_3b;13;0;41;6
+voto_ponderado;data;12;0;41;7
+voto_ponderado;llama3.2_3b;13;0;41;6

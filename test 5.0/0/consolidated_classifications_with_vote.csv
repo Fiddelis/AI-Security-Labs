@@ -1,0 +1,61 @@
+model,font,source_file,type,classification
+voto_majoritario,data,data/attack/20250411_175749.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_175806.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_175826.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_175855.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_175959.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180055.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180121.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180202.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180213.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180224.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180237.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180254.jsonl,attack,NOT INTERESTING
+voto_majoritario,data,data/attack/20250411_180316.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180502.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180536.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180602.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180623.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180641.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180654.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180711.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180823.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180856.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180927.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_180952.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_181019.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_181050.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_181122.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_181227.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_181243.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_181301.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_181320.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250411_181351.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250606_143546.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250606_143623.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250606_143642.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250606_143748.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250606_143816.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250606_143841.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250606_143915.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250606_143926.jsonl,attack,INTERESTING
+voto_majoritario,data,data/attack/20250606_143937.jsonl,attack,INTERESTING
+voto_majoritario,data,data/safe/safe_20250418_134500.jsonl,safe,INTERESTING
+voto_majoritario,data,data/safe/safe_20250418_134601.jsonl,safe,NOT INTERESTING
+voto_majoritario,data,data/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING
+voto_majoritario,data,data/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING
+voto_majoritario,data,data/safe/safe_20250418_134901.jsonl,safe,INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_184100.jsonl,safe,NOT INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_185900.jsonl,safe,INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_190800.jsonl,safe,INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_191000.jsonl,safe,INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_191300.jsonl,safe,INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_193400.jsonl,safe,NOT INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_193900.jsonl,safe,INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_194600.jsonl,safe,NOT INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_195000.jsonl,safe,INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_195200.jsonl,safe,INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_195500.jsonl,safe,INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_200000.jsonl,safe,NOT INTERESTING
+voto_majoritario,data,data/safe/safe_20250505_200200.jsonl,safe,INTERESTING

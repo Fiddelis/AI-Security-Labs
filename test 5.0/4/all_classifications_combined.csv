@@ -1,0 +1,961 @@
+model,font,source_file,type,classification,confidence
+deepseek-r1_14b,data,data/attack/20250411_175749.jsonl,attack,INTERESTING,0.8333333333333334
+deepseek-r1_14b,data,data/attack/20250411_175806.jsonl,attack,INTERESTING,0.95
+deepseek-r1_14b,data,data/attack/20250411_175826.jsonl,attack,INTERESTING,0.8833333333333333
+deepseek-r1_14b,data,data/attack/20250411_175855.jsonl,attack,INTERESTING,0.7999999999999999
+deepseek-r1_14b,data,data/attack/20250411_175959.jsonl,attack,INTERESTING,0.8125
+deepseek-r1_14b,data,data/attack/20250411_180055.jsonl,attack,INTERESTING,0.7000000000000001
+deepseek-r1_14b,data,data/attack/20250411_180121.jsonl,attack,INTERESTING,0.8545454545454544
+deepseek-r1_14b,data,data/attack/20250411_180202.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,data,data/attack/20250411_180213.jsonl,attack,INTERESTING,0.825
+deepseek-r1_14b,data,data/attack/20250411_180224.jsonl,attack,INTERESTING,0.575
+deepseek-r1_14b,data,data/attack/20250411_180237.jsonl,attack,INTERESTING,0.75
+deepseek-r1_14b,data,data/attack/20250411_180254.jsonl,attack,NOT INTERESTING,0.3833333333333333
+deepseek-r1_14b,data,data/attack/20250411_180316.jsonl,attack,INTERESTING,0.8411764705882353
+deepseek-r1_14b,data,data/attack/20250411_180502.jsonl,attack,INTERESTING,0.7666666666666666
+deepseek-r1_14b,data,data/attack/20250411_180536.jsonl,attack,INTERESTING,0.4499999999999999
+deepseek-r1_14b,data,data/attack/20250411_180602.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,data,data/attack/20250411_180623.jsonl,attack,INTERESTING,0.7749999999999999
+deepseek-r1_14b,data,data/attack/20250411_180641.jsonl,attack,INTERESTING,0.6333333333333333
+deepseek-r1_14b,data,data/attack/20250411_180654.jsonl,attack,INTERESTING,0.7999999999999999
+deepseek-r1_14b,data,data/attack/20250411_180711.jsonl,attack,INTERESTING,0.8583333333333333
+deepseek-r1_14b,data,data/attack/20250411_180823.jsonl,attack,INTERESTING,0.8166666666666668
+deepseek-r1_14b,data,data/attack/20250411_180856.jsonl,attack,INTERESTING,0.8
+deepseek-r1_14b,data,data/attack/20250411_180927.jsonl,attack,INTERESTING,0.7749999999999999
+deepseek-r1_14b,data,data/attack/20250411_180952.jsonl,attack,INTERESTING,0.8999999999999999
+deepseek-r1_14b,data,data/attack/20250411_181019.jsonl,attack,INTERESTING,0.825
+deepseek-r1_14b,data,data/attack/20250411_181050.jsonl,attack,INTERESTING,0.7749999999999999
+deepseek-r1_14b,data,data/attack/20250411_181122.jsonl,attack,INTERESTING,0.7777777777777778
+deepseek-r1_14b,data,data/attack/20250411_181227.jsonl,attack,INTERESTING,0.825
+deepseek-r1_14b,data,data/attack/20250411_181243.jsonl,attack,INTERESTING,0.9166666666666666
+deepseek-r1_14b,data,data/attack/20250411_181301.jsonl,attack,INTERESTING,0.4499999999999999
+deepseek-r1_14b,data,data/attack/20250411_181320.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,data,data/attack/20250411_181351.jsonl,attack,INTERESTING,0.9166666666666666
+deepseek-r1_14b,data,data/attack/20250606_143546.jsonl,attack,INTERESTING,0.7777777777777778
+deepseek-r1_14b,data,data/attack/20250606_143623.jsonl,attack,NOT INTERESTING,0.8166666666666667
+deepseek-r1_14b,data,data/attack/20250606_143642.jsonl,attack,NOT INTERESTING,0.7874999999999998
+deepseek-r1_14b,data,data/attack/20250606_143748.jsonl,attack,INTERESTING,0.9375
+deepseek-r1_14b,data,data/attack/20250606_143816.jsonl,attack,INTERESTING,0.925
+deepseek-r1_14b,data,data/attack/20250606_143841.jsonl,attack,INTERESTING,0.8222222222222222
+deepseek-r1_14b,data,data/attack/20250606_143915.jsonl,attack,INTERESTING,0.7749999999999999
+deepseek-r1_14b,data,data/attack/20250606_143926.jsonl,attack,INTERESTING,0.7749999999999999
+deepseek-r1_14b,data,data/attack/20250606_143937.jsonl,attack,INTERESTING,0.875
+deepseek-r1_14b,data,data/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.7625
+deepseek-r1_14b,data,data/safe/safe_20250418_134601.jsonl,safe,NOT INTERESTING,0.75
+deepseek-r1_14b,data,data/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,0.921875
+deepseek-r1_14b,data,data/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,0.8852941176470588
+deepseek-r1_14b,data,data/safe/safe_20250418_134901.jsonl,safe,INTERESTING,0.425
+deepseek-r1_14b,data,data/safe/safe_20250505_184100.jsonl,safe,NOT INTERESTING,0.8583333333333333
+deepseek-r1_14b,data,data/safe/safe_20250505_185900.jsonl,safe,NOT INTERESTING,0.2
+deepseek-r1_14b,data,data/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.9
+deepseek-r1_14b,data,data/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.825
+deepseek-r1_14b,data,data/safe/safe_20250505_191300.jsonl,safe,NOT INTERESTING,0.875
+deepseek-r1_14b,data,data/safe/safe_20250505_193400.jsonl,safe,NOT INTERESTING,0.85
+deepseek-r1_14b,data,data/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.75
+deepseek-r1_14b,data,data/safe/safe_20250505_194600.jsonl,safe,NOT INTERESTING,0.8
+deepseek-r1_14b,data,data/safe/safe_20250505_195000.jsonl,safe,INTERESTING,0.6333333333333333
+deepseek-r1_14b,data,data/safe/safe_20250505_195200.jsonl,safe,NOT INTERESTING,0.8265624999999999
+deepseek-r1_14b,data,data/safe/safe_20250505_195500.jsonl,safe,NOT INTERESTING,0.8288461538461538
+deepseek-r1_14b,data,data/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,0.9166666666666666
+deepseek-r1_14b,data,data/safe/safe_20250505_200000.jsonl,safe,INTERESTING,0.8166666666666668
+deepseek-r1_14b,data,data/safe/safe_20250505_200200.jsonl,safe,INTERESTING,0.75
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175749.jsonl,attack,INTERESTING,0.8
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175806.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175826.jsonl,attack,INTERESTING,0.8999999999999999
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175855.jsonl,attack,INTERESTING,0.75
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175959.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180055.jsonl,attack,INTERESTING,0.8
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180121.jsonl,attack,INTERESTING,0.8749999999999999
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180202.jsonl,attack,INTERESTING,0.8
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180213.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180224.jsonl,attack,INTERESTING,0.75
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180237.jsonl,attack,INTERESTING,0.7
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180254.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180316.jsonl,attack,INTERESTING,0.8222222222222222
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180502.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180536.jsonl,attack,NOT INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180602.jsonl,attack,INTERESTING,0.8
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180623.jsonl,attack,INTERESTING,0.75
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180641.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180654.jsonl,attack,INTERESTING,0.8999999999999999
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180711.jsonl,attack,INTERESTING,0.7928571428571428
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180823.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180856.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180927.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180952.jsonl,attack,INTERESTING,0.95
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181019.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181050.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181122.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181227.jsonl,attack,INTERESTING,0.8
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181243.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181301.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181320.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181351.jsonl,attack,INTERESTING,0.8999999999999999
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143546.jsonl,attack,INTERESTING,0.8916666666666666
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143623.jsonl,attack,INTERESTING,0.775
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143642.jsonl,attack,NOT INTERESTING,0.79375
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143748.jsonl,attack,INTERESTING,0.95
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143816.jsonl,attack,INTERESTING,0.95
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143841.jsonl,attack,INTERESTING,0.8375
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143915.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143926.jsonl,attack,INTERESTING,0.875
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143937.jsonl,attack,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134601.jsonl,safe,INTERESTING,0.725
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,0.934375
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,0.9055555555555554
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134901.jsonl,safe,NOT INTERESTING,0.0
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_184100.jsonl,safe,NOT INTERESTING,0.8400000000000001
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_185900.jsonl,safe,INTERESTING,0.7
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.8
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191300.jsonl,safe,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193400.jsonl,safe,NOT INTERESTING,0.95
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_194600.jsonl,safe,NOT INTERESTING,0.85
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195000.jsonl,safe,NOT INTERESTING,0.95
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195200.jsonl,safe,NOT INTERESTING,0.926190476190476
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195500.jsonl,safe,NOT INTERESTING,0.8857142857142855
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,0.95
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200000.jsonl,safe,INTERESTING,0.7
+deepseek-r1_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200200.jsonl,safe,NOT INTERESTING,0.2
+llama3.1,data,data/attack/20250411_175749.jsonl,attack,INTERESTING,0.8666666666666667
+llama3.1,data,data/attack/20250411_175806.jsonl,attack,INTERESTING,0.85
+llama3.1,data,data/attack/20250411_175826.jsonl,attack,INTERESTING,0.8666666666666667
+llama3.1,data,data/attack/20250411_175855.jsonl,attack,INTERESTING,0.8500000000000001
+llama3.1,data,data/attack/20250411_175959.jsonl,attack,INTERESTING,0.8624999999999999
+llama3.1,data,data/attack/20250411_180055.jsonl,attack,INTERESTING,0.8166666666666668
+llama3.1,data,data/attack/20250411_180121.jsonl,attack,INTERESTING,0.879090909090909
+llama3.1,data,data/attack/20250411_180202.jsonl,attack,INTERESTING,0.9
+llama3.1,data,data/attack/20250411_180213.jsonl,attack,INTERESTING,0.825
+llama3.1,data,data/attack/20250411_180224.jsonl,attack,INTERESTING,0.8
+llama3.1,data,data/attack/20250411_180237.jsonl,attack,INTERESTING,0.85
+llama3.1,data,data/attack/20250411_180254.jsonl,attack,INTERESTING,0.8000000000000002
+llama3.1,data,data/attack/20250411_180316.jsonl,attack,INTERESTING,0.8117647058823529
+llama3.1,data,data/attack/20250411_180502.jsonl,attack,INTERESTING,0.8666666666666667
+llama3.1,data,data/attack/20250411_180536.jsonl,attack,INTERESTING,0.825
+llama3.1,data,data/attack/20250411_180602.jsonl,attack,INTERESTING,0.8500000000000001
+llama3.1,data,data/attack/20250411_180623.jsonl,attack,INTERESTING,0.8999999999999999
+llama3.1,data,data/attack/20250411_180641.jsonl,attack,INTERESTING,0.8000000000000002
+llama3.1,data,data/attack/20250411_180654.jsonl,attack,INTERESTING,0.8000000000000002
+llama3.1,data,data/attack/20250411_180711.jsonl,attack,INTERESTING,0.8558333333333334
+llama3.1,data,data/attack/20250411_180823.jsonl,attack,INTERESTING,0.8000000000000002
+llama3.1,data,data/attack/20250411_180856.jsonl,attack,INTERESTING,0.825
+llama3.1,data,data/attack/20250411_180927.jsonl,attack,INTERESTING,0.825
+llama3.1,data,data/attack/20250411_180952.jsonl,attack,INTERESTING,0.825
+llama3.1,data,data/attack/20250411_181019.jsonl,attack,INTERESTING,0.85
+llama3.1,data,data/attack/20250411_181050.jsonl,attack,INTERESTING,0.8
+llama3.1,data,data/attack/20250411_181122.jsonl,attack,INTERESTING,0.8388888888888889
+llama3.1,data,data/attack/20250411_181227.jsonl,attack,INTERESTING,0.8375
+llama3.1,data,data/attack/20250411_181243.jsonl,attack,INTERESTING,0.8833333333333333
+llama3.1,data,data/attack/20250411_181301.jsonl,attack,INTERESTING,0.875
+llama3.1,data,data/attack/20250411_181320.jsonl,attack,INTERESTING,0.8333333333333334
+llama3.1,data,data/attack/20250411_181351.jsonl,attack,INTERESTING,0.8833333333333333
+llama3.1,data,data/attack/20250606_143546.jsonl,attack,INTERESTING,0.8666666666666667
+llama3.1,data,data/attack/20250606_143623.jsonl,attack,INTERESTING,0.8194444444444444
+llama3.1,data,data/attack/20250606_143642.jsonl,attack,INTERESTING,0.8083333333333335
+llama3.1,data,data/attack/20250606_143748.jsonl,attack,INTERESTING,0.9
+llama3.1,data,data/attack/20250606_143816.jsonl,attack,INTERESTING,0.875
+llama3.1,data,data/attack/20250606_143841.jsonl,attack,INTERESTING,0.8944444444444444
+llama3.1,data,data/attack/20250606_143915.jsonl,attack,INTERESTING,0.8666666666666667
+llama3.1,data,data/attack/20250606_143926.jsonl,attack,INTERESTING,0.9125
+llama3.1,data,data/attack/20250606_143937.jsonl,attack,INTERESTING,0.875
+llama3.1,data,data/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.8125
+llama3.1,data,data/safe/safe_20250418_134601.jsonl,safe,INTERESTING,0.85
+llama3.1,data,data/safe/safe_20250418_134701.jsonl,safe,INTERESTING,0.8890625
+llama3.1,data,data/safe/safe_20250418_134801.jsonl,safe,INTERESTING,0.8941176470588236
+llama3.1,data,data/safe/safe_20250418_134901.jsonl,safe,INTERESTING,0.4
+llama3.1,data,data/safe/safe_20250505_184100.jsonl,safe,INTERESTING,0.8433333333333334
+llama3.1,data,data/safe/safe_20250505_185900.jsonl,safe,INTERESTING,0.825
+llama3.1,data,data/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.925
+llama3.1,data,data/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.8
+llama3.1,data,data/safe/safe_20250505_191300.jsonl,safe,INTERESTING,0.8583333333333333
+llama3.1,data,data/safe/safe_20250505_193400.jsonl,safe,INTERESTING,0.8
+llama3.1,data,data/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.8500000000000001
+llama3.1,data,data/safe/safe_20250505_194600.jsonl,safe,INTERESTING,0.8
+llama3.1,data,data/safe/safe_20250505_195000.jsonl,safe,INTERESTING,0.8833333333333333
+llama3.1,data,data/safe/safe_20250505_195200.jsonl,safe,INTERESTING,0.9140625
+llama3.1,data,data/safe/safe_20250505_195500.jsonl,safe,INTERESTING,0.8807692307692307
+llama3.1,data,data/safe/safe_20250505_195700.jsonl,safe,INTERESTING,0.8750000000000001
+llama3.1,data,data/safe/safe_20250505_200000.jsonl,safe,INTERESTING,0.8500000000000001
+llama3.1,data,data/safe/safe_20250505_200200.jsonl,safe,INTERESTING,0.8500000000000001
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175749.jsonl,attack,INTERESTING,0.8999999999999999
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175806.jsonl,attack,INTERESTING,0.9
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175826.jsonl,attack,INTERESTING,0.875
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175855.jsonl,attack,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175959.jsonl,attack,INTERESTING,0.8500000000000001
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180055.jsonl,attack,INTERESTING,0.825
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180121.jsonl,attack,INTERESTING,0.8416666666666667
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180202.jsonl,attack,INTERESTING,0.9
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180213.jsonl,attack,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180224.jsonl,attack,INTERESTING,0.95
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180237.jsonl,attack,INTERESTING,0.9
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180254.jsonl,attack,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180316.jsonl,attack,INTERESTING,0.8666666666666667
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180502.jsonl,attack,INTERESTING,0.8500000000000001
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180536.jsonl,attack,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180602.jsonl,attack,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180623.jsonl,attack,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180641.jsonl,attack,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180654.jsonl,attack,INTERESTING,0.875
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180711.jsonl,attack,INTERESTING,0.8457142857142858
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180823.jsonl,attack,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180856.jsonl,attack,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180927.jsonl,attack,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180952.jsonl,attack,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181019.jsonl,attack,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181050.jsonl,attack,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181122.jsonl,attack,INTERESTING,0.8100000000000002
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181227.jsonl,attack,INTERESTING,0.925
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181243.jsonl,attack,INTERESTING,0.825
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181301.jsonl,attack,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181320.jsonl,attack,INTERESTING,0.875
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181351.jsonl,attack,INTERESTING,0.8500000000000001
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143546.jsonl,attack,INTERESTING,0.8833333333333333
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143623.jsonl,attack,INTERESTING,0.7849999999999999
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143642.jsonl,attack,INTERESTING,0.7625
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143748.jsonl,attack,INTERESTING,0.875
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143816.jsonl,attack,INTERESTING,0.875
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143841.jsonl,attack,INTERESTING,0.8625
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143915.jsonl,attack,INTERESTING,0.875
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143926.jsonl,attack,INTERESTING,0.8500000000000001
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143937.jsonl,attack,INTERESTING,0.7749999999999999
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.825
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134601.jsonl,safe,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134701.jsonl,safe,INTERESTING,0.871875
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134801.jsonl,safe,INTERESTING,0.8722222222222223
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134901.jsonl,safe,NOT INTERESTING,0.0
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_184100.jsonl,safe,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_185900.jsonl,safe,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.95
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.85
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191300.jsonl,safe,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193400.jsonl,safe,NOT INTERESTING,1.0
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_194600.jsonl,safe,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195000.jsonl,safe,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195200.jsonl,safe,INTERESTING,0.9071428571428573
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195500.jsonl,safe,INTERESTING,0.8714285714285716
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195700.jsonl,safe,INTERESTING,0.86
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200000.jsonl,safe,INTERESTING,0.8
+llama3.1,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200200.jsonl,safe,INTERESTING,0.85
+mistral-nemo,data,data/attack/20250411_175749.jsonl,attack,INTERESTING,0.8666666666666667
+mistral-nemo,data,data/attack/20250411_175806.jsonl,attack,INTERESTING,0.95
+mistral-nemo,data,data/attack/20250411_175826.jsonl,attack,INTERESTING,0.8833333333333333
+mistral-nemo,data,data/attack/20250411_175855.jsonl,attack,INTERESTING,0.8333333333333334
+mistral-nemo,data,data/attack/20250411_175959.jsonl,attack,INTERESTING,0.85
+mistral-nemo,data,data/attack/20250411_180055.jsonl,attack,INTERESTING,0.8833333333333333
+mistral-nemo,data,data/attack/20250411_180121.jsonl,attack,INTERESTING,0.8727272727272727
+mistral-nemo,data,data/attack/20250411_180202.jsonl,attack,INTERESTING,0.95
+mistral-nemo,data,data/attack/20250411_180213.jsonl,attack,INTERESTING,0.8999999999999999
+mistral-nemo,data,data/attack/20250411_180224.jsonl,attack,INTERESTING,0.8999999999999999
+mistral-nemo,data,data/attack/20250411_180237.jsonl,attack,INTERESTING,0.9
+mistral-nemo,data,data/attack/20250411_180254.jsonl,attack,INTERESTING,0.9333333333333332
+mistral-nemo,data,data/attack/20250411_180316.jsonl,attack,INTERESTING,0.8882352941176469
+mistral-nemo,data,data/attack/20250411_180502.jsonl,attack,INTERESTING,0.85
+mistral-nemo,data,data/attack/20250411_180536.jsonl,attack,INTERESTING,0.825
+mistral-nemo,data,data/attack/20250411_180602.jsonl,attack,INTERESTING,0.875
+mistral-nemo,data,data/attack/20250411_180623.jsonl,attack,INTERESTING,0.825
+mistral-nemo,data,data/attack/20250411_180641.jsonl,attack,INTERESTING,0.8333333333333334
+mistral-nemo,data,data/attack/20250411_180654.jsonl,attack,INTERESTING,0.85
+mistral-nemo,data,data/attack/20250411_180711.jsonl,attack,INTERESTING,0.8958333333333331
+mistral-nemo,data,data/attack/20250411_180823.jsonl,attack,INTERESTING,0.8833333333333333
+mistral-nemo,data,data/attack/20250411_180856.jsonl,attack,INTERESTING,0.8
+mistral-nemo,data,data/attack/20250411_180927.jsonl,attack,INTERESTING,0.8999999999999999
+mistral-nemo,data,data/attack/20250411_180952.jsonl,attack,INTERESTING,0.8999999999999999
+mistral-nemo,data,data/attack/20250411_181019.jsonl,attack,INTERESTING,0.825
+mistral-nemo,data,data/attack/20250411_181050.jsonl,attack,INTERESTING,0.8999999999999999
+mistral-nemo,data,data/attack/20250411_181122.jsonl,attack,INTERESTING,0.8833333333333333
+mistral-nemo,data,data/attack/20250411_181227.jsonl,attack,INTERESTING,0.875
+mistral-nemo,data,data/attack/20250411_181243.jsonl,attack,INTERESTING,0.9166666666666666
+mistral-nemo,data,data/attack/20250411_181301.jsonl,attack,INTERESTING,0.875
+mistral-nemo,data,data/attack/20250411_181320.jsonl,attack,INTERESTING,0.8666666666666667
+mistral-nemo,data,data/attack/20250411_181351.jsonl,attack,INTERESTING,0.8666666666666667
+mistral-nemo,data,data/attack/20250606_143546.jsonl,attack,INTERESTING,0.8944444444444444
+mistral-nemo,data,data/attack/20250606_143623.jsonl,attack,INTERESTING,0.8166666666666668
+mistral-nemo,data,data/attack/20250606_143642.jsonl,attack,INTERESTING,0.8166666666666665
+mistral-nemo,data,data/attack/20250606_143748.jsonl,attack,INTERESTING,0.8875
+mistral-nemo,data,data/attack/20250606_143816.jsonl,attack,INTERESTING,0.8999999999999999
+mistral-nemo,data,data/attack/20250606_143841.jsonl,attack,INTERESTING,0.8999999999999999
+mistral-nemo,data,data/attack/20250606_143915.jsonl,attack,INTERESTING,0.9499999999999998
+mistral-nemo,data,data/attack/20250606_143926.jsonl,attack,INTERESTING,0.9125
+mistral-nemo,data,data/attack/20250606_143937.jsonl,attack,INTERESTING,0.8875000000000001
+mistral-nemo,data,data/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.8250000000000001
+mistral-nemo,data,data/safe/safe_20250418_134601.jsonl,safe,INTERESTING,0.8785714285714284
+mistral-nemo,data,data/safe/safe_20250418_134701.jsonl,safe,INTERESTING,0.9375
+mistral-nemo,data,data/safe/safe_20250418_134801.jsonl,safe,INTERESTING,0.8823529411764705
+mistral-nemo,data,data/safe/safe_20250418_134901.jsonl,safe,INTERESTING,0.425
+mistral-nemo,data,data/safe/safe_20250505_184100.jsonl,safe,INTERESTING,0.8666666666666666
+mistral-nemo,data,data/safe/safe_20250505_185900.jsonl,safe,INTERESTING,0.875
+mistral-nemo,data,data/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.8999999999999999
+mistral-nemo,data,data/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.8999999999999999
+mistral-nemo,data,data/safe/safe_20250505_191300.jsonl,safe,INTERESTING,0.8666666666666666
+mistral-nemo,data,data/safe/safe_20250505_193400.jsonl,safe,INTERESTING,0.7
+mistral-nemo,data,data/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.8500000000000001
+mistral-nemo,data,data/safe/safe_20250505_194600.jsonl,safe,INTERESTING,0.75
+mistral-nemo,data,data/safe/safe_20250505_195000.jsonl,safe,INTERESTING,0.8166666666666668
+mistral-nemo,data,data/safe/safe_20250505_195200.jsonl,safe,INTERESTING,0.8578125
+mistral-nemo,data,data/safe/safe_20250505_195500.jsonl,safe,INTERESTING,0.8634615384615384
+mistral-nemo,data,data/safe/safe_20250505_195700.jsonl,safe,INTERESTING,0.8583333333333334
+mistral-nemo,data,data/safe/safe_20250505_200000.jsonl,safe,INTERESTING,0.7666666666666666
+mistral-nemo,data,data/safe/safe_20250505_200200.jsonl,safe,INTERESTING,0.825
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175749.jsonl,attack,INTERESTING,0.95
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175806.jsonl,attack,INTERESTING,0.95
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175826.jsonl,attack,INTERESTING,0.8999999999999999
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175855.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175959.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180055.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180121.jsonl,attack,INTERESTING,0.725
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180202.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180213.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180224.jsonl,attack,INTERESTING,0.95
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180237.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180254.jsonl,attack,INTERESTING,0.95
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180316.jsonl,attack,INTERESTING,0.8611111111111112
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180502.jsonl,attack,INTERESTING,0.875
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180536.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180602.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180623.jsonl,attack,INTERESTING,0.9
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180641.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180654.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180711.jsonl,attack,INTERESTING,0.9214285714285716
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180823.jsonl,attack,INTERESTING,0.95
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180856.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180927.jsonl,attack,INTERESTING,0.95
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180952.jsonl,attack,INTERESTING,0.95
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181019.jsonl,attack,INTERESTING,0.75
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181050.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181122.jsonl,attack,INTERESTING,0.93
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181227.jsonl,attack,INTERESTING,0.875
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181243.jsonl,attack,INTERESTING,0.925
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181301.jsonl,attack,INTERESTING,0.75
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181320.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181351.jsonl,attack,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143546.jsonl,attack,INTERESTING,0.875
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143623.jsonl,attack,INTERESTING,0.7799999999999999
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143642.jsonl,attack,INTERESTING,0.7749999999999999
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143748.jsonl,attack,INTERESTING,0.95
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143816.jsonl,attack,INTERESTING,0.925
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143841.jsonl,attack,INTERESTING,0.875
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143915.jsonl,attack,INTERESTING,0.8999999999999999
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143926.jsonl,attack,INTERESTING,0.95
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143937.jsonl,attack,INTERESTING,0.8999999999999999
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.75
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134601.jsonl,safe,INTERESTING,0.925
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134701.jsonl,safe,INTERESTING,0.8937499999999999
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134801.jsonl,safe,INTERESTING,0.8388888888888889
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134901.jsonl,safe,NOT INTERESTING,0.0
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_184100.jsonl,safe,INTERESTING,0.8400000000000001
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_185900.jsonl,safe,INTERESTING,0.9
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191300.jsonl,safe,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193400.jsonl,safe,NOT INTERESTING,1.0
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_194600.jsonl,safe,INTERESTING,0.95
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195000.jsonl,safe,INTERESTING,0.9
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195200.jsonl,safe,INTERESTING,0.8642857142857142
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195500.jsonl,safe,INTERESTING,0.8678571428571429
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195700.jsonl,safe,INTERESTING,0.93
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200000.jsonl,safe,INTERESTING,0.85
+mistral-nemo,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200200.jsonl,safe,INTERESTING,0.95
+phi4,data,data/attack/20250411_175749.jsonl,attack,INTERESTING,0.8666666666666667
+phi4,data,data/attack/20250411_175806.jsonl,attack,INTERESTING,0.9
+phi4,data,data/attack/20250411_175826.jsonl,attack,INTERESTING,0.8833333333333333
+phi4,data,data/attack/20250411_175855.jsonl,attack,INTERESTING,0.85
+phi4,data,data/attack/20250411_175959.jsonl,attack,INTERESTING,0.8875
+phi4,data,data/attack/20250411_180055.jsonl,attack,INTERESTING,0.8666666666666667
+phi4,data,data/attack/20250411_180121.jsonl,attack,INTERESTING,0.8818181818181817
+phi4,data,data/attack/20250411_180202.jsonl,attack,INTERESTING,0.85
+phi4,data,data/attack/20250411_180213.jsonl,attack,INTERESTING,0.8999999999999999
+phi4,data,data/attack/20250411_180224.jsonl,attack,INTERESTING,0.85
+phi4,data,data/attack/20250411_180237.jsonl,attack,INTERESTING,0.85
+phi4,data,data/attack/20250411_180254.jsonl,attack,INTERESTING,0.8666666666666667
+phi4,data,data/attack/20250411_180316.jsonl,attack,INTERESTING,0.8852941176470588
+phi4,data,data/attack/20250411_180502.jsonl,attack,INTERESTING,0.8666666666666667
+phi4,data,data/attack/20250411_180536.jsonl,attack,INTERESTING,0.9
+phi4,data,data/attack/20250411_180602.jsonl,attack,INTERESTING,0.825
+phi4,data,data/attack/20250411_180623.jsonl,attack,INTERESTING,0.85
+phi4,data,data/attack/20250411_180641.jsonl,attack,INTERESTING,0.8333333333333334
+phi4,data,data/attack/20250411_180654.jsonl,attack,INTERESTING,0.8333333333333334
+phi4,data,data/attack/20250411_180711.jsonl,attack,INTERESTING,0.8791666666666665
+phi4,data,data/attack/20250411_180823.jsonl,attack,INTERESTING,0.8666666666666667
+phi4,data,data/attack/20250411_180856.jsonl,attack,INTERESTING,0.85
+phi4,data,data/attack/20250411_180927.jsonl,attack,INTERESTING,0.875
+phi4,data,data/attack/20250411_180952.jsonl,attack,INTERESTING,0.825
+phi4,data,data/attack/20250411_181019.jsonl,attack,INTERESTING,0.875
+phi4,data,data/attack/20250411_181050.jsonl,attack,INTERESTING,0.875
+phi4,data,data/attack/20250411_181122.jsonl,attack,INTERESTING,0.8777777777777778
+phi4,data,data/attack/20250411_181227.jsonl,attack,INTERESTING,0.8625
+phi4,data,data/attack/20250411_181243.jsonl,attack,INTERESTING,0.8833333333333333
+phi4,data,data/attack/20250411_181301.jsonl,attack,INTERESTING,0.85
+phi4,data,data/attack/20250411_181320.jsonl,attack,INTERESTING,0.8500000000000001
+phi4,data,data/attack/20250411_181351.jsonl,attack,INTERESTING,0.8833333333333333
+phi4,data,data/attack/20250606_143546.jsonl,attack,INTERESTING,0.8888888888888888
+phi4,data,data/attack/20250606_143623.jsonl,attack,INTERESTING,0.8277777777777778
+phi4,data,data/attack/20250606_143642.jsonl,attack,INTERESTING,0.8166666666666665
+phi4,data,data/attack/20250606_143748.jsonl,attack,INTERESTING,0.95
+phi4,data,data/attack/20250606_143816.jsonl,attack,INTERESTING,0.925
+phi4,data,data/attack/20250606_143841.jsonl,attack,INTERESTING,0.8888888888888888
+phi4,data,data/attack/20250606_143915.jsonl,attack,INTERESTING,0.8666666666666666
+phi4,data,data/attack/20250606_143926.jsonl,attack,INTERESTING,0.875
+phi4,data,data/attack/20250606_143937.jsonl,attack,INTERESTING,0.8624999999999999
+phi4,data,data/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.9
+phi4,data,data/safe/safe_20250418_134601.jsonl,safe,INTERESTING,0.8642857142857142
+phi4,data,data/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,0.946875
+phi4,data,data/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,0.9411764705882352
+phi4,data,data/safe/safe_20250418_134901.jsonl,safe,INTERESTING,0.4
+phi4,data,data/safe/safe_20250505_184100.jsonl,safe,INTERESTING,0.8874999999999998
+phi4,data,data/safe/safe_20250505_185900.jsonl,safe,INTERESTING,0.85
+phi4,data,data/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.85
+phi4,data,data/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.85
+phi4,data,data/safe/safe_20250505_191300.jsonl,safe,INTERESTING,0.8833333333333334
+phi4,data,data/safe/safe_20250505_193400.jsonl,safe,INTERESTING,0.75
+phi4,data,data/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.85
+phi4,data,data/safe/safe_20250505_194600.jsonl,safe,INTERESTING,0.85
+phi4,data,data/safe/safe_20250505_195000.jsonl,safe,INTERESTING,0.8333333333333334
+phi4,data,data/safe/safe_20250505_195200.jsonl,safe,INTERESTING,0.8421875
+phi4,data,data/safe/safe_20250505_195500.jsonl,safe,INTERESTING,0.846153846153846
+phi4,data,data/safe/safe_20250505_195700.jsonl,safe,INTERESTING,0.8916666666666666
+phi4,data,data/safe/safe_20250505_200000.jsonl,safe,INTERESTING,0.85
+phi4,data,data/safe/safe_20250505_200200.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175749.jsonl,attack,INTERESTING,0.875
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175806.jsonl,attack,INTERESTING,0.95
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175826.jsonl,attack,INTERESTING,0.875
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175855.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175959.jsonl,attack,INTERESTING,0.8666666666666667
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180055.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180121.jsonl,attack,INTERESTING,0.8666666666666667
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180202.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180213.jsonl,attack,INTERESTING,0.9
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180224.jsonl,attack,INTERESTING,0.9
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180237.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180254.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180316.jsonl,attack,INTERESTING,0.8833333333333333
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180502.jsonl,attack,INTERESTING,0.875
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180536.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180602.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180623.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180641.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180654.jsonl,attack,INTERESTING,0.9
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180711.jsonl,attack,INTERESTING,0.8785714285714284
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180823.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180856.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180927.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180952.jsonl,attack,INTERESTING,0.9
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181019.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181050.jsonl,attack,INTERESTING,0.8500000000000001
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181122.jsonl,attack,INTERESTING,0.8799999999999999
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181227.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181243.jsonl,attack,INTERESTING,0.9
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181301.jsonl,attack,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181320.jsonl,attack,INTERESTING,0.875
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181351.jsonl,attack,INTERESTING,0.875
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143546.jsonl,attack,INTERESTING,0.8916666666666667
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143623.jsonl,attack,INTERESTING,0.7949999999999999
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143642.jsonl,attack,INTERESTING,0.7375
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143748.jsonl,attack,INTERESTING,0.95
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143816.jsonl,attack,INTERESTING,0.95
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143841.jsonl,attack,INTERESTING,0.9125
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143915.jsonl,attack,INTERESTING,0.8999999999999999
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143926.jsonl,attack,INTERESTING,0.925
+phi4,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143937.jsonl,attack,INTERESTING,0.8500000000000001
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134601.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,0.946875
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,0.9333333333333332
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134901.jsonl,safe,NOT INTERESTING,0.0
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_184100.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_185900.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.9
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191300.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193400.jsonl,safe,INTERESTING,0.8
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_194600.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195000.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195200.jsonl,safe,INTERESTING,0.842857142857143
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195500.jsonl,safe,INTERESTING,0.8321428571428571
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,0.91
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200000.jsonl,safe,INTERESTING,0.85
+phi4,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200200.jsonl,safe,INTERESTING,0.85
+qwen3_14b,data,data/attack/20250411_175749.jsonl,attack,INTERESTING,0.7333333333333334
+qwen3_14b,data,data/attack/20250411_175806.jsonl,attack,INTERESTING,0.85
+qwen3_14b,data,data/attack/20250411_175826.jsonl,attack,INTERESTING,0.8000000000000002
+qwen3_14b,data,data/attack/20250411_175855.jsonl,attack,NOT INTERESTING,0.6
+qwen3_14b,data,data/attack/20250411_175959.jsonl,attack,INTERESTING,0.8
+qwen3_14b,data,data/attack/20250411_180055.jsonl,attack,NOT INTERESTING,0.4666666666666666
+qwen3_14b,data,data/attack/20250411_180121.jsonl,attack,INTERESTING,0.6954545454545454
+qwen3_14b,data,data/attack/20250411_180202.jsonl,attack,INTERESTING,0.75
+qwen3_14b,data,data/attack/20250411_180213.jsonl,attack,INTERESTING,0.75
+qwen3_14b,data,data/attack/20250411_180224.jsonl,attack,INTERESTING,0.625
+qwen3_14b,data,data/attack/20250411_180237.jsonl,attack,NOT INTERESTING,0.65
+qwen3_14b,data,data/attack/20250411_180254.jsonl,attack,NOT INTERESTING,0.4666666666666666
+qwen3_14b,data,data/attack/20250411_180316.jsonl,attack,INTERESTING,0.4764705882352941
+qwen3_14b,data,data/attack/20250411_180502.jsonl,attack,INTERESTING,0.7666666666666666
+qwen3_14b,data,data/attack/20250411_180536.jsonl,attack,INTERESTING,0.7
+qwen3_14b,data,data/attack/20250411_180602.jsonl,attack,INTERESTING,0.7
+qwen3_14b,data,data/attack/20250411_180623.jsonl,attack,NOT INTERESTING,0.4
+qwen3_14b,data,data/attack/20250411_180641.jsonl,attack,INTERESTING,0.7166666666666667
+qwen3_14b,data,data/attack/20250411_180654.jsonl,attack,INTERESTING,0.8733333333333334
+qwen3_14b,data,data/attack/20250411_180711.jsonl,attack,INTERESTING,0.6333333333333334
+qwen3_14b,data,data/attack/20250411_180823.jsonl,attack,NOT INTERESTING,0.3833333333333333
+qwen3_14b,data,data/attack/20250411_180856.jsonl,attack,INTERESTING,0.525
+qwen3_14b,data,data/attack/20250411_180927.jsonl,attack,INTERESTING,0.725
+qwen3_14b,data,data/attack/20250411_180952.jsonl,attack,INTERESTING,0.625
+qwen3_14b,data,data/attack/20250411_181019.jsonl,attack,INTERESTING,0.7
+qwen3_14b,data,data/attack/20250411_181050.jsonl,attack,INTERESTING,0.675
+qwen3_14b,data,data/attack/20250411_181122.jsonl,attack,INTERESTING,0.7222222222222222
+qwen3_14b,data,data/attack/20250411_181227.jsonl,attack,INTERESTING,0.575
+qwen3_14b,data,data/attack/20250411_181243.jsonl,attack,INTERESTING,0.79
+qwen3_14b,data,data/attack/20250411_181301.jsonl,attack,NOT INTERESTING,0.6499999999999999
+qwen3_14b,data,data/attack/20250411_181320.jsonl,attack,NOT INTERESTING,0.4666666666666666
+qwen3_14b,data,data/attack/20250411_181351.jsonl,attack,INTERESTING,0.7333333333333334
+qwen3_14b,data,data/attack/20250606_143546.jsonl,attack,INTERESTING,0.8055555555555555
+qwen3_14b,data,data/attack/20250606_143623.jsonl,attack,INTERESTING,0.6677777777777778
+qwen3_14b,data,data/attack/20250606_143642.jsonl,attack,INTERESTING,0.6141666666666666
+qwen3_14b,data,data/attack/20250606_143748.jsonl,attack,INTERESTING,0.6625
+qwen3_14b,data,data/attack/20250606_143816.jsonl,attack,INTERESTING,0.425
+qwen3_14b,data,data/attack/20250606_143841.jsonl,attack,INTERESTING,0.7055555555555555
+qwen3_14b,data,data/attack/20250606_143915.jsonl,attack,INTERESTING,0.4833333333333333
+qwen3_14b,data,data/attack/20250606_143926.jsonl,attack,INTERESTING,0.55
+qwen3_14b,data,data/attack/20250606_143937.jsonl,attack,INTERESTING,0.375
+qwen3_14b,data,data/safe/safe_20250418_134500.jsonl,safe,NOT INTERESTING,0.05
+qwen3_14b,data,data/safe/safe_20250418_134601.jsonl,safe,NOT INTERESTING,0.55
+qwen3_14b,data,data/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,0.7609374999999999
+qwen3_14b,data,data/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,0.4970588235294117
+qwen3_14b,data,data/safe/safe_20250418_134901.jsonl,safe,NOT INTERESTING,0.325
+qwen3_14b,data,data/safe/safe_20250505_184100.jsonl,safe,INTERESTING,0.6125
+qwen3_14b,data,data/safe/safe_20250505_185900.jsonl,safe,NOT INTERESTING,0.325
+qwen3_14b,data,data/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.8
+qwen3_14b,data,data/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.325
+qwen3_14b,data,data/safe/safe_20250505_191300.jsonl,safe,NOT INTERESTING,0.7866666666666666
+qwen3_14b,data,data/safe/safe_20250505_193400.jsonl,safe,INTERESTING,0.6
+qwen3_14b,data,data/safe/safe_20250505_193900.jsonl,safe,NOT INTERESTING,0.575
+qwen3_14b,data,data/safe/safe_20250505_194600.jsonl,safe,INTERESTING,0.65
+qwen3_14b,data,data/safe/safe_20250505_195000.jsonl,safe,NOT INTERESTING,0.5499999999999999
+qwen3_14b,data,data/safe/safe_20250505_195200.jsonl,safe,INTERESTING,0.546875
+qwen3_14b,data,data/safe/safe_20250505_195500.jsonl,safe,INTERESTING,0.651923076923077
+qwen3_14b,data,data/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,0.7666666666666666
+qwen3_14b,data,data/safe/safe_20250505_200000.jsonl,safe,NOT INTERESTING,0.5
+qwen3_14b,data,data/safe/safe_20250505_200200.jsonl,safe,INTERESTING,0.325
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175749.jsonl,attack,INTERESTING,0.7749999999999999
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175806.jsonl,attack,INTERESTING,0.85
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175826.jsonl,attack,INTERESTING,0.775
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175855.jsonl,attack,INTERESTING,0.65
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175959.jsonl,attack,INTERESTING,0.8333333333333334
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180055.jsonl,attack,NOT INTERESTING,0.625
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180121.jsonl,attack,INTERESTING,0.6916666666666665
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180202.jsonl,attack,INTERESTING,0.65
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180213.jsonl,attack,INTERESTING,0.9
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180224.jsonl,attack,INTERESTING,0.9
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180237.jsonl,attack,NOT INTERESTING,0.0
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180254.jsonl,attack,INTERESTING,0.65
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180316.jsonl,attack,INTERESTING,0.6222222222222222
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180502.jsonl,attack,INTERESTING,0.675
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180536.jsonl,attack,INTERESTING,0.75
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180602.jsonl,attack,INTERESTING,0.65
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180623.jsonl,attack,INTERESTING,0.6
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180641.jsonl,attack,INTERESTING,0.75
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180654.jsonl,attack,INTERESTING,0.875
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180711.jsonl,attack,INTERESTING,0.6714285714285715
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180823.jsonl,attack,INTERESTING,0.75
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180856.jsonl,attack,INTERESTING,0.65
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180927.jsonl,attack,INTERESTING,0.85
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180952.jsonl,attack,INTERESTING,0.85
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181019.jsonl,attack,INTERESTING,0.75
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181050.jsonl,attack,INTERESTING,0.575
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181122.jsonl,attack,NOT INTERESTING,0.4699999999999999
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181227.jsonl,attack,INTERESTING,0.835
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181243.jsonl,attack,INTERESTING,0.8
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181301.jsonl,attack,NOT INTERESTING,0.9
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181320.jsonl,attack,INTERESTING,0.4
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181351.jsonl,attack,INTERESTING,0.8
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143546.jsonl,attack,INTERESTING,0.8166666666666665
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143623.jsonl,attack,INTERESTING,0.64
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143642.jsonl,attack,INTERESTING,0.6000000000000001
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143748.jsonl,attack,INTERESTING,0.885
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143816.jsonl,attack,INTERESTING,0.935
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143841.jsonl,attack,INTERESTING,0.725
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143915.jsonl,attack,INTERESTING,0.8999999999999999
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143926.jsonl,attack,INTERESTING,0.835
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143937.jsonl,attack,INTERESTING,0.825
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.35
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134601.jsonl,safe,INTERESTING,0.675
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,0.553125
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,0.4444444444444444
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134901.jsonl,safe,NOT INTERESTING,0.0
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_184100.jsonl,safe,NOT INTERESTING,0.5599999999999999
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_185900.jsonl,safe,INTERESTING,0.65
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.75
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191000.jsonl,safe,NOT INTERESTING,0.65
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191300.jsonl,safe,INTERESTING,0.325
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193400.jsonl,safe,NOT INTERESTING,0.85
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.65
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_194600.jsonl,safe,NOT INTERESTING,0.65
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195000.jsonl,safe,INTERESTING,0.65
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195200.jsonl,safe,INTERESTING,0.5333333333333332
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195500.jsonl,safe,INTERESTING,0.6607142857142857
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,0.6199999999999999
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200000.jsonl,safe,NOT INTERESTING,0.75
+qwen3_14b,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200200.jsonl,safe,NOT INTERESTING,0.0
+selecao_dinamica,data,data/attack/20250411_175749.jsonl,attack,INTERESTING,0.8666666666666667
+selecao_dinamica,data,data/attack/20250411_175806.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,data,data/attack/20250411_175826.jsonl,attack,INTERESTING,0.8833333333333333
+selecao_dinamica,data,data/attack/20250411_175855.jsonl,attack,INTERESTING,0.8333333333333334
+selecao_dinamica,data,data/attack/20250411_175959.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,data,data/attack/20250411_180055.jsonl,attack,INTERESTING,0.8833333333333333
+selecao_dinamica,data,data/attack/20250411_180121.jsonl,attack,INTERESTING,0.8727272727272727
+selecao_dinamica,data,data/attack/20250411_180202.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,data,data/attack/20250411_180213.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,data,data/attack/20250411_180224.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,data,data/attack/20250411_180237.jsonl,attack,INTERESTING,0.9
+selecao_dinamica,data,data/attack/20250411_180254.jsonl,attack,INTERESTING,0.9333333333333332
+selecao_dinamica,data,data/attack/20250411_180316.jsonl,attack,INTERESTING,0.8882352941176469
+selecao_dinamica,data,data/attack/20250411_180502.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,data,data/attack/20250411_180536.jsonl,attack,INTERESTING,0.825
+selecao_dinamica,data,data/attack/20250411_180602.jsonl,attack,INTERESTING,0.875
+selecao_dinamica,data,data/attack/20250411_180623.jsonl,attack,INTERESTING,0.825
+selecao_dinamica,data,data/attack/20250411_180641.jsonl,attack,INTERESTING,0.8333333333333334
+selecao_dinamica,data,data/attack/20250411_180654.jsonl,attack,INTERESTING,0.8733333333333334
+selecao_dinamica,data,data/attack/20250411_180711.jsonl,attack,INTERESTING,0.8958333333333331
+selecao_dinamica,data,data/attack/20250411_180823.jsonl,attack,INTERESTING,0.8833333333333333
+selecao_dinamica,data,data/attack/20250411_180856.jsonl,attack,INTERESTING,0.8
+selecao_dinamica,data,data/attack/20250411_180927.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,data,data/attack/20250411_180952.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,data,data/attack/20250411_181019.jsonl,attack,INTERESTING,0.825
+selecao_dinamica,data,data/attack/20250411_181050.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,data,data/attack/20250411_181122.jsonl,attack,INTERESTING,0.8833333333333333
+selecao_dinamica,data,data/attack/20250411_181227.jsonl,attack,INTERESTING,0.875
+selecao_dinamica,data,data/attack/20250411_181243.jsonl,attack,INTERESTING,0.9166666666666666
+selecao_dinamica,data,data/attack/20250411_181301.jsonl,attack,INTERESTING,0.875
+selecao_dinamica,data,data/attack/20250411_181320.jsonl,attack,INTERESTING,0.8666666666666667
+selecao_dinamica,data,data/attack/20250411_181351.jsonl,attack,INTERESTING,0.9166666666666666
+selecao_dinamica,data,data/attack/20250606_143546.jsonl,attack,INTERESTING,0.8944444444444444
+selecao_dinamica,data,data/attack/20250606_143623.jsonl,attack,INTERESTING,0.8166666666666668
+selecao_dinamica,data,data/attack/20250606_143642.jsonl,attack,INTERESTING,0.8166666666666665
+selecao_dinamica,data,data/attack/20250606_143748.jsonl,attack,INTERESTING,0.9375
+selecao_dinamica,data,data/attack/20250606_143816.jsonl,attack,INTERESTING,0.925
+selecao_dinamica,data,data/attack/20250606_143841.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,data,data/attack/20250606_143915.jsonl,attack,INTERESTING,0.9499999999999998
+selecao_dinamica,data,data/attack/20250606_143926.jsonl,attack,INTERESTING,0.9125
+selecao_dinamica,data,data/attack/20250606_143937.jsonl,attack,INTERESTING,0.8875000000000001
+selecao_dinamica,data,data/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.8250000000000001
+selecao_dinamica,data,data/safe/safe_20250418_134601.jsonl,safe,INTERESTING,0.8785714285714284
+selecao_dinamica,data,data/safe/safe_20250418_134701.jsonl,safe,INTERESTING,0.9375
+selecao_dinamica,data,data/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,0.8852941176470588
+selecao_dinamica,data,data/safe/safe_20250418_134901.jsonl,safe,INTERESTING,0.425
+selecao_dinamica,data,data/safe/safe_20250505_184100.jsonl,safe,INTERESTING,0.8666666666666666
+selecao_dinamica,data,data/safe/safe_20250505_185900.jsonl,safe,INTERESTING,0.875
+selecao_dinamica,data,data/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.9
+selecao_dinamica,data,data/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.8999999999999999
+selecao_dinamica,data,data/safe/safe_20250505_191300.jsonl,safe,NOT INTERESTING,0.875
+selecao_dinamica,data,data/safe/safe_20250505_193400.jsonl,safe,NOT INTERESTING,0.85
+selecao_dinamica,data,data/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.8500000000000001
+selecao_dinamica,data,data/safe/safe_20250505_194600.jsonl,safe,NOT INTERESTING,0.8
+selecao_dinamica,data,data/safe/safe_20250505_195000.jsonl,safe,INTERESTING,0.8166666666666668
+selecao_dinamica,data,data/safe/safe_20250505_195200.jsonl,safe,INTERESTING,0.8578125
+selecao_dinamica,data,data/safe/safe_20250505_195500.jsonl,safe,INTERESTING,0.8634615384615384
+selecao_dinamica,data,data/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,0.9166666666666666
+selecao_dinamica,data,data/safe/safe_20250505_200000.jsonl,safe,INTERESTING,0.8166666666666668
+selecao_dinamica,data,data/safe/safe_20250505_200200.jsonl,safe,INTERESTING,0.825
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175749.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175806.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175826.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175855.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175959.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180055.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180121.jsonl,attack,INTERESTING,0.8749999999999999
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180202.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180213.jsonl,attack,INTERESTING,0.9
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180224.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180237.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180254.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180316.jsonl,attack,INTERESTING,0.8611111111111112
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180502.jsonl,attack,INTERESTING,0.875
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180536.jsonl,attack,NOT INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180602.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180623.jsonl,attack,INTERESTING,0.9
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180641.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180654.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180711.jsonl,attack,INTERESTING,0.9214285714285716
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180823.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180856.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180927.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180952.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181019.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181050.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181122.jsonl,attack,INTERESTING,0.93
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181227.jsonl,attack,INTERESTING,0.875
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181243.jsonl,attack,INTERESTING,0.925
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181301.jsonl,attack,NOT INTERESTING,0.9
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181320.jsonl,attack,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181351.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143546.jsonl,attack,INTERESTING,0.8916666666666666
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143623.jsonl,attack,INTERESTING,0.7799999999999999
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143642.jsonl,attack,NOT INTERESTING,0.79375
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143748.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143816.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143841.jsonl,attack,INTERESTING,0.875
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143915.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143926.jsonl,attack,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143937.jsonl,attack,INTERESTING,0.8999999999999999
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134500.jsonl,safe,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134601.jsonl,safe,INTERESTING,0.925
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,0.934375
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,0.9055555555555554
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134901.jsonl,safe,NOT INTERESTING,0.0
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_184100.jsonl,safe,NOT INTERESTING,0.8400000000000001
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_185900.jsonl,safe,INTERESTING,0.9
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_190800.jsonl,safe,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191000.jsonl,safe,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191300.jsonl,safe,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193400.jsonl,safe,NOT INTERESTING,1.0
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193900.jsonl,safe,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_194600.jsonl,safe,INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195000.jsonl,safe,NOT INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195200.jsonl,safe,NOT INTERESTING,0.926190476190476
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195500.jsonl,safe,NOT INTERESTING,0.8857142857142855
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,0.95
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200000.jsonl,safe,INTERESTING,0.85
+selecao_dinamica,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200200.jsonl,safe,INTERESTING,0.95
+voto_majoritario,data,data/attack/20250411_175749.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_175806.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_175826.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_175855.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_175959.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180055.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180121.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180202.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180213.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180224.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180237.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180254.jsonl,attack,NOT INTERESTING,
+voto_majoritario,data,data/attack/20250411_180316.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180502.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180536.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180602.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180623.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180641.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180654.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180711.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180823.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180856.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180927.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_180952.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_181019.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_181050.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_181122.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_181227.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_181243.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_181301.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_181320.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250411_181351.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250606_143546.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250606_143623.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250606_143642.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250606_143748.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250606_143816.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250606_143841.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250606_143915.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250606_143926.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/attack/20250606_143937.jsonl,attack,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250418_134500.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250418_134601.jsonl,safe,NOT INTERESTING,
+voto_majoritario,data,data/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,
+voto_majoritario,data,data/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,
+voto_majoritario,data,data/safe/safe_20250418_134901.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_184100.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_185900.jsonl,safe,NOT INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_190800.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_191000.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_191300.jsonl,safe,NOT INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_193400.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_193900.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_194600.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_195000.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_195200.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_195500.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_200000.jsonl,safe,INTERESTING,
+voto_majoritario,data,data/safe/safe_20250505_200200.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175749.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175806.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175826.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175855.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175959.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180055.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180121.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180202.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180213.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180224.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180237.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180254.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180316.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180502.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180536.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180602.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180623.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180641.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180654.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180711.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180823.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180856.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180927.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180952.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181019.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181050.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181122.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181227.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181243.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181301.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181320.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181351.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143546.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143623.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143642.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143748.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143816.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143841.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143915.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143926.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143937.jsonl,attack,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134500.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134601.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134901.jsonl,safe,NOT INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_184100.jsonl,safe,NOT INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_185900.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_190800.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191000.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191300.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193400.jsonl,safe,NOT INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193900.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_194600.jsonl,safe,NOT INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195000.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195200.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195500.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200000.jsonl,safe,INTERESTING,
+voto_majoritario,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200200.jsonl,safe,NOT INTERESTING,
+voto_ponderado,data,data/attack/20250411_175749.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_175806.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_175826.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_175855.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_175959.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180055.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180121.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180202.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180213.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180224.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180237.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180254.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180316.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180502.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180536.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180602.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180623.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180641.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180654.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180711.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180823.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180856.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180927.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_180952.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_181019.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_181050.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_181122.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_181227.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_181243.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_181301.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_181320.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250411_181351.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250606_143546.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250606_143623.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250606_143642.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250606_143748.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250606_143816.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250606_143841.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250606_143915.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250606_143926.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/attack/20250606_143937.jsonl,attack,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250418_134500.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250418_134601.jsonl,safe,NOT INTERESTING,
+voto_ponderado,data,data/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,
+voto_ponderado,data,data/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,
+voto_ponderado,data,data/safe/safe_20250418_134901.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_184100.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_185900.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_190800.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_191000.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_191300.jsonl,safe,NOT INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_193400.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_193900.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_194600.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_195000.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_195200.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_195500.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_200000.jsonl,safe,INTERESTING,
+voto_ponderado,data,data/safe/safe_20250505_200200.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175749.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175806.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175826.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175855.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_175959.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180055.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180121.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180202.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180213.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180224.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180237.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180254.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180316.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180502.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180536.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180602.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180623.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180641.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180654.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180711.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180823.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180856.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180927.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_180952.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181019.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181050.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181122.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181227.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181243.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181301.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181320.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250411_181351.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143546.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143623.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143642.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143748.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143816.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143841.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143915.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143926.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/attack/20250606_143937.jsonl,attack,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134500.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134601.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134701.jsonl,safe,NOT INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134801.jsonl,safe,NOT INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250418_134901.jsonl,safe,NOT INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_184100.jsonl,safe,NOT INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_185900.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_190800.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191000.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_191300.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193400.jsonl,safe,NOT INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_193900.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_194600.jsonl,safe,NOT INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195000.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195200.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195500.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_195700.jsonl,safe,NOT INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200000.jsonl,safe,INTERESTING,
+voto_ponderado,llama3.2_3b,filtering/llama3.2_3b/safe/safe_20250505_200200.jsonl,safe,INTERESTING,

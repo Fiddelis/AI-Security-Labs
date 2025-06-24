@@ -1,0 +1,10 @@
+model;font;false_positive;false_negative;true_positive;true_negative
+deepseek-r1_14b;data;8;4;37;11
+gemma3_12b;data;18;0;41;1
+llama3.1;data;19;0;41;0
+mistral-nemo;data;19;0;41;0
+phi4;data;16;0;41;3
+qwen3_14b;data;8;3;38;11
+selecao_dinamica;data;13;1;40;6
+voto_majoritario;data;11;1;40;8
+voto_ponderado;data;11;1;40;8
