@@ -94,8 +94,8 @@ class OllamaClient:
         try:
             response = ollama.chat(
                 model=self.model,
-                messages=messages,
-                think=False
+                messages=messages
+                #,think=False
             )
             analysis = response["message"]["content"].strip()
         except Exception as exc:

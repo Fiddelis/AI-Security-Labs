@@ -84,7 +84,7 @@ class Main:
         random.shuffle(files)
         print(files)
 
-        for test_num in range(6, self.num_tests):
+        for test_num in range(0, self.num_tests):
             for model in self.models:
                 client = OllamaClient(model, self.mode)
                 chunker = JsonlChunker(self.max_tokens)
