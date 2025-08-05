@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple powershell.exe processes accessing files and registry, along with cmd.exe setting registry values, potentially indicating malicious activity.\",\n  \"CONFIDENCE\": 0.75\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events indicating potential malicious activity: repeated file creations and deletions, suspicious process activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

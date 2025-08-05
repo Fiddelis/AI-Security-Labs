@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell.exe running consecutively, accessing files and network resources, along with creation of temp files and pipes, suggesting potential script execution or command-line activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of 'Process Creation' events, particularly the one with a non-null process name ('smss.exe'), suggests that an actual process is being created, which can be indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

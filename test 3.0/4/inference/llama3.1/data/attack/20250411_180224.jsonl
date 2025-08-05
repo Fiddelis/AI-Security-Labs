@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious registry value sets, file creations, and process accesses by high-privilege processes such as PowerShell and SCHTASKS. This pattern suggests potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

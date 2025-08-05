@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario3\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and chrome.exe accessing registry, loading images, along with whoami.exe process creation indicate potential reconnaissance or lateral movement activities.\"\n}"}

@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/llama3.2_3b\/scenario5\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities involving PowerShell execution, unusual process creations (cmd.exe with tasklist), frequent registry modifications by chrome.exe, and file creation events involving winlogbeat.exe.\"\n}"}

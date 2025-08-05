@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell and WMIC processes with unusual activity such as loading specific DLL files (urlmon.dll, amsi.dll) and creating a temporary file in the user's Downloads folder.\",\n  \"CONFIDENCE\": 0.85\n}"}

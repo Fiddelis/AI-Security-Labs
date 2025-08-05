@@ -1,2 +1,0 @@
-{"file":"data\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious file and registry access by multiple powershell instances, potentially indicating malware or a malicious script.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains repeated execution of powershell.exe, one process accessing it, and a suspicious file being created by winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario5\/20250411_181351.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell events with suspicious activities, including screen capture, registry modifications, and pipeline execution.\"\n}"}

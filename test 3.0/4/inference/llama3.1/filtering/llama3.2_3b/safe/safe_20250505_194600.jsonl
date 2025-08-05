@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated creation of the same file by winlogbeat.exe and creation of a suspicious rundll32.exe process with an embedded command, indicating potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

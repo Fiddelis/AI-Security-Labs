@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario3\/20250411_180641.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple events related to unusual activities such as suspicious command lines (`cmd.exe` with `csc.exe`), PowerShell execution, and registry value changes which are indicative of potential malicious behavior.\"\n}"}

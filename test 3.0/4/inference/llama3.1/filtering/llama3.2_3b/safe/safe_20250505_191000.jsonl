@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE loading various DLLs and creating files, potentially indicating malicious activity. Additionally, a 'Special Logon' event suggests an elevated privilege level.\",\n  \"CONFIDENCE\": 0.85\n}"}

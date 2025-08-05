@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi4-mini\/scenario4\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell and unusual commands like WMIC, whoami, and svchost within a short time frame.\"\n}"}

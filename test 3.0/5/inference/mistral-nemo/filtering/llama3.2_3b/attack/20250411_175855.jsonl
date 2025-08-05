@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected including repeated execution of PowerShell and whoami, unusual file creations in user's Downloads folder, and excessive registry value sets.\",\n  \"CONFIDENCE\": 0.85\n}"}

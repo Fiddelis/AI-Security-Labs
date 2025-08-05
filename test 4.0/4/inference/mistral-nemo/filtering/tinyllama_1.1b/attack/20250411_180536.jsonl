@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual events involving PowerShell, sc.exe, and unexplained network connections detected. Additionally, several image load events suggest potential DLL side-loading attempts.\",\n  \"CONFIDENCE\": 0.85\n}"}

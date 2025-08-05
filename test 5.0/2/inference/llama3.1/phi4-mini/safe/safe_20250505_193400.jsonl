@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple Process Creation events with different process names and a Dirty Transition event, which may indicate suspicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains a mix of normal events and some suspicious events, such as the creation of multiple processes with unknown names. Specifically, the process 'Registry' is created in an unexpected manner.\",\n  \"CONFIDENCE\": 0.8\n}"}

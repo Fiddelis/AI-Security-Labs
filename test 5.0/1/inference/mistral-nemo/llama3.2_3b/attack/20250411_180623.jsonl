@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\"CLASSIFICATION\": \"INTERESTING\", \"JUSTIFICATION\": \"Batch contains multiple PowerShell processes creating temporary files, setting registry values, and loading images, indicating potential malicious behavior.\", \"CONFIDENCE\": 0.95}"}

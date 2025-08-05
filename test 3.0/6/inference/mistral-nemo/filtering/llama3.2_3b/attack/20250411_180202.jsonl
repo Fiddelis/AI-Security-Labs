@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple events involving PowerShell and WMIC, which are often used in malicious activities. Additionally, there's an unusual command line for cmd.exe creating notepad.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

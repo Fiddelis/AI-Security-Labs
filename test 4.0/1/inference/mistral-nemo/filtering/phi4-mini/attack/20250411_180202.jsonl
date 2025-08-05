@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive PowerShell executions, followed by file creation in user directory and Windows Defender library loading.\",\n  \"CONFIDENCE\": 0.85\n}"}

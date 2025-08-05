@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple 'Process Creation' events detected in quick succession, followed by numerous 'None' and system startup\/logoff events. This pattern could indicate an attempted or successful exploit targeting the system.\",\n  \"CONFIDENCE\": 0.85\n}"}

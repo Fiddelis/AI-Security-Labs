@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180641.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated registry value settings and potential lateral movement attempts through network connections, coupled with the creation of suspicious files, suggest malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

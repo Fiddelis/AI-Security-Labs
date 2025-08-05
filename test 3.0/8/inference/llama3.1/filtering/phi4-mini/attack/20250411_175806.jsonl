@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (powershell.exe, whoami.exe, cmd.exe, reg.exe) create new files and registry values, which could be indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

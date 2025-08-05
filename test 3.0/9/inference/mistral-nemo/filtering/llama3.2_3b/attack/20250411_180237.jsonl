@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell events, cmd.exe used to run tasklist, and file created in user's Downloads folder which is unusual for system processes like winlogbeat.\",\n  \"CONFIDENCE\": 0.9\n}"}

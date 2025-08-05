@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario1\/20250411_175749.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious activities detected, including repeated execution of remote commands and unusual registry value settings by multiple processes, indicating potential malicious behavior.\"\n}"}

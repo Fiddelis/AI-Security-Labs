@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_181019.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple attempts to create a service with suspicious command lines and multiple registry value sets by chrome.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

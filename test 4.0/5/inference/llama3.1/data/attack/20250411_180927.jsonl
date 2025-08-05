@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creations and registry value set events, including attempts to add administrators and modify group membership.\",\n  \"CONFIDENCE\": 0.95\n}"}
-{"file":"data\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry values were set by chrome.exe, and there are suspicious file creations by powershell.exe and winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.9\n}"}

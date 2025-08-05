@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_175806.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of process creations and registry modifications detected, potentially indicating malicious activity such as persistence mechanisms.\",\n  \"CONFIDENCE\": 0.85\n}\n```"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell execution (powershell.exe), including file creation, deletion, and image loaded tasks, suggesting potential malicious activity like script execution or malware loading.\",\n  \"CONFIDENCE\": 0.95\n}"}

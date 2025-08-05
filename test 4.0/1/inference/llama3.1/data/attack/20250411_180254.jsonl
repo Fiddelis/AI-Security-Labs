@@ -1,3 +1,0 @@
-{"file":"data\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious processes (powershell.exe, cmd.exe) and system calls (registry value set, file creation) indicates potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"data\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of chrome.exe setting registry values and loading DLLs, which could indicate malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"data\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Unusual registry modification by Chrome\",\n  \"CONFIDENCE\": 0.8\n}"}

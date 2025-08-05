@@ -1,2 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario5\/20250411_181227.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple scheduled tasks are being created with powershell, executing calc.exe and using highest runlevel for administrators.\"\n}\n```"}
-{"file":"data\/filtering\/phi\/scenario5\/20250411_181227.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated registry changes by chrome.exe are common and not necessarily malicious.\" \n}"}

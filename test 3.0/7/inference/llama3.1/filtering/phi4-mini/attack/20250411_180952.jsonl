@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple suspicious activities, including creation of new files in sensitive directories and execution of powershell commands with potentially malicious intent.\",\n  \"CONFIDENCE\": 0.92\n}"}

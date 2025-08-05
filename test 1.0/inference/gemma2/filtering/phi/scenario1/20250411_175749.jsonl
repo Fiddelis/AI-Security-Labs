@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario1\/20250411_175749.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The events show common system activity, including registry modifications and process executions. There's no clear indication of malicious intent or unusual behavior.\"\n}\n```"}

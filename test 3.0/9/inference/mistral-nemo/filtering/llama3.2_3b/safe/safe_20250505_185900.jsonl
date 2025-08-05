@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected including PowerShell process creating pipes, deleting files, and loading external DLLs. Additionally, there's an unexpected IPconfig process creation.\",\n  \"CONFIDENCE\": 0.95\n}"}

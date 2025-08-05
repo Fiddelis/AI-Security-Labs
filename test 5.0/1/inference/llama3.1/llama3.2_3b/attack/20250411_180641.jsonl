@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180641.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes (whoami.exe, cmd.exe, powershell.exe, csc.exe) and files are created or executed.\",\n  \"CONFIDENCE\": 0.9\n}"}

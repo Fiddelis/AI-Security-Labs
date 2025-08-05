@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events, including registry value sets and file creations, from multiple processes (powershell.exe, cmd.exe, reg.exe) that may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

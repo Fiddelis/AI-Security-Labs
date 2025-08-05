@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario5\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry values were set by multiple processes, which may indicate a malicious activity. Specifically, 'powershell.exe' created a file and 'chrome.exe' continuously attempted to set registry values.\"\n}"}

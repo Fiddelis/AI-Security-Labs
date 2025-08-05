@@ -1,2 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creations and registry modifications, including attempts to add users and groups, and file creations in system directories.\",\n  \"CONFIDENCE\": 0.95\n}"}
-{"file":"filtering\/phi4-mini\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity involving powershell.exe and modification of system files.\",\n  \"CONFIDENCE\": 0.9\n}"}

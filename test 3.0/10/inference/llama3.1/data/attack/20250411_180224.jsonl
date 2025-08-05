@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious registry value set events, process creation and execution of scripts by schtasks and powershell.exe, which may indicate a potential malware or lateral movement.\",\n  \"CONFIDENCE\": 0.95\n}"}

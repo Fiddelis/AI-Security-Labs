@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious processes (WMIC, cmd, powershell) and files (urlmon.dll, amsi.dll, MpOAV.dll, MpClient.dll) were detected.\",\n  \"CONFIDENCE\": 0.85\n}"}

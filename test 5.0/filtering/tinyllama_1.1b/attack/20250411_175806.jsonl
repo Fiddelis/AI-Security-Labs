@@ -1,4 +1,0 @@
-{"process":"{'name': 'whoami.exe', 'command_line': '\"C:\\Windows\\system32\\whoami.exe\"'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
-{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Process accessed (rule: ProcessAccess)'}","file":"None"}
-{"process":"{'name': 'cmd.exe', 'command_line': '\"cmd.exe\" \/c REG ADD \"HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\" \/V \"registro_auxiliar\" \/t REG_SZ \/F \/D \"C:\\Path\\estrutura_principal.exe\"'}","winlog":"{'task': 'Process Create (rule: ProcessCreate)'}","file":"None"}
-{"process":"{'name': 'powershell.exe'}","winlog":"{'task': 'Registry value set (rule: RegistryEvent)'}","file":"None"}

@@ -1,2 +1,0 @@
-{"file":"data\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events related to the 'chrome.exe' process and registry value sets, as well as other suspicious activity such as process creations and logons.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"data\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple network connections detected, and a new executable file was created in the download folder.\",\n  \"CONFIDENCE\": 0.8\n}"}

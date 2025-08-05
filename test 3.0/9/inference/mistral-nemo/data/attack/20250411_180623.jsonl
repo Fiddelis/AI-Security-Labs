@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple PowerShell-related events over a short period, including registry modifications, file creation and deletion, and loading of potential malicious DLLs.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/attack\/20250411_180623.jsonl","analysis":"{\"CLASSIFICATION\": \"INTERESTING\", \"JUSTIFICATION\": \"Multiple events involving PowerShell.exe, which could indicate suspicious activity.\", \"CONFIDENCE\": 0.7}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_185900.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The events are related to normal operations of winlogbeat.exe and powershell.exe, such as file creation, deletion, and loading system libraries. No signs of malicious activity detected.\",\n  \"CONFIDENCE\": 0.9\n}\n```"}

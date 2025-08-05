@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious process creation and registry value setting events, particularly involving PowerShell and WinLogBeat, suggests malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

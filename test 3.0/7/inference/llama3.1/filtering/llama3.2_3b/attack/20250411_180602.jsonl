@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and registry modifications, including powershell.exe and chrome.exe. The loading of amsi.dll suggests an attempt to evade AMSI detection.\",\n  \"CONFIDENCE\": 0.9\n}"}

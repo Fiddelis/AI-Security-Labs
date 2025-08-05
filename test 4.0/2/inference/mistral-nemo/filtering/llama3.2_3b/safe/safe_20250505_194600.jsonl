@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of Notepad opening the same 'arquivo.txt' file from Downloads folder, potentially indicating suspicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

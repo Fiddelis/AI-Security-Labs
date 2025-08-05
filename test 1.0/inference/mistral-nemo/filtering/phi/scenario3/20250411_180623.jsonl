@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario3\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell.exe loading .NET DLLs, followed by a file delete event targeting a temporary PowerShell script. This sequence could indicate an attempt to obfuscate malicious activity.\"\n}"}

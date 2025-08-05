@@ -1,2 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180823.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events, including potential malware execution and registry modifications.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"filtering\/phi4-mini\/attack\/20250411_180823.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events including file creation, process access, and registry value setting by a potentially malicious powershell.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}

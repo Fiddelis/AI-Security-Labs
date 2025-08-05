@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Possible attack progression involving PowerShell, WMIC, and registry modifications. Powershell.exe access, WMIC.exe image loads, and multiple registry events suggest a potential intrusion attempt.\",\n  \"CONFIDENCE\": 0.75\n}"}
