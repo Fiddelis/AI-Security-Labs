@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities observed within the batch, including unauthorized user and group creation via cmd\/net processes, frequent powershell.exe process creations, registry modifications, and file creations.\",\n  \"CONFIDENCE\": 0.95\n}"}

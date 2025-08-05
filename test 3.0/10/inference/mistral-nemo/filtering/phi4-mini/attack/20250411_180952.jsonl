@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell and command-line executions, including user account creation and group additions with domain privileges. Suspicious files created by winlogbeat and PowerShell processes.\",\n  \"CONFIDENCE\": 0.95\n}"}

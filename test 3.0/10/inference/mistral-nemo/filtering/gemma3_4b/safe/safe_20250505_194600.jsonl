@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities such as frequent file creations by notepad.exe, network connection detected by MpDefenderCoreService.exe and unusual rundll32.exe execution.\",\n  \"CONFIDENCE\": 0.95\n}"}

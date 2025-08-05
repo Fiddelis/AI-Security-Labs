@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving 'notepad.exe' opening and creating files in Downloads folder, along with a suspicious rundll32.exe process creation.\",\n  \"CONFIDENCE\": 0.95\n}"}

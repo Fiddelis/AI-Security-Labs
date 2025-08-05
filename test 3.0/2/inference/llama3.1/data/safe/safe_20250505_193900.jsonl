@@ -1,2 +1,0 @@
-{"file":"data\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (chrome.exe and svchost.exe) are creating network connections, which could be indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are accessing system files and registry values, which could be indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

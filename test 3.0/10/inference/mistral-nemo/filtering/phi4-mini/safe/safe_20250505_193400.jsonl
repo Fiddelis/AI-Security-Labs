@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"All events are routine Windows tasks or process creations that do not exhibit any suspicious behavior.\",\n  \"CONFIDENCE\": 0.95\n}"}

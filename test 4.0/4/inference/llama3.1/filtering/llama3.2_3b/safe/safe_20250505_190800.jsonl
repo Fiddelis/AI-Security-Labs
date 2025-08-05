@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (powershell.exe and winlogbeat.exe) are loading suspicious DLLs, setting registry values, creating files with potential malicious content, and attempting to execute remote commands.\",\n  \"CONFIDENCE\": 0.95\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious PowerShell activity, including execution of scripts and loading of DLLs. Also, an unknown process attempting to execute a remote command.\",\n  \"CONFIDENCE\": 0.95\n}"}

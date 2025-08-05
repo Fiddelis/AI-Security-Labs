@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual behaviors involving Excel.exe including frequent image loads, creation of a suspicious LNK file in AppData folder and repeated DNS queries within a short timeframe.\",\n  \"CONFIDENCE\": 0.85\n}"}

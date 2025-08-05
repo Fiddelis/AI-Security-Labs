@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of process creation and file creation events indicate possible malicious activity. The presence of multiple instances of the same event (e.g., 'File created' for winlogbeat.exe) also raises suspicion.\",\n  \"CONFIDENCE\": 0.8\n}"}

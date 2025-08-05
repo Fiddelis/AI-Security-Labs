@@ -1,5 +1,0 @@
-{"process":null,"winlog":{"task":"DirtyBootShutdown"}}
-{"process":null,"winlog":{"task":"Process Creation"}}
-{"process":{"name":"smss.exe"},"winlog":{"task":"Process Creation"}}
-{"process":null,"winlog":{"task":"DirtyTransition"}}
-{"process":null,"winlog":{"task":"BatteryCountChange"}}

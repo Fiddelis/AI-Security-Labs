@@ -1,3 +1,0 @@
-{"file":"data\/attack\/20250411_175826.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious PowerShell activity and file system changes.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/attack\/20250411_175826.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell executing suspicious commands, registry and file creation events.\",\n  \"CONFIDENCE\": 0.9\n}"}
-{"file":"data\/attack\/20250411_175826.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of registry value set events for chrome.exe, and suspicious file creation and access by powershell.exe and winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}

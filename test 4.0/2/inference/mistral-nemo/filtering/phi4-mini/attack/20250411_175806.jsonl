@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell and command line processes creating and modifying registry keys and files, suggesting potential malware installation or configuration.\",\n  \"CONFIDENCE\": 0.95\n}"}

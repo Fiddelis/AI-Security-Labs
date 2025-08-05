@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving EXCEL.EXE loading suspicious DLLs, creating a file in Roaming folder with '.LNK' extension, and performing DNS queries.\",\n  \"CONFIDENCE\": 0.8\n}"}

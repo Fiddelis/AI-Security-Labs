@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual events involving powershell.exe, cmd.exe and WMIC.exe including process creation, registry access and file access. Also, WMIC.exe loaded suspicious DLL files.\",\n  \"CONFIDENCE\": 0.85\n}"}

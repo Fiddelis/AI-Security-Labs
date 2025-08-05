@@ -1,2 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events, including repeated registry value sets and process creations, indicating possible malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"filtering\/phi4-mini\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry values were set by svchost.exe, which could be indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

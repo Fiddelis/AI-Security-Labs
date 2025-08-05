@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180641.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and network connections detected, indicating potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/attack\/20250411_180641.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry value sets and image loads by 'chrome.exe', which could indicate malicious activity or a compromised system.\",\n  \"CONFIDENCE\": 0.8\n}"}

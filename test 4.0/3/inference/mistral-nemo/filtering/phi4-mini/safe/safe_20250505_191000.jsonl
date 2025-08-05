@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple ImageLoad events by Excel.exe involving system DLLs and a suspicious file creation event by winlogbeat.exe. Also, multiple DNS queries by Excel.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

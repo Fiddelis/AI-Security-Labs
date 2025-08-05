@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_195000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events involving 'SDXHelper.exe' loading system DLLs followed by DNS queries, indicating potential reconnaissance or command and control communication.\",\n  \"CONFIDENCE\": 0.9\n}"}

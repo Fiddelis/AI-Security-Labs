@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of notepad.exe creating and modifying files, combined with a rundll32.exe execution suggesting potential data exfiltration or malware activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

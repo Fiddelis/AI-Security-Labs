@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and registry modifications, including multiple instances of 'chrome.exe' loading AMSI.dll and MpOAV.dll, and 'powershell.exe' accessing process.\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,2 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_181050.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity involving execution of malicious files and registry manipulation.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"filtering\/phi4-mini\/attack\/20250411_181050.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of chrome.exe are setting registry values, while powershell.exe is accessing processes and creating files.\",\n  \"CONFIDENCE\": 0.9\n}"}

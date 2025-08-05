@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events detected, including potential malware execution and file creation by an unexpected process (svchost.exe).\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"data\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of chrome.exe loading AMSI and MpOAV DLLs, indicating potential malicious activity.\",\n  \"CONFIDENCE\": 0.95\n}"}

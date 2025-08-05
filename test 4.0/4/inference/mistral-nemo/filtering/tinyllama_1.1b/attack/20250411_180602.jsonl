@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and chrome.exe along with frequent registry accesses, file creations, and image loads. Also, unusual combination of powershell.exe with file creation task.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of Powershell.exe and cmd.exe executing with unusual commands, along with WMIC.exe loading multiple DLL files which could indicate potential lateral movement or privilege escalation attempts.\",\n  \"CONFIDENCE\": 0.85\n}"}

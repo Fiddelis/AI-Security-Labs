@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of malicious or suspicious activity, including creation of a potential malware file and excessive registry value setting by chrome.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}

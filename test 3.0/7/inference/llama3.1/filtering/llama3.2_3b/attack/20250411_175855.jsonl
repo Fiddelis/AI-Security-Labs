@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes and files are being created or accessed in a suspicious manner, including multiple instances of powershell.exe and chrome.exe accessing sensitive system files.\",\n  \"CONFIDENCE\": 0.85\n}"}

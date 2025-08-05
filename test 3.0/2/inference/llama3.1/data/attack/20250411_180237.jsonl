@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected, including process access and registry value setting by powershell.exe and cmd.exe, as well as file creation by winlogbeat.exe. These actions suggest potential malicious behavior.\",\n  \"CONFIDENCE\": 0.9\n}"}

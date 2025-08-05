@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Presence of 'Process Creation' and 'DirtyTransition' events with a mix of benign and unknown tasks.\",\n  \"CONFIDENCE\": 0.7\n}"}

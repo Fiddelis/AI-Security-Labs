@@ -1,2 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_181227.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious PowerShell commands and remote command execution attempts suggests malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_181227.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activities include execution of PowerShell, creation of files in user directories and registry modifications.\",\n  \"CONFIDENCE\": 0.8\n}"}

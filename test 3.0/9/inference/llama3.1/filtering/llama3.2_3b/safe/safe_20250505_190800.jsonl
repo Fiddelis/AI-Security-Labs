@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains a series of events related to PowerShell execution, including creation of new files and loading of DLLs. This pattern is indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,2 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events, including Registry value sets and process creations with potentially malicious command lines.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"PowerShell process accessed, potentially indicating malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell events (create, load DLLs, pipe created) followed by file creation and deletion in user profile directory. Also includes remote command execution event.\",\n  \"CONFIDENCE\": 0.95\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE are loading various DLL files, including urlmon.dll, combase.dll, amsi.dll, and MpOAV.dll. This behavior is suspicious as it indicates potential malicious activity.\"\n}"}

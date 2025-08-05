@@ -1,2 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE loading suspicious DLLs and creating files in user directories.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of an Excel process performing DNS queries, which may indicate a phishing or malware campaign.\",\n  \"CONFIDENCE\": 0.9\n}"}

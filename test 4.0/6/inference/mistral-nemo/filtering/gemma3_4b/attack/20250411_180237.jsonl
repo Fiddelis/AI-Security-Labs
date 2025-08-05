@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple occurrences of PowerShell and cmd.exe processes, along with several Windows registry value set events suggest possible lateral movement or privilege escalation activities.\",\n  \"CONFIDENCE\": 0.75\n}"}

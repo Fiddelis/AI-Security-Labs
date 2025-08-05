@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180823.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of schtasks.exe creating scheduled tasks with suspicious behavior, leading to the creation of calculator.exe processes. Also, powershell.exe creating files and accessing other processes.\",\n  \"CONFIDENCE\": 0.95\n}"}

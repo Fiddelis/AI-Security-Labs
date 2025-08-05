@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated image loading events for Excel.exe involving system DLLs and other files, along with multiple user account management tasks within a short timeframe.\",\n  \"CONFIDENCE\": 0.85\n}"}

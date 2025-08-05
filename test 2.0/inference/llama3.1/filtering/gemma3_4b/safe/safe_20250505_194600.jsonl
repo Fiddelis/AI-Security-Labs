@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes with suspicious file creation and registry modifications, including a potential malware process 'rundll32.exe' executing a DLL from the shell32 module.\"\n}"}

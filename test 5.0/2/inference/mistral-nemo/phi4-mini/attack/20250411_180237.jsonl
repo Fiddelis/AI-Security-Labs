@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe running concurrently, with some processes accessing files or registry. Additionally, there's an unusual command line argument in the whoami.exe process.\",\n  \"CONFIDENCE\": 0.8\n}"}

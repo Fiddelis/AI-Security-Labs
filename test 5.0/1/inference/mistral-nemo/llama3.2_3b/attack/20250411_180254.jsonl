@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities including PowerShell and cmd.exe executions with system-related commands, unusual image loads (amsi.dll), and unexpected file creations by svchost.exe and winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

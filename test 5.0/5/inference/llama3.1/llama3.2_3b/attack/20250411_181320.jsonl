@@ -1,2 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_181320.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity detected, including PowerShell execution and registry modifications.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_181320.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes accessed the urlmon.dll file, which is a suspicious behavior indicating potential malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains a series of registry value set events, which may indicate an attempt to persist malware. Additionally, there are multiple instances of file creation by the powershell.exe and winlogbeat.exe processes.\",\n  \"CONFIDENCE\": 0.92\n}"}

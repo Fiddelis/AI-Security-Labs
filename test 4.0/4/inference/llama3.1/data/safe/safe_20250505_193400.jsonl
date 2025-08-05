@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of 'Process Creation' and suspicious system events, including potential policy changes.\",\n  \"CONFIDENCE\": 0.85\n}"}

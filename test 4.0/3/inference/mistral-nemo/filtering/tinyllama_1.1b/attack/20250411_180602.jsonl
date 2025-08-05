@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Frequent use of PowerShell and multiple registry changes from various processes including Chrome, which is unusual behavior warranting further investigation.\",\n  \"CONFIDENCE\": 0.85\n}"}

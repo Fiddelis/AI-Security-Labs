@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes of powershell.exe are interacting with various system and application files, including loading images and creating files. This could indicate a malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

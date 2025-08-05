@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes accessing sensitive registry values and files with potential malicious intent, including unexpected access to system DLLs and creation of suspicious temporary files.\",\n  \"CONFIDENCE\": 0.85\n}"}

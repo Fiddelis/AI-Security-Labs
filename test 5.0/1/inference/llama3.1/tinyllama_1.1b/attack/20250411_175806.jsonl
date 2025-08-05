@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes were created, including whoami.exe and powershell.exe. Additionally, a registry value was modified.\",\n  \"CONFIDENCE\": 0.9\n}"}

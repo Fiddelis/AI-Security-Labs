@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple 'Process Creation' tasks, including one involving a potentially malicious process (smss.exe with unknown arguments). This could indicate suspicious activity.\",\n  \"CONFIDENCE\": 0.7\n}"}

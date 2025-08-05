@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (chrome.exe, svchost.exe) have loaded suspicious DLLs and multiple registry value set events are associated with chrome.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

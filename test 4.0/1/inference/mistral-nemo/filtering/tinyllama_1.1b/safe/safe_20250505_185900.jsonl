@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell accessing files and creating pipes within a short period, potentially indicative of script execution or data exfiltration.\",\n  \"CONFIDENCE\": 0.95\n}"}

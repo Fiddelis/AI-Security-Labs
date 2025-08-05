@@ -1,2 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity detected, including creation of files and registry modifications. Possible lateral movement or persistence mechanism.\",\n  \"CONFIDENCE\": 0.95\n}"}
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events in a short timeframe, including potential file access and creation.\",\n  \"CONFIDENCE\": 0.85\n}"}

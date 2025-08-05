@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple admin accounts created and added to administrators group followed by numerous registry modifications from Chrome. This behavior is unusual and potentially malicious.\",\n  \"CONFIDENCE\": 0.85\n}"}
