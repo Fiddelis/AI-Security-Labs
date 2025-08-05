@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated powershell.exe activity, including script execution and file deletion in Temp directory, followed by downloading a suspicious text file (estrutura_logico.txt) and accessing it.\",\n  \"CONFIDENCE\": 0.95\n}"}

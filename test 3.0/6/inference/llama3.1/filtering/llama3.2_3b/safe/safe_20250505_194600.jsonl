@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of winlogbeat.exe attempting to write to the same file (.winlogbeat.yml.new), potentially indicating suspicious behavior.\",\n  \"CONFIDENCE\": 0.9\n}"}

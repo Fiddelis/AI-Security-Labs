@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated creation of files in the Downloads directory and a suspicious Registry value set event.\",\n  \"CONFIDENCE\": 0.8\n}"}

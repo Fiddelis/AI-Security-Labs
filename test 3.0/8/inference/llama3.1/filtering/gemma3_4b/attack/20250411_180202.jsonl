@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple suspicious activities, including frequent access to processes like powershell.exe and registry value sets. Additionally, there are attempts to load DLLs from various directories.\",\n  \"CONFIDENCE\": 0.8\n}"}

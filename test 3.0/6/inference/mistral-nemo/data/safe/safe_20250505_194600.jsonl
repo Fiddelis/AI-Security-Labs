@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual activities including frequent file creation events by notepad.exe, suspicious registry changes by Explorer.exe, and a rundll32.exe process with an unusual command line argument.\",\n  \"CONFIDENCE\": 0.95\n}"}

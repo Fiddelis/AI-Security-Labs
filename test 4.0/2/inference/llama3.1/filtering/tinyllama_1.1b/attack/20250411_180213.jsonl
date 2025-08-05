@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180213.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Presence of suspicious processes such as 'powershell.exe' and 'sc.exe', potential registry tampering, and network connections by legitimate processes like 'chrome.exe'\",\n  \"CONFIDENCE\": 0.8\n}"}

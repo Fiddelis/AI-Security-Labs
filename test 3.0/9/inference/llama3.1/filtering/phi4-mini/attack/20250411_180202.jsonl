@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated instances of suspicious registry value sets and file creations, particularly involving powershell.exe and potentially malicious process creations.\",\n  \"CONFIDENCE\": 0.8\n}"}

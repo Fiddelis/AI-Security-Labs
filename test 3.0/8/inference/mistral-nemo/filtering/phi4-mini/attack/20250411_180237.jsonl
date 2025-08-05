@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple powershell.exe processes are seen accessing files and registry values. This could indicate malicious activity such as script execution.\",\n  \"CONFIDENCE\": 0.75\n}"}

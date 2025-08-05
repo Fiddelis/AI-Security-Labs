@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell.exe and cmd.exe being used to create registry values, suggesting possible persistence mechanisms. Also, unexplained file creations by winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.95\n}"}

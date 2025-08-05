@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/llama3.2_3b\/scenario3\/20250411_180641.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are compiling code (csc.exe), accessing files in user's AppData folder, and executing scripts with commands like 'cmd.exe'. This combination suggests potential malicious activity.\"\n}\n```"}

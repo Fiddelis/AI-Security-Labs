@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains repeated registry modifications, suspicious process creations and access patterns involving powershell.exe and schtasks.exe which are indicative of potential command and control activities.\",\n  \"CONFIDENCE\": 0.85\n}"}

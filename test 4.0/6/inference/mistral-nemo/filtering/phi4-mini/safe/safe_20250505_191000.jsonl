@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE loading DLLs and performing DNS queries, along with file creation event, suggesting possible unwanted activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

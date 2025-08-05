@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario2\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch shows scheduled tasks being created and queried, along with PowerShell executions and process interactions. This combination suggests potential malicious activity warranting further investigation.\" \n}"}

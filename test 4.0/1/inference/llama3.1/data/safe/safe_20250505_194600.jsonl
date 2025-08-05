@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of the same process creating files and registry values, indicating potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

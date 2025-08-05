@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and registry modifications detected, indicating potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes, including powershell.exe and winlogbeat.exe, are accessing registry values or files in a suspicious manner.\",\n  \"CONFIDENCE\": 0.8\n}"}

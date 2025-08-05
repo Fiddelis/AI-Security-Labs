@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell execution (both as a process and loading images) occurred within the same batch, suggesting possible malicious activity.\"\n}"}

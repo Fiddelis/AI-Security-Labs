@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity detected, including multiple attempts to create user accounts and local groups using net.exe and powershell.exe. Additionally, Chrome.exe is repeatedly setting registry values.\",\n  \"CONFIDENCE\": 0.85\n}"}

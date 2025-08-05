@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious process creation and registry modification events, combined with the loading of malicious DLLs, indicates potential malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

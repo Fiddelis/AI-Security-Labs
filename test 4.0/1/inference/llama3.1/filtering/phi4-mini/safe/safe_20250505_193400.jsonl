@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Presence of 'DirtyBootShutdown' event, which is typically an indication of malware or malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

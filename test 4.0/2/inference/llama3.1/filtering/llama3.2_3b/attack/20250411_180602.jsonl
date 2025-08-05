@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated creation of suspicious files and registry modifications by multiple processes, including Powershell and Chrome, indicate potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

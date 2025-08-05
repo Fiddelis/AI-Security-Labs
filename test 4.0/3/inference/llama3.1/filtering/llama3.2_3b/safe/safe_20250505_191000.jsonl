@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of SDXHelper.exe and EXCEL.EXE are loaded, and files are created with suspicious paths, indicating potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

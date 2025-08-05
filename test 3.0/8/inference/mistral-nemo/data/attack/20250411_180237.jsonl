@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple occurrences of suspicious activities including PowerShell execution, registry modifications, and file creations. PowerShell is often used in malicious scripts due to its powerful scripting capabilities.\",\n  \"CONFIDENCE\": 0.85\n}"}

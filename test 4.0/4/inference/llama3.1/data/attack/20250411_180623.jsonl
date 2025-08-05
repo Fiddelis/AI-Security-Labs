@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious powershell.exe processes and DLL loading events, including loading of malware detection-related files.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of 'powershell.exe' and 'winlogbeat.exe' creating files in the Downloads folder, which may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

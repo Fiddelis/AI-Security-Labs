@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated image loads of unknown DLLs by EXCEL.EXE process indicate potential malware activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

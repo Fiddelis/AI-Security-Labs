@@ -1,2 +1,0 @@
-{"file":"data\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"This batch contains suspicious activity, including repeated 'Provider Lifecycle' events and potential malicious file operations by powershell.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"data\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity involving PowerShell and a potentially malicious file created in the user's downloads directory.\",\n  \"CONFIDENCE\": 0.8\n}"}

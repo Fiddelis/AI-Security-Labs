@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated file creations and registry modifications by notepad.exe, indicating potential malicious behavior.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple suspicious activities such as powershell.exe accessing processes, WMIC.exe loading suspicious DLLs, and whoami.exe being created.\",\n  \"CONFIDENCE\": 0.95\n}"}

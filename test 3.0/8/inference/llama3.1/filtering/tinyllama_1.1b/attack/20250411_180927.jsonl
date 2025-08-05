@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and files were detected, including multiple instances of 'cmd.exe' with suspicious command lines, 'powershell.exe' accessing registry values, and creation of new files.\",\n  \"CONFIDENCE\": 0.85\n}"}

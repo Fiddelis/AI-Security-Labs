@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe with associated Registry value set and File create events. This could indicate a scripted attack involving command execution and file manipulation.\",\n  \"CONFIDENCE\": 0.75\n}"}

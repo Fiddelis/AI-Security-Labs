@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repetitive and suspicious registry value sets by chrome.exe, and image loads by tasklist.exe that may indicate an attempt to evade detection.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of registry value being set by chrome.exe, which could indicate suspicious behavior.\",\n  \"CONFIDENCE\": 0.8\n}"}

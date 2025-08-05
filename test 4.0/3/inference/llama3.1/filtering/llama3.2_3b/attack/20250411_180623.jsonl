@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious powershell.exe activity, including creation and deletion of files, image loading, and registry modifications.\",\n  \"CONFIDENCE\": 0.9\n}"}

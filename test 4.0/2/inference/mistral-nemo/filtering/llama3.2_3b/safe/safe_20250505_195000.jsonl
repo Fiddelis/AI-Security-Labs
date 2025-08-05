@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_195000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple Python processes spawned consecutively and accessing files, possibly indicating suspicious activity.\",\n  \"CONFIDENCE\": 0.75\n}"}

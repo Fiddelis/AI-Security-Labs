@@ -1,2 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple registry value set events for chrome.exe, network connections detected for svchost.exe and chrome.exe, and suspicious file creations by winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Registry modification, potentially malicious.\",\n  \"CONFIDENCE\": 0.7\n}"}

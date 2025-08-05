@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario2\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch is interesting because it contains repeated registry value set events for chrome.exe, powershell.exe, and cmd.exe. Additionally, there are file creation events for svchost.exe, which may indicate suspicious activity.\"\n}"}

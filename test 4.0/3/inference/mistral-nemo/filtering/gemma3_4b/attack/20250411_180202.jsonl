@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe being accessed and running consecutively, along with WMIC.exe loading suspicious DLLs like urlmon.dll which is commonly used for code injection or execution.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,2 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_195700.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple file creations by Solitaire.exe with suspicious paths and extension (.archive)\",\n  \"CONFIDENCE\": 0.9\n}"}
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_195700.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple files were created in a short time by Solitaire.exe, and the registry was also modified. This suggests suspicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

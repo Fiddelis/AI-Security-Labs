@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell.exe loading DLLs, creating temporary scripts, and deleting them afterwards. Also, an unusual command line argument '\/all' for ipconfig.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

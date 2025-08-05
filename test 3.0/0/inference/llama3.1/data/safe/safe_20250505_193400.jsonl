@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple events that indicate system changes, such as process creations and policy updates. Additionally, there are repeated 'None' events which could be indicative of an abnormality or malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

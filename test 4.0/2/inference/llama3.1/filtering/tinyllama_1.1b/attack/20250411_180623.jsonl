@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity detected: multiple instances of powershell.exe accessing sensitive registry keys, creating files in user download directories, and loading DLLs from the Windows directory.\",\n  \"CONFIDENCE\": 0.9\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell creating files and loading images in a short period. This behavior could indicate potential malicious activity such as script execution or malware installation.\",\n  \"CONFIDENCE\": 0.85\n}"}

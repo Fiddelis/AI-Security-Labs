@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell.exe executing in rapid succession, accessing and loading various DLLs. Additionally, a suspicious command is executed.\",\n  \"CONFIDENCE\": 0.9\n}"}

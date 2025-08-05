@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains repeated registry changes by chrome.exe and powershell.exe processes, along with access to files and pipes which could indicate suspicious behavior.\",\n  \"CONFIDENCE\": 0.75\n}"}

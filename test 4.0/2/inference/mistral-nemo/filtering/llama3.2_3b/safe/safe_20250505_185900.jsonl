@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involve PowerShell.exe loading native images and creating\/deleting files in temporary directories, which could indicate suspicious activity like script execution or file manipulation.\",\n  \"CONFIDENCE\": 0.85\n}"}

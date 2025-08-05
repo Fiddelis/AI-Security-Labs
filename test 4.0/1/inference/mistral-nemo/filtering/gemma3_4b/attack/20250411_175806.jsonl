@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Frequent usage of PowerShell and registry modifications, along with file creation events potentially related to persistence mechanisms.\",\n  \"CONFIDENCE\": 0.85\n}"}

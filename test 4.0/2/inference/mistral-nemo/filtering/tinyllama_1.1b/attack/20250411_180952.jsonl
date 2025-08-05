@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Detection of network connections from Chrome and Windows defender service along with creation of a new user account via command line, indicating possible lateral movement or privilege escalation attempts.\",\n  \"CONFIDENCE\": 0.85\n}"}

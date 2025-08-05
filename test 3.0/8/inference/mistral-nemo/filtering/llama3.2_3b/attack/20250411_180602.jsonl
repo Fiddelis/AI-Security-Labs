@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual events occurred consecutively involving suspicious processes like powershell.exe and cmd.exe, including frequent registry modifications and a file creation event by powershell.exe.\",\n  \"CONFIDENCE\": 0.95\n}"}

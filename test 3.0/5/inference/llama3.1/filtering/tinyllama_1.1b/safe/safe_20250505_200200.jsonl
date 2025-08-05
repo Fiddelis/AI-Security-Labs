@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains repeated and suspicious activity involving powershell.exe, including file deletes and image loads from various DLLs.\",\n  \"CONFIDENCE\": 0.95\n}"}

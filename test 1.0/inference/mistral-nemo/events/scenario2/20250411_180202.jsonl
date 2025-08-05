@@ -1,1 +1,0 @@
-{"file":"data\/events\/scenario2\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes running PowerShell and WMIC within a short timeframe, attempting to load DLL files which is uncommon behavior suggesting potential command execution.\"\n}"}

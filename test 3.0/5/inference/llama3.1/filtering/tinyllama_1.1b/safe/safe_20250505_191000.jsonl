@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE loading images from Windows System32 directory, which may indicate a potential malware activity.\",\n  \"CONFIDENCE\": 0.95\n}"}
