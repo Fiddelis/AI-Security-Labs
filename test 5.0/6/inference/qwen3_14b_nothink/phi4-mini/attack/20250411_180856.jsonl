@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities detected, including command execution via WMIC, registry modifications, and file creation by winlogbeat, which may indicate potential malicious behavior or system compromise.\",\n  \"CONFIDENCE\": 0.75\n}"}

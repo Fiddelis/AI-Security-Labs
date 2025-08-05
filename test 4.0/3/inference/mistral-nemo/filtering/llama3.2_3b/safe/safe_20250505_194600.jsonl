@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple files created in user directory and accessed by notepad.exe within a short span, followed by loading of urlmon.dll which is known for its association with malicious activities.\",\n  \"CONFIDENCE\": 0.75\n}"}

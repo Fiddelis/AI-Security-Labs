@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/llama3.2_3b\/scenario3\/20250411_180602.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The events show common system activity like processes accessing files and registry settings. There are no unusual patterns or suspicious commands.\"\n}\n```"}

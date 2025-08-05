@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180202.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe with suspicious activities, such as process creation and registry modifications. Also, the use of WMIC.exe which can be indicative of malicious behavior.\",\n  \"CONFIDENCE\": 0.9\n}\n```"}

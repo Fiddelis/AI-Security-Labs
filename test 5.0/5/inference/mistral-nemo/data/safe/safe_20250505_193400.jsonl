@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Frequent 'None' tasks combined with 'Summary2' tasks and a single 'DirtyTransition' task could indicate an attempt to hide malicious activity through obfuscation.\",\n  \"CONFIDENCE\": 0.7\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of notepad.exe and winlogbeat.exe creating files in the Downloads folder, as well as suspicious registry and process events.\",\n  \"CONFIDENCE\": 0.8\n}"}

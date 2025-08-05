@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Unusual sequence of process creations and image loads involving WMIC.exe, suggesting potential command and control activity. Also, unusual file creation by winlogbeat.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

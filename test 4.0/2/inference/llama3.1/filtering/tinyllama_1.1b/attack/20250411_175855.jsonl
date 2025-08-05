@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious registry value sets and process accesses from different processes, including 'chrome.exe' accessing AMSI and Windows Defender DLLs.\",\n  \"CONFIDENCE\": 0.8\n}"}

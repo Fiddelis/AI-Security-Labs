@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of events related to 'Process Creation' and multiple consecutive 'None' tasks, as well as other system start-up activities, could indicate suspicious behavior.\",\n  \"CONFIDENCE\": 0.8\n}"}

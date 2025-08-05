@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple FileCreate events on user's Downloads directory within a short timeframe involving notepad.exe and unusual command line for rundll32.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}

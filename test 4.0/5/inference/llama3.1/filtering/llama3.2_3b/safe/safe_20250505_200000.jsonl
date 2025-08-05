@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of services.exe and svchost.exe are creating files in system directories, which could be indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

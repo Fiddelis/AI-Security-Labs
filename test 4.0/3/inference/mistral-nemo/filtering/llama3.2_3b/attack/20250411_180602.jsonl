@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Batch contains multiple powershell.exe process creations and accesses followed by file creation activities, suggesting possible script execution or payload deployment.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious user account management and registry modifications by net.exe and powershell.exe processes indicates potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

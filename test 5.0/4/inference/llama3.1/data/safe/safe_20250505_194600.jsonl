@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are accessing and creating files in the Downloads directory, including winlogbeat.exe and notepad.exe. Additionally, there are multiple instances of User Account Management events.\",\n  \"CONFIDENCE\": 0.8\n}"}

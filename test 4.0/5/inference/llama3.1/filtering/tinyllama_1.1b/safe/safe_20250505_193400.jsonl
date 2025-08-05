@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Presence of suspicious system start and boot-related events, combined with multiple instances of 'None' task, indicates possible tampering or malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

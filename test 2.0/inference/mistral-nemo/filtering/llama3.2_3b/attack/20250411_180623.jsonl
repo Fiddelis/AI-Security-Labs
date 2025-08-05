@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell.exe, with one event showing file creation in a temp directory, suggesting possible malicious script execution.\"\n}"}

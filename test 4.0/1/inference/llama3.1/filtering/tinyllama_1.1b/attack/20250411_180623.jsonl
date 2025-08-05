@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activity types, including process access and file modifications involving 'powershell.exe', 'conhost.exe', and 'winlogbeat.exe' processes.\",\n  \"CONFIDENCE\": 0.8\n}"}

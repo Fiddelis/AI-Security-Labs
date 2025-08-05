@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving EXCEL.EXE loading suspicious DLLs (combase.dll, urlmon.dll, amsi.dll), creating files in user directories, and performing DNS queries indicate potential malicious behavior.\"\n}"}

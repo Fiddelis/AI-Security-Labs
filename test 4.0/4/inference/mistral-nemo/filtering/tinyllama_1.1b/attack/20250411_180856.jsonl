@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Frequent PowerShell activity combined with network connections from Chrome suggests potential data exfiltration. The presence of 'cmd.exe' executing unknown commands also raises suspicion.\",\n  \"CONFIDENCE\": 0.85\n}"}

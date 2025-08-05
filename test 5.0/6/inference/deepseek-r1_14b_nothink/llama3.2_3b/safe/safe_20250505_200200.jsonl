@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200200.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple file creation and deletion events by powershell.exe and winlogbeat.exe, which may indicate potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}\n```"}

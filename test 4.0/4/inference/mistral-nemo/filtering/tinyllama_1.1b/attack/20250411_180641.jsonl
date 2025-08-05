@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180641.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual activities within a short period of time including frequent access to powershell.exe, creation of executable files, and loading of suspicious DLLs.\",\n  \"CONFIDENCE\": 0.85\n}"}

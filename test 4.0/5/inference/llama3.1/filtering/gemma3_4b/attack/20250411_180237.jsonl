@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple instances of suspicious processes (powershell.exe, cmd.exe, tasklist.exe) and registry value set events, indicating potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

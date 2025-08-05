@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes accessing registry and file system, potentially indicating malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"data\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual process creations, registry value sets, and network connections detected in a short time frame, indicating possible malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

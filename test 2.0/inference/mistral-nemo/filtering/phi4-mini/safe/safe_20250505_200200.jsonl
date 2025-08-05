@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell.exe loading various DLLs, creating and deleting files in temp directories, along with file creation by svchost.exe in systemprofile directory.\"\n}"}

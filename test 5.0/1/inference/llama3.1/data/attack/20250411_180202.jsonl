@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity detected, including repeated access to PowerShell and Registry value set events.\",\n  \"CONFIDENCE\": 0.9\n}"}

@@ -1,2 +1,0 @@
-{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of SDXHelper.exe and EXCEL.EXE, potential malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}
-{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains a series of identical events followed by a set of suspicious activities from an Excel process, including DNS queries and file creations.\",\n  \"CONFIDENCE\": 0.85\n}"}

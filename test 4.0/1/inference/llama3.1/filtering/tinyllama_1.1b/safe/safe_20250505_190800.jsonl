@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple powershell.exe processes loading and accessing various system files, including some related to Windows Defender. Also, a suspicious process with no name but executing a remote command.\",\n  \"CONFIDENCE\": 0.85\n}"}

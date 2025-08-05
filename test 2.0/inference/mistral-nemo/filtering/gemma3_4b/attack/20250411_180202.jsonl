@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell executing and accessing files, along with WMIC.exe loading suspicious DLLs, warrant further investigation.\"\n}"}

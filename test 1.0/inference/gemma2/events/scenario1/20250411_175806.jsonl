@@ -1,1 +1,0 @@
-{"file":"data\/events\/scenario1\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and reg.exe used to modify registry entries, combined with file creation events, suggest potential malicious activity.\"\n}"}

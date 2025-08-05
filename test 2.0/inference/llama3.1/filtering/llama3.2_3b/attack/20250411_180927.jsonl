@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events, including creation of new users and local groups, access to registry values, and loading of DLLs. The presence of 'net1.exe' attempting to create users and add groups is particularly noteworthy.\"\n}"}

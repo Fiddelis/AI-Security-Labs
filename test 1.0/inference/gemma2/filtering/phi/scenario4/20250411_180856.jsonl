@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario4\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes launching with unusual commands (e.g., wmic process call create notepad.exe) and registry modifications raise suspicion.\" \n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains two process creation events with inconsistent 'process' data, which may indicate malicious or suspicious activity.\"\n}"}

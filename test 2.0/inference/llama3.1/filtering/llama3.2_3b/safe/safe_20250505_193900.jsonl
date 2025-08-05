@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious process creation and registry value set events, potentially indicative of malicious activity. Additionally, the creation of a new .winlogbeat.yml file is unusual and warrants further investigation.\"\n}"}

@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events, including lateral movement attempts and possible malware installation.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity detected, including potential privilege escalation and unauthorized access to sensitive files.\",\n  \"CONFIDENCE\": 0.8\n}"}

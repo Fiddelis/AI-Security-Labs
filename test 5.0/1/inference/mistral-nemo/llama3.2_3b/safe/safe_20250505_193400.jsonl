@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains a mix of routine system logon tasks and summaries, with no indications of anomalous behavior or suspicious processes.\",\n  \"CONFIDENCE\": 0.95\n}"}

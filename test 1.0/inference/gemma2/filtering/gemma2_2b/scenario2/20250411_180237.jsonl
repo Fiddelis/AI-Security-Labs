@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/gemma2_2b\/scenario2\/20250411_180237.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The events show typical system activity, including process creation, file access, and registry modifications. No unusual patterns or indicators of malicious behavior are observed.\"\n}\n```"}

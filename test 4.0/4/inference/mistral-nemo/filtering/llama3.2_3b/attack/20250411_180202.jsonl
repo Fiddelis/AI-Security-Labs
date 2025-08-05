@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious sequence of events involving WMIC.exe and other processes making system changes, followed by a file creation that could indicate an attempt to evade security measures.\",\n  \"CONFIDENCE\": 0.85\n}"}

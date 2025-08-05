@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario3\/20250411_180502.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual behaviors detected including suspicious PowerShell activities, consecutive registry modifications by Chrome, and unknown DLLs loaded.\"\n}"}

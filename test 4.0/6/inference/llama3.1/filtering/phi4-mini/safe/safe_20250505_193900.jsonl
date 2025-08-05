@@ -1,2 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes loading AMSI.dll and WMIUTILS.DLL, which are indicative of potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"A registry value was set by a legitimate process (chrome.exe), which is a common and expected event.\",\n  \"CONFIDENCE\": 0.1\n}"}

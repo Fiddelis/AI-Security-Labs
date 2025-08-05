@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple simultaneous registry value sets by chrome.exe and svchost.exe, followed by a series of file creations by powershell.exe and winlogbeat.exe. Also, unexpected execution of whoami.exe.\",\n  \"CONFIDENCE\": 0.85\n}"}
