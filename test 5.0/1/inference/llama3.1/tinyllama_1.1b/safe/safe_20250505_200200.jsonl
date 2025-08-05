@@ -1,2 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Creation of suspicious PowerShell script in temporary directory.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell executing with suspicious command lines and access to system files, including deletion of a temporary script.\",\n  \"CONFIDENCE\": 0.8\n}"}

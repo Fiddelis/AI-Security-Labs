@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi4-mini\/scenario2\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity detected, including attempts to create and run malicious scripts, set registry values, and access processes. These activities are indicative of potential malware or lateral movement.\"\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual activities involving Powershell, cmd.exe, and unusual command lines. Whoami.exe was executed twice with no other related events, suggesting it might be used to escalate privileges.\",\n  \"CONFIDENCE\": 0.95\n}"}

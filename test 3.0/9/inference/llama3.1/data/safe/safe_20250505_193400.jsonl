@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of 'Process Creation' and other system events are followed by repetitive 'None' events. This pattern could indicate a malicious actor attempting to blend in with normal system activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

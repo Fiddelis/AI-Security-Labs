@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious processes such as powershell.exe, cmd.exe and tasklist.exe accessing registry values and files. This behavior suggests a possible malware activity or lateral movement.\",\n  \"CONFIDENCE\": 0.85\n}"}

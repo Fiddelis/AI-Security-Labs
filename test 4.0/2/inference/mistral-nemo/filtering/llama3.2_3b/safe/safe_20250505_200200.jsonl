@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious activities involving PowerShell and SSH within a short timeframe, including file creations in temporary folders and network connections.\",\n  \"CONFIDENCE\": 0.95\n}"}

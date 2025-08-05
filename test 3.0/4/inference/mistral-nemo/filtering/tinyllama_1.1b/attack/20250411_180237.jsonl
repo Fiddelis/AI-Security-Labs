@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell instances were created and accessed within a short time frame, suggesting suspicious script execution. Additionally, cmd.exe was used to run tasklist and whoami.exe was executed.\",\n  \"CONFIDENCE\": 0.85\n}"}

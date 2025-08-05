@@ -1,2 +1,0 @@
-{"file":"data\/filtering\/gemma2_2b\/scenario4\/20250411_180856.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes accessing registry and loading suspicious DLLs, combined with PowerShell activity and command execution suggests potential malicious behavior.\"\n}\n```"}
-{"file":"data\/filtering\/gemma2_2b\/scenario4\/20250411_180856.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"A mix of common system processes and events, nothing out of the ordinary.\" \n}\n```"}

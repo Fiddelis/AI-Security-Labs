@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive PowerShell events with varying tasks, including script execution and image loading. This could indicate suspicious behavior such as lateral movement or persistence mechanisms.\",\n  \"CONFIDENCE\": 0.85\n}"}

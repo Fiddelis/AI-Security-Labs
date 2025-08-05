@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Two instances of SDXHelper.exe are loading images (combase.dll and urlmon.dll), which may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

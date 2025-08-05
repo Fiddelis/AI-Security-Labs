@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple events related to file creation and image loading by notepad.exe, which could indicate potential malicious activity or unauthorized access.\",\n  \"CONFIDENCE\": 0.75\n}\n```"}

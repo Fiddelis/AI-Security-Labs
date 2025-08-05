@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe being executed in quick succession, one of which created a new file entrada_logico.txt in the user directory, suggesting potential command and control activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

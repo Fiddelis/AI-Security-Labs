@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_200000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple events involving 'SDXHelper.exe' loading system libraries like 'urlmon.dll' and 'combase.dll', which could indicate potential suspicious activity.\"\n}"}

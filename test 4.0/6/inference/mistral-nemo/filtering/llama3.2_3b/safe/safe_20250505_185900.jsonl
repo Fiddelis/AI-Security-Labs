@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (including powershell.exe) are interacting with files in a manner that may suggest suspicious activity, such as creating temporary scripts and deleting them shortly after.\",\n  \"CONFIDENCE\": 0.85\n}"}

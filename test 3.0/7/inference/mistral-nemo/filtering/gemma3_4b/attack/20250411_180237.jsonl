@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell processes were spawned back-to-back, including one that created a file named 'entrada_logico.txt'. This could indicate an attempt at command and control or data exfiltration.\",\n  \"CONFIDENCE\": 0.75\n}"}

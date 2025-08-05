@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are interacting with system files, specifically urlmon.dll and registry values.\",\n  \"CONFIDENCE\": 0.8\n}"}

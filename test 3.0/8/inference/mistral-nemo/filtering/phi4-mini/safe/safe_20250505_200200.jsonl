@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events involving PowerShell.exe, including file creation\/deletion and image loading in a short span of time. Additionally, SSH connection detected which could indicate remote access.\",\n  \"CONFIDENCE\": 0.85\n}"}

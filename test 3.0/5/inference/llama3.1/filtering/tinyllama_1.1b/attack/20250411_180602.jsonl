@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious process creation and access patterns, including multiple instances of powershell.exe and attrib.exe, as well as frequent registry value sets by chrome.exe. A new file was also created.\",\n  \"CONFIDENCE\": 0.85\n}"}

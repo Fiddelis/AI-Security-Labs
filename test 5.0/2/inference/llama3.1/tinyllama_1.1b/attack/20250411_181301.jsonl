@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes and files are being monitored or accessed by suspicious programs such as Chrome and PowerShell, which is a common tactic used by attackers to evade detection.\",\n  \"CONFIDENCE\": 0.9\n}"}

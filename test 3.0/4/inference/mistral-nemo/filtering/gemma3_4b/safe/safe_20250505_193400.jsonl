@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains mostly system startup and shutdown events, with no suspicious process creations or policy changes. The presence of 'smss.exe' is expected during boot processes.\",\n  \"CONFIDENCE\": 0.95\n}"}

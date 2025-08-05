@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_193400.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The events are related to system startup and configuration changes, which are normal activities and do not indicate malicious behavior.\",\n  \"CONFIDENCE\": 0.8\n}\n```"}

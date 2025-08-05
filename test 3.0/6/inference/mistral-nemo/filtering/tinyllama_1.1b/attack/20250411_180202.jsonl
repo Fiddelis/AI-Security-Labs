@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple powershell.exe processes accessed and created files, along with unusual command lines involving wmic and cmd, suggesting potential suspicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

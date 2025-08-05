@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (powershell.exe and winlogbeat.exe) are creating files in various locations, which may indicate suspicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

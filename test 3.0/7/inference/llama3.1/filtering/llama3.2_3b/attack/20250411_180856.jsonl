@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events are detected, including network connections from unexpected applications and access to system files. Additionally, there are multiple instances of suspicious process creations.\",\n  \"CONFIDENCE\": 0.8\n}"}

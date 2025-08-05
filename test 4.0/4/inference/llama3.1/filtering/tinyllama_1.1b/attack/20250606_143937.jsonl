@@ -1,2 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250606_143937.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated access to the registry by svchost.exe, and creation of processes with suspicious command lines.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250606_143937.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creations and accesses, including a PowerShell execution with a potential malicious command.\",\n  \"CONFIDENCE\": 0.85\n}"}

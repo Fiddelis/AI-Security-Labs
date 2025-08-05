@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (chrome.exe, svchost.exe, WmiPrvSE.exe, services.exe) loading suspicious libraries and connections to the network.\",\n  \"CONFIDENCE\": 0.95\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains a sequence of Windows system startup and shutdown events followed by several 'Process Creation' tasks. The creation of 'Registry' process among these could indicate suspicious activity.\",\n  \"CONFIDENCE\": 0.75\n}"}

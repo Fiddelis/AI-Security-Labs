@@ -1,2 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_181019.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and registry modifications detected, including potential privilege escalation attempts.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"filtering\/gemma3_4b\/attack\/20250411_181019.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of chrome.exe loading suspicious DLLs, indicating potential malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

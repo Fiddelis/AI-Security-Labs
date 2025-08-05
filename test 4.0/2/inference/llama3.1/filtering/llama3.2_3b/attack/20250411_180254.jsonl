@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes (powershell, cmd, svchost) accessing or creating registry values and files, while Chrome is accessing AMSI.dll.\",\n  \"CONFIDENCE\": 0.95\n}"}

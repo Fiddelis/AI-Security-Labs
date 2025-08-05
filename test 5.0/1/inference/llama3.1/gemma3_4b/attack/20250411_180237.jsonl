@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe accessing registry and files, suspicious command execution by cmd.exe and tasklist.exe loading AMSI.dll\",\n  \"CONFIDENCE\": 0.85\n}"}

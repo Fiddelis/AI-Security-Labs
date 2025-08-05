@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario2\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple occurrences of powershell.exe processes accessing other processes, along with a WMIC.exe process loading amsi.dll, which could indicate suspicious activity.\"\n}"}

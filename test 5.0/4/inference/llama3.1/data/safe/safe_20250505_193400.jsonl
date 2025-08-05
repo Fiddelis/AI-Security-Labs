@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple instances of process creation with a specific name ('Registry'), and repeated events of 'None' followed by an instance of 'DirtyTransition', which could be indicative of malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

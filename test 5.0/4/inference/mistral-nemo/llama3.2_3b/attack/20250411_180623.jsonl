@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180623.jsonl","analysis":"{\"CLASSIFICATION\": \"INTERESTING\", \"JUSTIFICATION\": \"Multiple PowerShell events with varying tasks and files involved, including file creations in temporary locations and suspicious DLL loadings.\", \"CONFIDENCE\": 0.9}"}

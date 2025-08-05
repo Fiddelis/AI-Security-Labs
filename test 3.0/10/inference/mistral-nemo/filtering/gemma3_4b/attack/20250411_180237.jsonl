@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and cmd.exe with registry accesses, file creations, and process creations. Also, suspicious command lines like 'cmd.exe \/c tasklist' and 'whoami.exe'.\",\n  \"CONFIDENCE\": 0.9\n}"}

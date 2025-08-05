@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of registry value sets and image loads, potentially indicating malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

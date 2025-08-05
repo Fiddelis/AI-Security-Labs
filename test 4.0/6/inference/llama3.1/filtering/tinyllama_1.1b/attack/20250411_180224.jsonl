@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180224.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple Registry value set events for svchost and chrome, as well as File created events for powershell and winlogbeat, indicating potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

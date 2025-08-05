@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious PowerShell processes and registry modifications, including DLL loading and image loaded events.\",\n  \"CONFIDENCE\": 0.95\n}"}
-{"file":"data\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe creating files in downloads and setting registry values, which could indicate potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

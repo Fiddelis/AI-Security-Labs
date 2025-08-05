@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario4\/20250411_180823.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple scheduled tasks (`schtasks.exe`) are created with commands running `calc.exe`. This, combined with the use of `cmd.exe` and `powershell.exe`, suggests potential malicious activity.\"\n}\n```"}

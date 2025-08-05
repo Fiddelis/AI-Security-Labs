@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe executing, along with unusual tasks like 'Registry value set' and 'File created'. Also, the presence of whoami.exe suggests potential privilege escalation attempt.\",\n  \"CONFIDENCE\": 0.9\n}"}

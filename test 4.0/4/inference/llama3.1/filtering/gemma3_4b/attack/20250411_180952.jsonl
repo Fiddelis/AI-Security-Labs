@@ -1,2 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and registry modifications have been detected, including attempts to create new users, groups, and files.\",\n  \"CONFIDENCE\": 0.9\n}"}
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious file creation and registry access by powershell.exe, which may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

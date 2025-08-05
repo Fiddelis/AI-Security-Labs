@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Frequent powershell.exe activity involving file creation, deletion, and image loading within a short span of time, potentially indicative of script execution or suspicious behavior.\",\n  \"CONFIDENCE\": 0.85\n}"}

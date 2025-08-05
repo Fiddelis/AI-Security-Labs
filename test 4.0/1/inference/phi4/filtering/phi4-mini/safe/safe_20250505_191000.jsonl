@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_191000.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains unusual behavior such as rundll32.exe embedding a DLL with an unknown CLSID and multiple suspicious DNS queries from EXCEL.EXE. These could indicate malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}\n```"}

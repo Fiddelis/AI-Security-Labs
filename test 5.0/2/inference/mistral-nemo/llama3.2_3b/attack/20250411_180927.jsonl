@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180927.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events of adding new users and adding them to administrators group followed by normal system activity like file creation, registry access. This pattern could indicate a privilege escalation attempt.\",\n  \"CONFIDENCE\": 0.85\n}"}

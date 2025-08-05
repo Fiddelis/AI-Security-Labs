@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180952.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell and cmd.exe processes accessing registry values, creating files, and performing network connections. This combination indicates potential malicious activity.\",\n  \"CONFIDENCE\": 0.92\n}"}

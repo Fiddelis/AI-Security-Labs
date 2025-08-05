@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes (powershell, whoami, cmd, WMIC) accessing registry or creating files, indicating potential malware activity.\",\n  \"CONFIDENCE\": 0.9\n}"}

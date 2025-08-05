@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious process creations and network connections, including a potential lateral movement attempt with the creation of multiple instances of WinLogBeat.\",\n  \"CONFIDENCE\": 0.9\n}"}

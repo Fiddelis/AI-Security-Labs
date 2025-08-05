@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive events involving PowerShell and unexpected file creations, including one in the user's AppData folder, suggests potential script execution or malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

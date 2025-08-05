@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (notepad.exe and winlogbeat.exe) are creating files in the downloads directory, which could be a sign of malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

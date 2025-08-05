@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_200200.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell.exe processes creating pipes, deleting files and loading images within a short timeframe, indicating potential suspicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
