@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (whoami.exe, cmd.exe, powershell.exe, reg.exe) accessing the registry and creating files (.winlogbeat.yml.new), indicating potential malware installation or lateral movement.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,1 +1,0 @@
-{"file":"data\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Frequent use of PowerShell.exe, cmd.exe and reg.exe along with registry modifications and file creations suggest possible script execution and persistence attempts.\",\n  \"CONFIDENCE\": 0.9\n}"}

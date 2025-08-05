@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of 'Process Creation' with an unexpected process name ('Registry') and a mix of benign and potentially malicious events.\",\n  \"CONFIDENCE\": 0.8\n}"}

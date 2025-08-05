@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/safe\/safe_20250505_190800.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated file creations and deletions, as well as suspicious registry and process activity, suggest possible malware or unauthorized code execution.\",\n  \"CONFIDENCE\": 0.85\n}"}

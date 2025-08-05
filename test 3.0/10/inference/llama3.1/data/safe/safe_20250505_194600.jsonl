@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are creating files in the user's downloads directory, which may indicate malware activity or unauthorized file creation.\",\n  \"CONFIDENCE\": 0.8\n}"}

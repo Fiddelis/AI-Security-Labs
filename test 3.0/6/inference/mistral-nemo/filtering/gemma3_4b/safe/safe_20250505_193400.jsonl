@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains only routine system and boot events with no suspicious process creation or other anomalous activities.\",\n  \"CONFIDENCE\": 1.0\n}"}

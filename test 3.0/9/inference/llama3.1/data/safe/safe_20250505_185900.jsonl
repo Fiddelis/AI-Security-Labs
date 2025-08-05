@@ -1,2 +1,0 @@
-{"file":"data\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated power shell execution and file creations with winlogbeat.exe suggest potential malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}
-{"file":"data\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Potential malicious activity detected: suspicious process creation and access, possibly related to PowerShell execution.\",\n  \"CONFIDENCE\": 0.8\n}"}

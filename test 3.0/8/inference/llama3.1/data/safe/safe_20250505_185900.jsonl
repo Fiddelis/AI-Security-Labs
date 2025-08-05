@@ -1,2 +1,0 @@
-{"file":"data\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe loading suspicious DLLs and files, potential execution of scripts and policy tests.\",\n  \"CONFIDENCE\": 0.9\n}"}
-{"file":"data\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes (powershell.exe and winlogbeat.exe) interact with system files, potentially indicating a malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

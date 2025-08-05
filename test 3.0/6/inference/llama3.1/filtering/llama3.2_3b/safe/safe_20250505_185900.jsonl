@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious file and process activities, including image loaded events for PowerShell and Winlogbeat executables, which could indicate a potential malware or attack.\",\n  \"CONFIDENCE\": 0.85\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_181050.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving certutil.exe performing file encoding and creation, along with powershell.exe and rundll32.exe activities, indicate potential malicious behavior.\",\n  \"CONFIDENCE\": 0.9\n}\n```"}

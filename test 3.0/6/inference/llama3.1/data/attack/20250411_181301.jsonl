@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of chrome.exe loading AMSI and MpOAV DLLs, which is suspicious behavior.\",\n  \"CONFIDENCE\": 0.95\n}"}
-{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Repeated registry modifications by the same process ('chrome.exe') could indicate malicious behavior.\",\n  \"CONFIDENCE\": 0.8\n}"}

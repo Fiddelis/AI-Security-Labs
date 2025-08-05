@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of suspicious commands in the batch, such as `wmic process call create notepad.exe` and attempts to load certain DLLs, indicates potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

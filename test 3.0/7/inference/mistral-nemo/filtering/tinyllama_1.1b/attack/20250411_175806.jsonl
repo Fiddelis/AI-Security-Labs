@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive PowerShell and cmd.exe events with registry modifications, along with a file creation event for a script (modulo_padrao.txt) suggest potential adversary activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

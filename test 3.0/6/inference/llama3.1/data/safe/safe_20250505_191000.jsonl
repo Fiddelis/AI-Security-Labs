@@ -1,2 +1,0 @@
-{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of EXCEL.EXE loading DLLs from Windows System32 directory, which could be indicative of a malicious process trying to load additional code.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"data\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"A process named EXCEL.EXE is creating files and making DNS queries, which may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

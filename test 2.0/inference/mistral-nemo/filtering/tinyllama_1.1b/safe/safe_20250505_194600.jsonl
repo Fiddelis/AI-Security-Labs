@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving 'notepad.exe' opening a file from Downloads folder, followed by registry value set and image loaded. This batch exhibits unusual behavior warranting further investigation.\"\n}"}

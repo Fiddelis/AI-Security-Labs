@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious file creation events for the same file path (.winlogbeat.yml.new) and multiple registry value set events within a short time frame, indicating potential malicious activity.\"\n}"}

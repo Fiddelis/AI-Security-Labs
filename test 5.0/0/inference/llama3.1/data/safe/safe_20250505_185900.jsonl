@@ -1,2 +1,0 @@
-{"file":"data\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious process creation and execution, including PowerShell and ipconfig.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"data\/safe\/safe_20250505_185900.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Suspicious activity detected, including multiple instances of powershell.exe loading sensitive files and registry changes.\",\n  \"CONFIDENCE\": 0.8\n}"}

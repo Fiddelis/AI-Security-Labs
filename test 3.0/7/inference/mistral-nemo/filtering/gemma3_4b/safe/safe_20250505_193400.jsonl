@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"All events are normal system startup, shutdown, and policy change events with no suspicious process creation or activity.\",\n  \"CONFIDENCE\": 1.0\n}"}

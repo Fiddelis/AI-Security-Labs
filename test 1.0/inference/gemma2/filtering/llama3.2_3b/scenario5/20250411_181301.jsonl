@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/llama3.2_3b\/scenario5\/20250411_181301.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"The logs show normal system activity, including common processes like chrome.exe and winlogbeat.exe, file creations, registry access, and process creation\/termination.\"\n}\n```"}

@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious processes and registry value changes indicate potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes are accessing and modifying system registries, which is a suspicious behavior. Additionally, files from unknown paths are being loaded by Chrome.exe.\",\n  \"CONFIDENCE\": 0.8\n}"}

@@ -1,1 +1,0 @@
-{"file":"data\/events\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"NOT INTERESTING\",\n  \"JUSTIFICATION\": \"While some events like registry changes and file creations are present, there's no clear pattern or sequence indicative of malicious activity. The log entries mostly reflect normal system operations and common utilities.\"\n}"}

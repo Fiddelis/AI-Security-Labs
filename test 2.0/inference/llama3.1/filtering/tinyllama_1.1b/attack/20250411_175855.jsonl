@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_175855.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains suspicious activity, including multiple instances of processes accessing registry values and creating files. The presence of powershell.exe and cmd.exe, often used for malicious activities, also raises concerns.\"\n}"}

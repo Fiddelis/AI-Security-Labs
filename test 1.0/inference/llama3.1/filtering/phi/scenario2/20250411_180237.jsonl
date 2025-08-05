@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple processes and files show suspicious behavior, including multiple Registry value set events, File created events for potentially malicious files, and a Process accessed event. This suggests potential malicious activity.\"\n}"}

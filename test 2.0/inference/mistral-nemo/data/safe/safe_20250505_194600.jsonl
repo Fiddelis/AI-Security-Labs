@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving notepad.exe creating and interacting with files, including the loading of suspicious DLLs, which could indicate malicious activity such as code injection.\"\n}"}

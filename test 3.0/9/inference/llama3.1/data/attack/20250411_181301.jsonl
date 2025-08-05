@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of chrome.exe and powershell.exe processes accessing sensitive registry values, along with some suspicious file creation activities.\",\n  \"CONFIDENCE\": 0.9\n}"}
-{"file":"data\/attack\/20250411_181301.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of setting a registry value, potentially indicating an attempt to exploit or install malware.\",\n  \"CONFIDENCE\": 0.9\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180202.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving PowerShell and WMIC, suggesting possible script-based attack. WMIC was used to load system DLLs which could indicate privilege escalation or lateral movement.\",\n  \"CONFIDENCE\": 0.85\n}"}

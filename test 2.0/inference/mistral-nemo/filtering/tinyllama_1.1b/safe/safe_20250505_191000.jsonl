@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/safe\/safe_20250505_191000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple consecutive Image Load events from EXCEL.EXE involving potentially malicious libraries like urlmon.dll, amsi.dll, and MpOAV.dll, followed by FileCreate events for a shortcut to real_values.csv, warrant investigation.\"\n}"}

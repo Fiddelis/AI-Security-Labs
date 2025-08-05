@@ -1,1 +1,0 @@
-{"file":"data\/events\/scenario2\/20250411_180237.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple suspicious events, including attempts to access and modify registry values, create files in unusual locations, and load system DLLs. These actions are indicative of potential malicious activity.\"\n}"}

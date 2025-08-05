@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of file creation and registry value set events from different processes, including notepad.exe, winlogbeat.exe, and Explorer.EXE. Also, some unusual process creations such as rundll32.exe.\",\n  \"CONFIDENCE\": 0.87\n}"}

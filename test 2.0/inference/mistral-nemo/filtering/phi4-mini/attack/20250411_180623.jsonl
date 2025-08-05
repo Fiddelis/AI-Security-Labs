@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_180623.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of PowerShell.exe spawning, executing various tasks such as registry value set, file delete logged, pipe created and file create which is unusual behavior indicating potential malicious activity.\"\n}"}

@@ -1,1 +1,0 @@
-{"file":"filtering\/llama3.2_3b\/attack\/20250411_180536.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains a suspicious sequence of events, including multiple registry modifications and creation of new processes, which may indicate potential malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}

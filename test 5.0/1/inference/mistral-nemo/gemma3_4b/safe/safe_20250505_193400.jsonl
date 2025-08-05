@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains multiple 'Process Creation' events, with one instance involving the Registry process. This could indicate potential malicious activity such as registry manipulation.\",\n  \"CONFIDENCE\": 0.85\n}"}

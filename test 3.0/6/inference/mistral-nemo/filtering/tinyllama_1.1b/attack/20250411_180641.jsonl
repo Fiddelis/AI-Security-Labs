@@ -1,1 +1,0 @@
-{"file":"filtering\/tinyllama_1.1b\/attack\/20250411_180641.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple unusual activities involving PowerShell, suspicious file creation in Temp directory, and frequent Registry value changes by Chrome.\",\n  \"CONFIDENCE\": 0.95\n}"}

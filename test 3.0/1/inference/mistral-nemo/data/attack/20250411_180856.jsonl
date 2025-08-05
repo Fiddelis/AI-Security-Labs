@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell and cmd.exe processes executing, WMIC.exe loading suspicious DLLs, possible privilege escalation with services.exe logon.\",\n  \"CONFIDENCE\": 0.85\n}"}
-{"file":"data\/attack\/20250411_180856.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple PowerShell processes accessed and created within a short timeframe, indicating potential suspicious activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

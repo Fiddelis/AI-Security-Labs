@@ -1,2 +1,0 @@
-{"file":"data\/safe\/safe_20250505_195000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events suggest a potential PowerShell script execution and file creation\/deletion, which may indicate malicious activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"data\/safe\/safe_20250505_195000.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of suspicious PowerShell and Python execution, potential malware activity.\",\n  \"CONFIDENCE\": 0.85\n}"}

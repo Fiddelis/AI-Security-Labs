@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple events involving notepad.exe creating files in the Downloads folder, and rundll32.exe executing with a long command line argument, suggesting potential malicious activity.\"\n}"}

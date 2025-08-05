@@ -1,1 +1,0 @@
-{"file":"data\/filtering\/phi\/scenario3\/20250411_180602.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of 'powershell.exe' and repeated Registry value set events for other processes, including multiple occurrences of 'chrome.exe', indicate potential malicious activity.\"\n}"}

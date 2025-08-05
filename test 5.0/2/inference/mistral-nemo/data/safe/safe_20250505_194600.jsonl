@@ -1,1 +1,0 @@
-{"file":"data\/safe\/safe_20250505_194600.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of notepad.exe creating files and registry events, unusual activity involving rundll32.exe, and repeated file creation by winlogbeat.exe. This batch warrants further investigation.\",\n  \"CONFIDENCE\": 0.95\n}"}

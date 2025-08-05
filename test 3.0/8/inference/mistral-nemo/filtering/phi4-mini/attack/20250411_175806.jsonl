@@ -1,1 +1,0 @@
-{"file":"filtering\/phi4-mini\/attack\/20250411_175806.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of powershell.exe and cmd.exe being used to modify registry values and create files, suggesting possible command-and-control activity or privilege escalation.\",\n  \"CONFIDENCE\": 0.95\n}"}

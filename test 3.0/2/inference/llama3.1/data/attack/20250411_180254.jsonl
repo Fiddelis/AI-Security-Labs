@@ -1,2 +1,0 @@
-{"file":"data\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple suspicious events detected, including potential privilege escalation and malware activity.\",\n  \"CONFIDENCE\": 0.8\n}"}
-{"file":"data\/attack\/20250411_180254.jsonl","analysis":"{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The presence of repeated registry values being set and files being created, particularly by processes like powershell.exe and chrome.exe, suggests malicious activity.\",\n  \"CONFIDENCE\": 0.9\n}"}
