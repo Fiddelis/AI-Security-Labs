@@ -1,32 +1,3 @@
-{"process":{"name":"Registry"},"winlog":{"task":"Process Creation"}}
-{"process":null,"winlog":{"task":"SystemStart"}}
-{"process":null,"winlog":{"task":"VsmPolicyEnablement"}}
-{"process":null,"winlog":{"task":"DirtyBootShutdown"}}
-{"process":null,"winlog":{"task":"BootMenuPolicy"}}
-{"process":null,"winlog":{"task":"BootType"}}
-{"process":null,"winlog":{"task":"BootmgrEntryCount"}}
-{"process":null,"winlog":{"task":"UserInputTime"}}
-{"process":null,"winlog":{"task":"LeapSecondDataUpdate"}}
-{"process":null,"winlog":{"task":"None"}}
-{"process":null,"winlog":{"task":"None"}}
-{"process":null,"winlog":{"task":"None"}}
-{"process":null,"winlog":{"task":"None"}}
-{"process":null,"winlog":{"task":"Process Creation"}}
-{"process":null,"winlog":{"task":"Other Policy Change Events"}}
-{"process":{"name":"smss.exe"},"winlog":{"task":"Process Creation"}}
-{"process":null,"winlog":{"task":"None"}}
-{"process":null,"winlog":{"task":"None"}}
-{"process":null,"winlog":{"task":"None"}}
-{"process":null,"winlog":{"task":"None"}}
-{"process":null,"winlog":{"task":"None"}}
-{"process":null,"winlog":{"task":"None"}}
-{"process":null,"winlog":{"task":"DirtyTransition"}}
-{"process":null,"winlog":{"task":"StandbyConnectivityUpdate"}}
-{"process":null,"winlog":{"task":"Summary2"}}
-{"process":null,"winlog":{"task":"Summary2"}}
-{"process":null,"winlog":{"task":"Summary2"}}
-{"process":null,"winlog":{"task":"Summary2"}}
-{"process":null,"winlog":{"task":"Summary2"}}
-{"process":null,"winlog":{"task":"Summary2"}}
-{"process":null,"winlog":{"task":"BatteryCountChange"}}
-{"process":null,"winlog":{"task":"BatteryCountChange"}}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8788a32b66646a39fb16b4e3957dd347317b63b96541ebc0de13d5dc5a3c193a
+size 1603

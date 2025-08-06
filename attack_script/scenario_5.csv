@@ -1,6 +1,3 @@
-"Order","Technique","TestName","auto_generated_guid","supported_platforms","TimeoutSeconds","InputArgs","AtomicsFolder","enabled","notes"
-,"T1053.005","Powershell Cmdlet Scheduled Task","af9fd58f-c4ac-4bf2-a9ba-224b71ff25fd","windows","120","","Public","True",""
-,"T1087.001","Enumerate all accounts via PowerShell (Local)","ae4b6361-b5f8-46cb-a3f9-9cf108ccfe7b","windows","120","","Public","True",""
-,"T1057","Process Discovery - tasklist","c5806a4f-62b8-4900-980b-c7ec004e9908","windows","120","","Public","True",""
-,"T1083","File and Directory Discovery (PowerShell)","2158908e-b7ef-4c21-8a83-3ce4dd05a924","windows","120","","Public","True",""
-,"T1113","Windows Screen Capture (CopyFromScreen)","e9313014-985a-48ef-80d9-cde604ffc187","windows","120","","Public","True",""
+version https://git-lfs.github.com/spec/v1
+oid sha256:c579dfb0355e0798b7cbdcaa57c87b908a1b6cb33c64e36a37703aa45f02240b
+size 780
