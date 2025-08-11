@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_200000.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"Multiple instances of 'DrvInst.exe' setting registry values and an unusual number of file creations by 'svchost.exe', combined with special logon events, suggest potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}\n```"}

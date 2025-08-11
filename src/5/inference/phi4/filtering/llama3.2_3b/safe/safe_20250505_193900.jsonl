@@ -1,0 +1,1 @@
+{"file":"filtering\/llama3.2_3b\/safe\/safe_20250505_193900.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch contains repeated Registry value set events by chrome.exe and unusual activities such as a Pipe Created event from an unknown 'updater.exe', suggesting potential malicious behavior.\",\n  \"CONFIDENCE\": 0.8\n}\n```"}
