@@ -1,1 +1,0 @@
-{"file":"filtering\/gemma3_4b\/safe\/safe_20250505_193400.jsonl","analysis":"```json\n{\n  \"CLASSIFICATION\": \"INTERESTING\",\n  \"JUSTIFICATION\": \"The batch includes multiple 'Process Creation' tasks, one of which involves 'Registry', a critical system process. Such events can indicate unauthorized changes or potential malicious activity.\",\n  \"CONFIDENCE\": 0.85\n}\n```"}

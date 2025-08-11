@@ -1,2 +1,4 @@
 0-5  = 1 thread
 6-11 = 4 threads
+
+except: Gemma3_12b -> Error when using with more than one thread
