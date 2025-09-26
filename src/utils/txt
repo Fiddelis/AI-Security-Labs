@@ -1,4 +1,0 @@
-powershell -ExecutionPolicy Bypass -File .\BenignLogSim.ps1 -Iterations 120 -MinSleepSec 3 -MaxSleepSec 10 -Verbose
-
-08/09/2025 - 14:45:00
-08/09/2025 - 16:45:00
