@@ -7,17 +7,26 @@ es = Elasticsearch(
     http_auth=("elastic", "123456")
 )
 
-data = pd.read_csv('tests.csv')
+data = pd.read_csv('benign_total.csv')
 
 # Conversão de Series para timestamp e adição do tempo final
-data['Execution Time (UTC)'] = pd.to_datetime(data['Execution Time (UTC)'], format="%Y-%m-%dT%H:%M:%SZ")
-data['Execution Time End (UTC)'] = data['Execution Time (UTC)'] + pd.Timedelta(seconds=40)
+data['Execution Time (UTC)'] = pd.to_datetime(
+    data['Execution Time (UTC)'], format="%Y-%m-%dT%H:%M:%SZ"
+)
+
+# Pega o próximo início como fim
+data['Execution Time End (UTC)'] = data['Execution Time (UTC)'].shift(-1)
+
+# Último recebe +20 segundos
+data.loc[data.index[-1], 'Execution Time End (UTC)'] = (
+    data.loc[data.index[-1], 'Execution Time (UTC)'] + pd.Timedelta(seconds=20)
+)
 
 print(data)
 
 for index, row in data.iterrows():
     query = {
-        "size": 500,
+        "size": 10000,
         "_source": [
             "process.name",
             "process.command_line",
@@ -40,9 +49,9 @@ for index, row in data.iterrows():
         }
     }
 
-    response = es.search(index="winlogbeat-8.15.1", body=query)
+    response = es.search(index="winlog*", body=query)
     events = [hit["_source"] for hit in response["hits"]["hits"]]
     
     # Salvando dados de eventos em data/events/{timestamp}.csv
     pd_events = pd.DataFrame(events)
-    pd_events.to_json(f'attacks/{row['Execution Time (UTC)'].strftime("%Y%m%d_%H%M%S")}.jsonl', orient="records", lines=True, force_ascii=False)
+    pd_events.to_json(f'benign/{row['Execution Time (UTC)'].strftime("%Y%m%d_%H%M%S")}.jsonl', orient="records", lines=True, force_ascii=False)
