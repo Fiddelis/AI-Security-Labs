@@ -1,0 +1,4 @@
+autogluon.tabular[catboost,lightgbm,xgboost]==1.4.0
+pycaret==3.3.2
+scikit-learn==1.4.2
+imbalanced-learn==0.12.3

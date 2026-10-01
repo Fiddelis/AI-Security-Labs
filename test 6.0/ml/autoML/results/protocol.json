@@ -1,0 +1,46 @@
+{
+  "reviewer_id": "C31",
+  "source_artifacts_unchanged": 1492,
+  "train_documents": 1331,
+  "test_documents": 333,
+  "stratified_seed": 42,
+  "external_attack_alerts": 41,
+  "external_benign_alerts": 19,
+  "conditions": [
+    "bruto",
+    "gemma3_4b",
+    "llama3.2_3b",
+    "phi4-mini",
+    "tinyllama_1.1b"
+  ],
+  "old_models_retrained": false,
+  "old_results_modified": false,
+  "autogluon_effective_ngram_vocabulary": 767,
+  "autogluon_original_ngram_vocabulary": 1110,
+  "autogluon_preprocessing_memory_note": "Native adaptive vocabulary reduction during preprocessing; before PyCaret started",
+  "latency_scope": "Prepared text prediction only; different hardware from historical LLM runs; no latency comparison in manuscript",
+  "openmp": {
+    "formula": "https://formulae.brew.sh/api/formula/libomp.json",
+    "version": "23.1.2",
+    "tag": "arm64_sequoia",
+    "bottle_url": "https://ghcr.io/v2/homebrew/core/libomp/blobs/sha256:a90f9ec48553a39f420c26600239df24b4c1cd30202d93a53128854afb6ff9fb",
+    "bottle_sha256": "a90f9ec48553a39f420c26600239df24b4c1cd30202d93a53128854afb6ff9fb",
+    "library_sha256": "07e30ac939caec07bd6e13bbc901a873dddd2207a92321759605f94ff71fa4a9"
+  },
+  "training_logs": {
+    "autogluon-600": "runs/autogluon-600/console.log",
+    "pycaret-600-v2": "runs/pycaret-600-v2/console.log"
+  },
+  "test_results": "Six protocol tests passed",
+  "script_hash_scope": "Final reproducible runner; logging isolation updated after these runs, training logic unchanged",
+  "shared_runtime_artifacts": "runs/shared-runtime-artifacts",
+  "test_output": "results/relocation-tests.txt",
+  "final_source_verification": "1492 unchanged source hashes",
+  "reproducible_runner_sha256": "bbb234d23d34264742489a7d368230199d596c066e5cfba9bf5e4715879ffd4b",
+  "prior_reproducible_runner_sha256": "a4522eacd1d76b0370a637edc5064dfa524e8e7fd13d4aa0d1597a9d078c3fe8",
+  "relocated_from": "/Users/fiddelis/Projects/TCC/experiments/c31",
+  "relocated_to": "/Users/fiddelis/Projects/AI-Security-Labs/test 6.0/ml/c31",
+  "relocation_scope": "Directory move, source-root default, documentation and local venv entry-point paths; training data and numerical results unchanged",
+  "original_test_output": "/Users/fiddelis/Projects/TCC/.audit/c31-tests.txt",
+  "relocation_verification": "Six protocol tests passed; original 1492 source hashes unchanged"
+}

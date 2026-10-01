@@ -1,0 +1,15 @@
+{
+  "historical_report": "/Users/fiddelis/Projects/AI-Security-Labs/test 6.0/ml/models/eval_reports/all_models_metrics_by_filter.csv",
+  "historical_sha256": "7c4891d286ea5665ee80e9122baf683fd3c12d6e89e8e4fb1a0e36ff2eab8ce8",
+  "data_manifest_sha256": "9bfdca0a38775a86db790b42f64c6993b0b6e64c0196de79a2cfb56073a243a6",
+  "runs": [
+    "/Users/fiddelis/Projects/AI-Security-Labs/test 6.0/ml/c31/runs/autogluon-600",
+    "/Users/fiddelis/Projects/AI-Security-Labs/test 6.0/ml/c31/runs/pycaret-600-v2"
+  ],
+  "aggregation": "unweighted mean across raw and four filters",
+  "historical_precision": "source values rounded to 3 decimals",
+  "execution_run_paths": [
+    "/Users/fiddelis/Projects/TCC/experiments/c31/runs/autogluon-600",
+    "/Users/fiddelis/Projects/TCC/experiments/c31/runs/pycaret-600-v2"
+  ]
+}

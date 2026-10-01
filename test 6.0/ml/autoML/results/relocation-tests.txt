@@ -1,0 +1,12 @@
+test_errors_are_counted_without_becoming_benign_predictions (test_protocol.ProtocolTests.test_errors_are_counted_without_becoming_benign_predictions) ... ok
+test_existing_output_is_not_overwritten (test_protocol.ProtocolTests.test_existing_output_is_not_overwritten) ... ok
+test_failed_only_condition_stays_unavailable (test_protocol.ProtocolTests.test_failed_only_condition_stays_unavailable) ... ok
+test_library_artifacts_stay_in_run_and_cwd_is_restored_on_failure (test_protocol.ProtocolTests.test_library_artifacts_stay_in_run_and_cwd_is_restored_on_failure) ... ok
+test_prepared_partitions_match_original_notebook (test_protocol.ProtocolTests.test_prepared_partitions_match_original_notebook) ... ok
+test_report_rejects_incomplete_external_evaluation (test_protocol.ProtocolTests.test_report_rejects_incomplete_external_evaluation) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 1.028s
+
+OK
+Total documentos: 1664 | Maliciosos: 1164 | Benignos: 500
