@@ -1,0 +1,392 @@
+{
+  "scope": "Training copies only under test 6.0/ml/obfuscation_balanced/{attacks,benign}. Evaluation (= LLM) src/data and filtering/ unchanged.",
+  "seed": 42,
+  "before": {
+    "eval_attack_reference": {
+      "n_files": 41,
+      "files_with_token": 36,
+      "file_coverage": 0.878,
+      "total_lines": 3860,
+      "lines_with_token": 359,
+      "line_rate": 0.093,
+      "token_occurrences": 945,
+      "unique_token_types": 98,
+      "top_tokens": [
+        [
+          "unidade_logico",
+          106
+        ],
+        [
+          "registro_secundario",
+          85
+        ],
+        [
+          "componente_auxiliar",
+          68
+        ],
+        [
+          "registro_comum",
+          46
+        ],
+        [
+          "objeto_ativo",
+          43
+        ],
+        [
+          "tarefa_logico",
+          36
+        ],
+        [
+          "entrada_base",
+          25
+        ],
+        [
+          "entrada_principal",
+          23
+        ],
+        [
+          "unidade_auxiliar",
+          23
+        ],
+        [
+          "tarefa_base",
+          11
+        ],
+        [
+          "tarefa_geral",
+          11
+        ],
+        [
+          "pacote_temporario",
+          10
+        ],
+        [
+          "modulo_temporario",
+          9
+        ],
+        [
+          "objeto_padrao",
+          9
+        ],
+        [
+          "objeto_temporario",
+          9
+        ]
+      ]
+    },
+    "eval_safe_unchanged": {
+      "n_files": 19,
+      "files_with_token": 0,
+      "file_coverage": 0.0,
+      "total_lines": 2952,
+      "lines_with_token": 0,
+      "line_rate": 0.0,
+      "token_occurrences": 0,
+      "unique_token_types": 0,
+      "top_tokens": []
+    },
+    "train_attack": {
+      "n_files": 1164,
+      "files_with_token": 0,
+      "file_coverage": 0.0,
+      "total_lines": 49769,
+      "lines_with_token": 0,
+      "line_rate": 0.0,
+      "token_occurrences": 0,
+      "unique_token_types": 0,
+      "top_tokens": []
+    },
+    "train_benign": {
+      "n_files": 1,
+      "files_with_token": 0,
+      "file_coverage": 0.0,
+      "total_lines": 10000,
+      "lines_with_token": 0,
+      "line_rate": 0.0,
+      "token_occurrences": 0,
+      "unique_token_types": 0,
+      "top_tokens": []
+    },
+    "trivial_rule_on_eval_60": {
+      "rule": "any obfuscation token => attack",
+      "tp": 36,
+      "fn": 5,
+      "fp": 0,
+      "tn": 19,
+      "accuracy": 0.9167,
+      "attack_recall": 0.878,
+      "safe_false_positive_rate": 0.0
+    },
+    "trivial_rule_train_files_before": {
+      "rule": "any obfuscation token => attack",
+      "tp": 0,
+      "fn": 1164,
+      "fp": 0,
+      "tn": 1,
+      "accuracy": 0.0009,
+      "attack_recall": 0.0,
+      "safe_false_positive_rate": 0.0
+    }
+  },
+  "after": {
+    "eval_attack_unchanged": {
+      "n_files": 41,
+      "files_with_token": 36,
+      "file_coverage": 0.878,
+      "total_lines": 3860,
+      "lines_with_token": 359,
+      "line_rate": 0.093,
+      "token_occurrences": 945,
+      "unique_token_types": 98,
+      "top_tokens": [
+        [
+          "unidade_logico",
+          106
+        ],
+        [
+          "registro_secundario",
+          85
+        ],
+        [
+          "componente_auxiliar",
+          68
+        ],
+        [
+          "registro_comum",
+          46
+        ],
+        [
+          "objeto_ativo",
+          43
+        ],
+        [
+          "tarefa_logico",
+          36
+        ],
+        [
+          "entrada_base",
+          25
+        ],
+        [
+          "entrada_principal",
+          23
+        ],
+        [
+          "unidade_auxiliar",
+          23
+        ],
+        [
+          "tarefa_base",
+          11
+        ],
+        [
+          "tarefa_geral",
+          11
+        ],
+        [
+          "pacote_temporario",
+          10
+        ],
+        [
+          "modulo_temporario",
+          9
+        ],
+        [
+          "objeto_padrao",
+          9
+        ],
+        [
+          "objeto_temporario",
+          9
+        ]
+      ]
+    },
+    "eval_safe_unchanged": {
+      "n_files": 19,
+      "files_with_token": 0,
+      "file_coverage": 0.0,
+      "total_lines": 2952,
+      "lines_with_token": 0,
+      "line_rate": 0.0,
+      "token_occurrences": 0,
+      "unique_token_types": 0,
+      "top_tokens": []
+    },
+    "train_attack_balanced": {
+      "n_files": 1164,
+      "files_with_token": 755,
+      "file_coverage": 0.6486,
+      "total_lines": 49461,
+      "lines_with_token": 4086,
+      "line_rate": 0.0826,
+      "token_occurrences": 4086,
+      "unique_token_types": 98,
+      "top_tokens": [
+        [
+          "unidade_logico",
+          468
+        ],
+        [
+          "registro_secundario",
+          373
+        ],
+        [
+          "componente_auxiliar",
+          286
+        ],
+        [
+          "registro_comum",
+          194
+        ],
+        [
+          "objeto_ativo",
+          175
+        ],
+        [
+          "tarefa_logico",
+          159
+        ],
+        [
+          "unidade_auxiliar",
+          104
+        ],
+        [
+          "entrada_principal",
+          101
+        ],
+        [
+          "entrada_base",
+          95
+        ],
+        [
+          "tarefa_geral",
+          52
+        ],
+        [
+          "tarefa_base",
+          47
+        ],
+        [
+          "elemento_base",
+          44
+        ],
+        [
+          "elemento_temporario",
+          43
+        ],
+        [
+          "objeto_padrao",
+          42
+        ],
+        [
+          "pacote_temporario",
+          39
+        ]
+      ]
+    },
+    "train_benign_balanced": {
+      "n_files": 1,
+      "files_with_token": 1,
+      "file_coverage": 1.0,
+      "total_lines": 10000,
+      "lines_with_token": 926,
+      "line_rate": 0.0926,
+      "token_occurrences": 926,
+      "unique_token_types": 95,
+      "top_tokens": [
+        [
+          "unidade_logico",
+          101
+        ],
+        [
+          "registro_secundario",
+          93
+        ],
+        [
+          "componente_auxiliar",
+          56
+        ],
+        [
+          "tarefa_logico",
+          47
+        ],
+        [
+          "objeto_ativo",
+          46
+        ],
+        [
+          "registro_comum",
+          40
+        ],
+        [
+          "entrada_base",
+          33
+        ],
+        [
+          "entrada_principal",
+          26
+        ],
+        [
+          "unidade_auxiliar",
+          19
+        ],
+        [
+          "elemento_base",
+          16
+        ],
+        [
+          "estrutura_temporario",
+          14
+        ],
+        [
+          "tarefa_base",
+          13
+        ],
+        [
+          "pacote_temporario",
+          11
+        ],
+        [
+          "modulo_temporario",
+          11
+        ],
+        [
+          "elemento_logico",
+          10
+        ]
+      ]
+    },
+    "trivial_rule_on_eval_60_still": {
+      "rule": "any obfuscation token => attack",
+      "tp": 36,
+      "fn": 5,
+      "fp": 0,
+      "tn": 19,
+      "accuracy": 0.9167,
+      "attack_recall": 0.878,
+      "safe_false_positive_rate": 0.0
+    },
+    "trivial_rule_train_files_after": {
+      "rule": "any obfuscation token => attack",
+      "tp": 755,
+      "fn": 409,
+      "fp": 1,
+      "tn": 0,
+      "accuracy": 0.6481,
+      "attack_recall": 0.6486,
+      "safe_false_positive_rate": 1.0
+    }
+  },
+  "injection_log_summary": {
+    "conditions": [
+      {
+        "condition": "train_attacks",
+        "injected_lines": 4110
+      },
+      {
+        "condition": "train_benign",
+        "injected_lines": 930
+      }
+    ]
+  }
+}

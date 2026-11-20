@@ -1,0 +1,35 @@
+{
+  "root": "/Users/fiddelis/Projects/AI-Security-Labs/test 6.0/ml/obfuscation_balanced",
+  "before": {
+    "train_attack": {
+      "json_null": 37597,
+      "lines": 49461,
+      "string_sentinel": 466
+    },
+    "train_benign": {
+      "string_sentinel": 111,
+      "json_null": 9947,
+      "lines": 10000
+    }
+  },
+  "converted": {
+    "train_attack": {
+      "lines": 49461,
+      "string_sentinel_to_null": 466
+    },
+    "train_benign": {
+      "string_sentinel_to_null": 111,
+      "lines": 10000
+    }
+  },
+  "after": {
+    "train_attack": {
+      "json_null": 38063,
+      "lines": 49461
+    },
+    "train_benign": {
+      "json_null": 10058,
+      "lines": 10000
+    }
+  }
+}

@@ -57,13 +57,20 @@ def prepare(source, output):
         raise FileExistsError(f"Use a new data directory: {output}")
     parser, parser_hash = load_parser(source)
     ml = source / "test 6.0/ml"
-    paths = sorted((ml / "attacks").glob("*.jsonl"))
+    # Training may use ML-only copies with class-balanced obfuscation tokens
+    # (balance_obfuscation_tokens.py). Evaluation always uses the same files as
+    # the LLM pipeline (src/data and test 6.0/filtering).
+    balanced_root = ml / "obfuscation_balanced"
+    balanced_attacks = balanced_root / "attacks"
+    attack_dir = balanced_attacks if balanced_attacks.exists() else ml / "attacks"
+    paths = sorted(attack_dir.glob("*.jsonl"))
     if not paths:
         raise ValueError("No historical training attacks found")
     tracked = set(paths)
     records = [{"id": p.name, "label": 1, "text": parser["file_to_document_text"](str(p))}
                for p in paths]
-    benign = ml / "benign/benign.jsonl"
+    balanced_benign = balanced_root / "benign/benign.jsonl"
+    benign = balanced_benign if balanced_benign.exists() else ml / "benign/benign.jsonl"
     tracked.add(benign)
     events = parser["read_jsonl_lines"](str(benign))
     chunk_size = math.ceil(len(events) / 500)
